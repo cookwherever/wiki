@@ -1,12 +1,5 @@
----
-title: baker's caramel
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: baker's caramel
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 baker's caramel = blackjack caramel coloring OR Kitchen Bouquet (saltier) OR browning
 
 ### Other Names

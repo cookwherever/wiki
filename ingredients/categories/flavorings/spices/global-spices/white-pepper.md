@@ -1,13 +1,5 @@
----
-title: white pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- global-spices
----
+- title:: white pepper
+- tags:: unreviewed, ingredients, categories, flavorings, spices, global-spices
 white pepper = white peppercorns pepper.
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: Cantal
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Cantal
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Cantal kahn-TAHL Notes: This French cheese is sweet when young but earthy and grassy when aged. It's a reliable party-pleaser--mild but complex. Substitutes: Cheddar OR Gruyère OR Monterey jack OR Lancashire
 
 ### Other Names

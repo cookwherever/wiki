@@ -1,17 +1,5 @@
----
-title: Texas Spring Sweet
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: Texas Spring Sweet
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 Texas Spring Sweet See sweet onion.
 
 ### Other Names

@@ -1,5 +1,2 @@
----
-title: ovotransferrin
-tags:
-- unreviewed
----
+- title:: ovotransferrin
+- tags:: unreviewed

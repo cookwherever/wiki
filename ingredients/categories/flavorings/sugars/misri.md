@@ -1,12 +1,5 @@
----
-title: misri
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: misri
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 misri Look for bags of these sugar crystals in Indian markets.
 
 ### Other Names

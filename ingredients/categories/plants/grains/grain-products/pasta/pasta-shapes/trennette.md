@@ -1,15 +1,5 @@
----
-title: trennette
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-shapes
----
+- title:: trennette
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-shapes
 trennette Pronunciation: train-NATE-tay Notes: This triangular Italian pasta is similar to trenne, only smaller. Don't confuse this with trenette, which is a long ribbon of pasta. Substitutes: trenne OR penne OR ziti OR mostaccioli
 
 ### Other Names

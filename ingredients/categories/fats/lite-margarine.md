@@ -1,11 +1,5 @@
----
-title: lite margarine
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: lite margarine
+- tags:: unreviewed, ingredients, categories, fats
 lite margarine See margarine.
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: pork top loin chop
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-loin-cuts
----
+- title:: pork top loin chop
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-loin-cuts
 pork top loin chop = center cut loin pork chop = pork strip chop Notes: If boneless, these chops are sometimes called pork loin filets. Substitutes: pork rib chop OR pork loin chop OR pork tenderloin (sliced into chops) OR pork sirloin chop OR pork blade chop
 
 ### Other Names

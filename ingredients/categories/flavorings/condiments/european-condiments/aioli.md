@@ -1,13 +1,5 @@
----
-title: aioli
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: aioli
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 aioli = garlic mayonnaise roasted garlic
 
 ### Other Names

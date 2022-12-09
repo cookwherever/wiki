@@ -1,13 +1,5 @@
----
-title: hie
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- other-grains
----
+- title:: hie
+- tags:: unreviewed, ingredients, categories, plants, grains, other-grains
 hie HEE-uh See quinoa.
 
 ### Other Names

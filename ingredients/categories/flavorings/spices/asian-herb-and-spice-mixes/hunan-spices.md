@@ -1,13 +1,5 @@
----
-title: Hunan spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-herb-and-spice-mixes
----
+- title:: Hunan spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-herb-and-spice-mixes
 Hunan spices See the Hunan Blended Spices posting on RecipeSource.com.
 
 ### Other Names

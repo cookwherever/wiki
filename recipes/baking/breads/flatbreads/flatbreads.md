@@ -1,12 +1,5 @@
----
-title: flatbreads
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
-- flatbreads
----
+- title:: flatbreads
+- tags:: unreviewed, recipes, baking, breads, flatbreads
 
 
 ### Other Names

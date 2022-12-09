@@ -1,9 +1,5 @@
----
-title: cream-cheese
-tags:
-- unreviewed
-- defrosting
----
+- title:: cream-cheese
+- tags:: unreviewed, defrosting
 
 #### How to defrost cheesecake and cream cheese:  
 - The refrigerator method is the best way is to thaw cheesecake and cream cheese.

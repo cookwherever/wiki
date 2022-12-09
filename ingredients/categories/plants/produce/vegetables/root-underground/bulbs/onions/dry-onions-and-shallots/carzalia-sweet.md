@@ -1,17 +1,5 @@
----
-title: Carzalia Sweet
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: Carzalia Sweet
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 Carzalia Sweet See sweet onion.
 
 ### Other Names

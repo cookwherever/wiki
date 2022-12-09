@@ -1,12 +1,5 @@
----
-title: coconut oil
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: coconut oil
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 coconut oil canola oil (much lower in saturated fat) OR corn oil (much lower in saturated fat)
 
 ### Other Names

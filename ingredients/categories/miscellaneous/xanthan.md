@@ -1,11 +1,5 @@
----
-title: xanthan
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: xanthan
+- tags:: unreviewed, ingredients, categories, miscellaneous
 xanthan = xanthan gum ZAN-thun Notes: Derived from corn sugar, xanthan gum is used as a thickener, stabilizer, and emulsifier. Substitutes: guar gum OR pre-gel starch
 
 ### Other Names

@@ -1,8 +1,2 @@
----
-title: eggs
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: eggs
+- tags:: unreviewed, recipes, meal-course, breakfast

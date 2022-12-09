@@ -1,14 +1,5 @@
----
-title: Greve
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Greve
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Greve Swiss
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: snow pea shoots
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: snow pea shoots
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 snow pea shoots Look for these in Asian markets. Substitutes: mung bean sprouts
 
 ### Other Names

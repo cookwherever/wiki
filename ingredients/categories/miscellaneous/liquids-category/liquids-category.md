@@ -1,12 +1,5 @@
----
-title: liquids category
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- liquids-category
----
+- title:: liquids category
+- tags:: unreviewed, ingredients, categories, miscellaneous, liquids-category
 
 
 ### Other Names

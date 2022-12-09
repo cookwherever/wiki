@@ -1,13 +1,5 @@
----
-title: sambal blachan
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: sambal blachan
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 sambal blachan See the recipe for Sambal Blachan on Recipecottage.com
 
 ### Other Names

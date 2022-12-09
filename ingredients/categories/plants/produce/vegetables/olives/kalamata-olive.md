@@ -1,14 +1,5 @@
----
-title: Kalamata olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: Kalamata olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 Kalamata olive = Calamata olive Notes: You can find these popular Greek black olives in most large supermarkets. They're salty and very flavorful. Substitutes: Gaeta olive (This is smaller than a Kalamata.) OR Amphissa
 
 ### Other Names

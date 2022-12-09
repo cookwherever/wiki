@@ -1,14 +1,5 @@
----
-title: fresh chile peppers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: fresh chile peppers
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 
 
 ### Other Names

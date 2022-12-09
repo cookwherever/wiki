@@ -1,14 +1,5 @@
----
-title: coconut shoots
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- stalk-vegetables
----
+- title:: coconut shoots
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, stalk-vegetables
 coconut shoots bamboo shoots (not as sweet)
 
 ### Other Names

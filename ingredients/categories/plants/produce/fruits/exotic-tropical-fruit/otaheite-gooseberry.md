@@ -1,14 +1,5 @@
----
-title: Otaheite gooseberry
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: Otaheite gooseberry
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 Otaheite gooseberry = grosella = cheremai This tart fruit looks and tastes like a gooseberry. Substitutes: gooseberries
 
 ### Other Names

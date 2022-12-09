@@ -1,14 +1,5 @@
----
-title: veal shoulder cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- veal
-- veal-shoulder-cuts
----
+- title:: veal shoulder cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, veal, veal-shoulder-cuts
 
 
 ### Other Names

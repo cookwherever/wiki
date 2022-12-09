@@ -1,13 +1,5 @@
----
-title: lemon pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: lemon pepper
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 lemon pepper Combine lemon zest, black pepper, and a bit of salt.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: curcuma
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- indian-spices
----
+- title:: curcuma
+- tags:: unreviewed, ingredients, categories, flavorings, spices, indian-spices
 curcuma = Indian saffron saffron
 
 ### Other Names

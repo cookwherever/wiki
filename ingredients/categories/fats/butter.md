@@ -1,11 +1,5 @@
----
-title: butter
-tags:
-- reviewed
-- ingredients
-- categories
-- fats
----
+- title:: butter
+- tags:: reviewed, ingredients, categories, fats
 ### Equivalents
 - 1 pound
 - 2 cups

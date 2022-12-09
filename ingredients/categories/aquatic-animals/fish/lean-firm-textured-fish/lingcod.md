@@ -1,13 +1,5 @@
----
-title: lingcod
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: lingcod
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 lingcod cod (flakier texture) ,
 
 ### Other Names

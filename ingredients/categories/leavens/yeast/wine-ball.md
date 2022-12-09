@@ -1,12 +1,5 @@
----
-title: wine ball
-tags:
-- unreviewed
-- ingredients
-- categories
-- leavens
-- yeast
----
+- title:: wine ball
+- tags:: unreviewed, ingredients, categories, leavens, yeast
 wine ball = wine cube These are balls of brewer's yeast that are sold in Asian markets. They're used to make wine.
 
 ### Other Names

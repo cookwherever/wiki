@@ -1,15 +1,5 @@
----
-title: hedgehog mushroom
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fungi
-- mushrooms
----
+- title:: hedgehog mushroom
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fungi, mushrooms
 hedgehog mushroom = sweet tooth mushroom Hedgehog mushrooms are similar to chanterelles in color and flavor. Substitutes: chanterelles OR porcini
 
 ### Other Names

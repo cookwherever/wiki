@@ -1,14 +1,5 @@
----
-title: Asian
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- fruit-vegetables
----
+- title:: Asian
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, fruit-vegetables
 Asian squash
 
 ### Other Names

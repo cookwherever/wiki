@@ -1,13 +1,5 @@
----
-title: firm cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
----
+- title:: firm cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese
 firm cheese = hard cheese = grating cheese
 
 ### Other Names

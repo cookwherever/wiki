@@ -1,13 +1,5 @@
----
-title: fruit category
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
----
+- title:: fruit category
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits
 
 
 ### Other Names

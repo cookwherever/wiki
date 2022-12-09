@@ -1,13 +1,5 @@
----
-title: kacang saus
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: kacang saus
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 kacang saus kecap manis
 
 ### Other Names

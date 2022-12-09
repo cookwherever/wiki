@@ -1,11 +1,5 @@
----
-title: leavening agents
-tags:
-- unreviewed
-- ingredients
-- categories
-- leavens
----
+- title:: leavening agents
+- tags:: unreviewed, ingredients, categories, leavens
 leavening agents = leavening = leaveners
 
 ### Other Names

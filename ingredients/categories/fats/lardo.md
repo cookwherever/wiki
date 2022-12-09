@@ -1,11 +1,5 @@
----
-title: lardo
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: lardo
+- tags:: unreviewed, ingredients, categories, fats
 lardo Notes: This is unrendered pork fat that fearless Italians slice and serve on bread.
 
 ### Other Names

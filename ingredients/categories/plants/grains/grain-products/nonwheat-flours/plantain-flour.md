@@ -1,14 +1,5 @@
----
-title: plantain flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- nonwheat-flours
----
+- title:: plantain flour
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, nonwheat-flours
 plantain flour = fufu flour Nigerians make fufu out of this. Substitutes: gari
 
 ### Other Names

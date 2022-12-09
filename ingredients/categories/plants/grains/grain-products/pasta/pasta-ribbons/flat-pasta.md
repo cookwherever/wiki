@@ -1,15 +1,5 @@
----
-title: flat pasta
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-ribbons
----
+- title:: flat pasta
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-ribbons
 flat pasta = ribbon pasta
 
 ### Other Names

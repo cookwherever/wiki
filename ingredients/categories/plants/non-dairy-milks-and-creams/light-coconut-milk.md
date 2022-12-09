@@ -1,12 +1,5 @@
----
-title: light coconut milk
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- non-dairy-milks-and-creams
----
+- title:: light coconut milk
+- tags:: unreviewed, ingredients, categories, plants, non-dairy-milks-and-creams
 light coconut milk = lite coconut milk equal parts coconut milk and water OR regular coconut milk (higher in highly saturated coconut oil)
 
 ### Other Names

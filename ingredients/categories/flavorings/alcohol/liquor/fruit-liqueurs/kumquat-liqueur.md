@@ -1,14 +1,5 @@
----
-title: kumquat liqueur
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: kumquat liqueur
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 kumquat liqueur This is a liqueur flavored with kumquats. Substitutes: orange liqueur OR mandarine liqueur
 
 ### Other Names

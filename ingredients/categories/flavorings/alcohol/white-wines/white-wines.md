@@ -1,13 +1,5 @@
----
-title: white wines
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- white-wines
----
+- title:: white wines
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, white-wines
 
 
 ### Other Names

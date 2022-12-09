@@ -1,14 +1,5 @@
----
-title: asian rice noodles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- asian-rice-noodles
----
+- title:: asian rice noodles
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, asian-rice-noodles
 
 
 ### Other Names

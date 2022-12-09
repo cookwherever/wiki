@@ -1,17 +1,5 @@
----
-title: Walla Walla onion
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: Walla Walla onion
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 Walla Walla onion See sweet onion.
 
 ### Other Names

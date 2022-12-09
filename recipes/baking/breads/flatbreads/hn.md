@@ -1,12 +1,5 @@
----
-title: h�n�
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
-- flatbreads
----
+- title:: h�n�
+- tags:: unreviewed, recipes, baking, breads, flatbreads
 h�n� = hono = honokakor These Swedish flatbread is made with rye flour and flavored with aniseed and fennel seed.
 
 ### Other Names

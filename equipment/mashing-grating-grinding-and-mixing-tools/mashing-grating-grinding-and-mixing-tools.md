@@ -1,10 +1,5 @@
----
-title: mashing, grating, grinding & mixing tools
-tags:
-- unreviewed
-- equipment
-- mashing-grating-grinding-and-mixing-tools
----
+- title:: mashing, grating, grinding & mixing tools
+- tags:: unreviewed, equipment, mashing-grating-grinding-and-mixing-tools
 
 
 ### Other Names

@@ -1,15 +1,5 @@
----
-title: shoga
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
----
+- title:: shoga
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes
 shoga See ginger root.
 
 ### Other Names

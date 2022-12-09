@@ -1,12 +1,5 @@
----
-title: grains category
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- grains
----
+- title:: grains category
+- tags:: reviewed, ingredients, categories, plants, grains
 
 ### Varieties
 * rice - [[rice]]

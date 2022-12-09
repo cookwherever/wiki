@@ -1,13 +1,5 @@
----
-title: american herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: american herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 
 
 ### Other Names

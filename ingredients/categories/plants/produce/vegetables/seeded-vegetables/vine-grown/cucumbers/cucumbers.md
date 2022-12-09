@@ -1,16 +1,5 @@
----
-title: cucumbers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- vine-grown
-- cucumbers
----
+- title:: cucumbers
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, vine-grown, cucumbers
 
 
 ### Other Names

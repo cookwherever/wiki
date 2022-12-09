@@ -1,14 +1,5 @@
----
-title: B&B
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- herbal-liqueurs
----
+- title:: B&B
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, herbal-liqueurs
 B&B = B & B = B and B B�n�dictine liqueur is a tad too sweet for many people, so it's common to cut it with brandy. Noting this, the producers of B�n�dictine decided to produce their own blend. To make your own: Combine equal parts B�n�dictine and brandy. Substitutes: B�n�dictine,
 
 ### Other Names

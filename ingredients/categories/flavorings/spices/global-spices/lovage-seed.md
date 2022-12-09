@@ -1,13 +1,5 @@
----
-title: lovage seed
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- global-spices
----
+- title:: lovage seed
+- tags:: unreviewed, ingredients, categories, flavorings, spices, global-spices
 lovage seed celery seed
 
 ### Other Names

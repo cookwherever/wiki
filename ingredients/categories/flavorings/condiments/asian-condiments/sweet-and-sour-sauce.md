@@ -1,13 +1,5 @@
----
-title: sweet and sour sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: sweet and sour sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 sweet and sour sauce Visit the Sweet and Sour Sauce recipe posting on the RecipeSource.com site.
 
 ### Other Names

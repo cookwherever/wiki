@@ -1,14 +1,5 @@
----
-title: yogurt cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- fresh-cheeses
----
+- title:: yogurt cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, fresh-cheeses
 ### Notes
 - Soft and tangy
 - Can be used to substitute [[ingredients/categories/land-animals/dairy/cheese/fresh-cheeses/cream-cheese|cream cheese]]

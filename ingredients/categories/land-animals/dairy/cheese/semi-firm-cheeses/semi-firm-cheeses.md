@@ -1,14 +1,5 @@
----
-title: semi-firm cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: semi-firm cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 
 
 ### Other Names

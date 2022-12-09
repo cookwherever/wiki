@@ -1,13 +1,5 @@
----
-title: pickles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickles
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 
 
 ### Other Names

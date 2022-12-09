@@ -1,15 +1,5 @@
----
-title: quadrefiore
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-shapes
----
+- title:: quadrefiore
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-shapes
 quadrefiore penne
 
 ### Other Names

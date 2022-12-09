@@ -1,14 +1,5 @@
----
-title: miscellaneous liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: miscellaneous liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 
 
 ### Other Names

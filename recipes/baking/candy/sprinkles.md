@@ -1,11 +1,5 @@
----
-title: sprinkles
-tags:
-- unreviewed
-- recipes
-- baking
-- candy
----
+- title:: sprinkles
+- tags:: unreviewed, recipes, baking, candy
 sprinkles These are small candies that are sprinkled on cakes and cookies. Varieties includes nonpareils, drag�es, snowflakes, and jimmies.
 
 ### Other Names

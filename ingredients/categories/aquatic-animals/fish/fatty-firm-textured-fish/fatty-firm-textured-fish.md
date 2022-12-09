@@ -1,13 +1,5 @@
----
-title: fatty, firm-textured fish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: fatty, firm-textured fish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 
 
 ### Other Names

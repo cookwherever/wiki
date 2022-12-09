@@ -1,13 +1,5 @@
----
-title: musk lime juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: musk lime juice
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 musk lime juice = musklime juice
 
 ### Other Names

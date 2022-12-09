@@ -1,10 +1,5 @@
----
-title: cocktail strainer
-tags:
-- equipment
-- unreviewed
-- bar-equipment
----
+- title:: cocktail strainer
+- tags:: equipment, unreviewed, bar-equipment
 ### Other Names
 * bar strainer
 

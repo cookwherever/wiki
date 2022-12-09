@@ -1,10 +1,5 @@
----
-title: chapter-1
-tags:
-- unreviewed
-- books
-- the-food-lab
----
+- title:: chapter-1
+- tags:: unreviewed, books, the-food-lab
 # 1 Eggs, Dairy, and the Science of Breakfast
 
 ## Eggs

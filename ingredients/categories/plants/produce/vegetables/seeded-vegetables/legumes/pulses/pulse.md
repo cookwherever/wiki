@@ -1,16 +1,5 @@
----
-title: Pulse
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
----
+- title:: Pulse
+- tags:: reviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses
 * An edible seed from a legume plant
 * Deficient in [[tryptophan]], essential amino acid, high in [[lysine]]
 * Pairing with [[rice]] will create a complete protein.

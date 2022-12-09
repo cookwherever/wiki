@@ -1,15 +1,5 @@
----
-title: bigoli
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-rods
----
+- title:: bigoli
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-rods
 bigoli BEE-go-lee Notes: This Venetian pasta resembles thick spaghetti, only it has a rough surface to better absorb flavorful sauces. It's good with shellfish, beans, or hearty meat sauces. Substitutes: spaghetti OR vermicelloni
 
 ### Other Names

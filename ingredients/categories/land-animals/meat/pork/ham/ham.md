@@ -1,14 +1,5 @@
----
-title: ham
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- ham
----
+- title:: ham
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, ham
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: olives
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: olives
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 A staple of Mediterranean cuisines, olives are most often eaten out of hand, though cooks also use them to flavor everything from pizzas to martinis. Raw olives must be cured before they can be eaten, and the curing medium--usually lye, brine, or salt--affects their flavor and texture. So too does the olive's degree of ripeness when it's picked. Green olives are picked while unripe, which makes them denser and more bitter than brown or black olives, which stay on the tree until fully ripened. Olives become bitter if they're cooked too long, so always add them to hot dishes at the last minute. Opened cans or jars of olives should be refrigerated, but some olives can be stored at room temperature if they're submerged in brine or olive oil.
 
 ### Other Names

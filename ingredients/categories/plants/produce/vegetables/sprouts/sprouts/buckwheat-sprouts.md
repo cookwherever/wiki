@@ -1,14 +1,5 @@
----
-title: buckwheat sprouts
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: buckwheat sprouts
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 buckwheat sprouts alfalfa sprouts
 
 ### Other Names

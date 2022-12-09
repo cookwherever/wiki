@@ -1,10 +1,5 @@
----
-title: The Basic Pantry
-tags:
-- reviewed
-- books
-- the-food-lab
----
+- title:: The Basic Pantry
+- tags:: reviewed, books, the-food-lab
 # Refrigerated Goods
 
 ## Fridge Organization Tips

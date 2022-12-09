@@ -1,12 +1,5 @@
----
-title: alcohol
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
----
+- title:: alcohol
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol
 
 Alcohol 
 

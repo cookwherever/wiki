@@ -1,13 +1,5 @@
----
-title: rye
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- rye
----
+- title:: rye
+- tags:: unreviewed, ingredients, categories, plants, grains, rye
 Rye isn't as nutritious as other grains, but it's hardy enough to grow in very cold climates. This has made it a staple of Northern Europeans, who use it to make breads, crackers, and whiskey. It has a distinctive, hearty flavor that's best when combined with other assertive ingredients. triticale
 
 ### Tips

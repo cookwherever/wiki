@@ -1,14 +1,5 @@
----
-title: red wines
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- wine
-- red-wines
----
+- title:: red wines
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, wine, red-wines
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: pasilla chile
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: pasilla chile
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 pasilla chile = chile negro = pasilla negro puh-SEE-yuh Notes: This is the dried version of the chilaca chile. It's long, black, and wrinkled, and a standard ingredient in mole sauces. Ancho chiles are sometimes mislabeled as pasillas. Substitutes: ancho chile (sweeter) OR mulato chile (stronger, earthier flavor)
 
 ### Other Names

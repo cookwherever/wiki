@@ -1,15 +1,5 @@
----
-title: indian
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- indian
----
+- title:: indian
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, indian
 
 
 ### Other Names

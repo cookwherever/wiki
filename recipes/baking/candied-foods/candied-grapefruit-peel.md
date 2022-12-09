@@ -1,11 +1,5 @@
----
-title: candied grapefruit peel
-tags:
-- unreviewed
-- recipes
-- baking
-- candied-foods
----
+- title:: candied grapefruit peel
+- tags:: unreviewed, recipes, baking, candied-foods
 candied grapefruit peel See the candied citrus peel entry.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: other grains
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- other-grains
----
+- title:: other grains
+- tags:: unreviewed, ingredients, categories, plants, grains, other-grains
 
 
 ### Other Names

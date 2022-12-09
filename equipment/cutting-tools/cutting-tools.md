@@ -1,10 +1,5 @@
----
-title: cutting tools
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: cutting tools
+- tags:: equipment, unreviewed, cutting-tools
 ### Varieties
 * [[knife]]
 * [[sharpening-steel]]

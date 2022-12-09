@@ -1,13 +1,5 @@
----
-title: berebere sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- african-condiments
----
+- title:: berebere sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, african-condiments
 berebere sauce Visit the Berebere Marinade recipe posted on RecipeSource.com.
 
 ### Other Names

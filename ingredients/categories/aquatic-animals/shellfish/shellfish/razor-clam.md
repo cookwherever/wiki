@@ -1,12 +1,5 @@
----
-title: razor clam
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: razor clam
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 razor clam Substitutes: (for chowder) chopped geoduck OR quahogs
 
 ### Other Names

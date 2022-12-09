@@ -1,12 +1,5 @@
----
-title: avocado oil
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: avocado oil
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 avocado oil grapeseed oil (for high heat cooking)
 
 ### Other Names

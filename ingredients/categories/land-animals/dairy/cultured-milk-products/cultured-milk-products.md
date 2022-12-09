@@ -1,13 +1,5 @@
----
-title: cultured milk products
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: cultured milk products
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: poteen
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
----
+- title:: poteen
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor
 poteen whiskey
 
 ### Other Names

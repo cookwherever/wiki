@@ -1,11 +1,5 @@
----
-title: Gluten Free Bread
-tags:
-- unreviewed
-- recipes
-- baking
-- bread
----
+- title:: Gluten Free Bread
+- tags:: unreviewed, recipes, baking, bread
 
 Notes:
 * Soaking grains make the starches softer

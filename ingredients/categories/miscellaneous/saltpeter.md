@@ -1,11 +1,5 @@
----
-title: saltpeter
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: saltpeter
+- tags:: unreviewed, ingredients, categories, miscellaneous
 saltpeter = potassium nitrate = saltpetre = potassium salt This is sometimes used in curing rubs for meats. Look for it in drug stores.
 
 ### Other Names

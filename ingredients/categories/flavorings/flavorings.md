@@ -1,12 +1,5 @@
----
-title: Flavorings
-tags:
-- reviewed
-- unreviewed
-- ingredients
-- categories
-- flavorings
----
+- title:: Flavorings
+- tags:: reviewed, unreviewed, ingredients, categories, flavorings
 
 Flavorings are "sidekick" ingredients that are typically added in lower quantities to a recipe, but play an important part in making a dish taste interesting. 
 

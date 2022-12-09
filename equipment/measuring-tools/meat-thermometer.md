@@ -1,10 +1,5 @@
----
-title: meat thermometer
-tags:
-- unreviewed
-- equipment
-- measuring-tools
----
+- title:: meat thermometer
+- tags:: unreviewed, equipment, measuring-tools
 meat thermometer refrigerator thermometer = freezer thermometer shot glass
 
 ### Other Names

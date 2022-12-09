@@ -1,14 +1,5 @@
----
-title: Caciotta
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Caciotta
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Caciotta = Casciotta kah-CHOH-tah Notes: This mild Italian cheese is made with a blend of sheep's milk and cow's milk cheese.
 
 ### Other Names

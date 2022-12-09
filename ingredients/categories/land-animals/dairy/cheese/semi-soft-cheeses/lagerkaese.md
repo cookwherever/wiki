@@ -1,14 +1,5 @@
----
-title: Lagerkaese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Lagerkaese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 Lagerkaese Substitutes: Brick OR Limburger (softer, stronger flavor)
 
 ### Other Names

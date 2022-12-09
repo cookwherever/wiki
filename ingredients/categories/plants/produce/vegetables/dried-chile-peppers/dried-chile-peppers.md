@@ -1,14 +1,5 @@
----
-title: dried chile peppers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: dried chile peppers
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 
 
 ### Other Names

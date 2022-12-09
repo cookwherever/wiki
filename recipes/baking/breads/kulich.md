@@ -1,11 +1,5 @@
----
-title: kulich
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: kulich
+- tags:: unreviewed, recipes, baking, breads
 kulich = Russian Easter bread KOO-litch Notes: Russians serve this rich, sweetened yeast bread at Easter. It typically has raisins in it and icing on top. Substitutes: panettone OR brioche OR Kugelhopf
 
 ### Other Names

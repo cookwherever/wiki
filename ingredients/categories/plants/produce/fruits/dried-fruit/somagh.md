@@ -1,14 +1,5 @@
----
-title: somagh
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: somagh
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 somagh See sumac berries.
 
 ### Other Names

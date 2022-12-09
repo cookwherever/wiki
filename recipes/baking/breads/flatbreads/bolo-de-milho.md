@@ -1,12 +1,5 @@
----
-title: bolo de milho
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
-- flatbreads
----
+- title:: bolo de milho
+- tags:: unreviewed, recipes, baking, breads, flatbreads
 bolo de milho This is a Brazilian corn cake. Substitutes: corn tortilla
 
 ### Other Names

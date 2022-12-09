@@ -1,13 +1,5 @@
----
-title: cold cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- cold-cuts
----
+- title:: cold cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, cold-cuts
 These are precooked sausages or meat loaves that are usually served cold in sandwiches or on party trays. You can buy them already sliced in vacuum packs, or have them sliced to order at a deli counter. Most cold cuts are high in fat and sodium.
 
 ### Other Names

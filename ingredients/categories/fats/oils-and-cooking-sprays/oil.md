@@ -1,12 +1,5 @@
----
-title: oil
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: oil
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 oil shortening (use � more) OR (in baking) fold stiffly beaten egg whites into the batter. OR cooking spray (for greasing pans)
 
 ### Other Names

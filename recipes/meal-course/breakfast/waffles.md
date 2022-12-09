@@ -1,8 +1,2 @@
----
-title: waffles
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: waffles
+- tags:: unreviewed, recipes, meal-course, breakfast

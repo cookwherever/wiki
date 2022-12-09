@@ -1,12 +1,5 @@
----
-title: meats category
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
----
+- title:: meats category
+- tags:: unreviewed, ingredients, categories, land-animals, meat
 
 
 ### Other Names

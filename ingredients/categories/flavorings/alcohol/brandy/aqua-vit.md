@@ -1,13 +1,5 @@
----
-title: aqua vit�
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- brandy
----
+- title:: aqua vit�
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, brandy
 aqua vit� = aqua vitae See brandy.
 
 ### Other Names

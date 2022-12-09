@@ -1,12 +1,5 @@
----
-title: clam juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: clam juice
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 clam juice fish broth (less salty) OR equal parts chicken broth and water
 
 ### Other Names

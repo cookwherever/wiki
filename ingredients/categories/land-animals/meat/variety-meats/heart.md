@@ -1,13 +1,5 @@
----
-title: heart
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- variety-meats
----
+- title:: heart
+- tags:: unreviewed, ingredients, categories, land-animals, meat, variety-meats
 
 
 ### Links

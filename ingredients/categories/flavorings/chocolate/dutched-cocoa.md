@@ -1,12 +1,5 @@
----
-title: Dutched cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: Dutched cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 Dutched cocoa See cocoa.
 
 ### Other Names

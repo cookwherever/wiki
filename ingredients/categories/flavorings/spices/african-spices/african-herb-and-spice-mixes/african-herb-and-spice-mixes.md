@@ -1,14 +1,5 @@
----
-title: african herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- african-spices
-- african-herb-and-spice-mixes
----
+- title:: african herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, african-spices, african-herb-and-spice-mixes
 
 
 ### Other Names

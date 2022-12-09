@@ -1,13 +1,5 @@
----
-title: basa genep
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-herb-and-spice-mixes
----
+- title:: basa genep
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-herb-and-spice-mixes
 basa genep See the Basa Genep posting on RecipeSource.com.
 
 ### Other Names

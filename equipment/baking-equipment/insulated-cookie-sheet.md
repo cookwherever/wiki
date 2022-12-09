@@ -1,10 +1,5 @@
----
-title: insulated cookie sheet
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: insulated cookie sheet
+- tags:: equipment, unreviewed, baking-equipment
 
 ### Substitutes
 - Use two [[cookie-sheet|cookie sheets]]

@@ -1,15 +1,5 @@
----
-title: bergamot
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herbs
----
+- title:: bergamot
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herbs
 bergamot Substitutes: mint
 
 ### Other Names

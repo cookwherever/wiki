@@ -1,14 +1,5 @@
----
-title: Tilsit
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Tilsit
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Substitutes
 - Havarti
 	- not as flavorful

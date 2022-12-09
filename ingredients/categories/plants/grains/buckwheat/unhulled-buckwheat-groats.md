@@ -1,13 +1,5 @@
----
-title: unhulled buckwheat groats
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- buckwheat
----
+- title:: unhulled buckwheat groats
+- tags:: unreviewed, ingredients, categories, plants, grains, buckwheat
 unhulled buckwheat groats These are used for making sprouts.
 
 ### Other Names

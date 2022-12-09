@@ -1,15 +1,5 @@
----
-title: african
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- african
----
+- title:: african
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, african
 
 
 ### Other Names

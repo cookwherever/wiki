@@ -1,15 +1,5 @@
----
-title: Gala apple
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- pomes
-- apples
----
+- title:: Gala apple
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, pomes, apples
 Gala apple This apple is outstanding for eating out of hand or for baking or making applesauce.
 
 ### Other Names

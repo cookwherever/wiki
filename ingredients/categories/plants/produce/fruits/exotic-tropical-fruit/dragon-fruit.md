@@ -1,14 +1,5 @@
----
-title: dragon fruit
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: dragon fruit
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 dragon fruit = strawberry pear
 
 ### Other Names

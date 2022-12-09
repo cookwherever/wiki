@@ -1,14 +1,5 @@
----
-title: zapote blanco
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: zapote blanco
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 zapote blanco See white sapote.
 
 ### Other Names

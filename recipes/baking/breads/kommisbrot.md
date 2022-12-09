@@ -1,11 +1,5 @@
----
-title: kommisbrot
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: kommisbrot
+- tags:: unreviewed, recipes, baking, breads
 kommisbrot This German rye bread has a fine texture and is often thinly sliced.
 
 ### Other Names

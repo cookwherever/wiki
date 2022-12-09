@@ -1,15 +1,5 @@
----
-title: asian herbs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- asian-herbs
----
+- title:: asian herbs
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, asian-herbs
 
 
 ### Other Names

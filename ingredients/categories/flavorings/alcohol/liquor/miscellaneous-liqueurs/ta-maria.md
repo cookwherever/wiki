@@ -1,14 +1,5 @@
----
-title: T�a Maria
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: T�a Maria
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 T�a Maria = Tia Maria
 
 ### Other Names

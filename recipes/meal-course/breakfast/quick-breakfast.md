@@ -1,8 +1,2 @@
----
-title: quick-breakfast
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: quick-breakfast
+- tags:: unreviewed, recipes, meal-course, breakfast

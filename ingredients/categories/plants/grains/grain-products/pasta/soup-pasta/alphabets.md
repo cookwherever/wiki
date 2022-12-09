@@ -1,15 +1,5 @@
----
-title: alphabets
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- soup-pasta
----
+- title:: alphabets
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, soup-pasta
 alphabets = alfabeto These tiny pasta shapes are usually served in a broth or very light soup. Substitutes: other soup pasta
 
 ### Other Names

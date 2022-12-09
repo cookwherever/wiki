@@ -1,15 +1,5 @@
----
-title: Baldwin apple
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- pomes
-- apples
----
+- title:: Baldwin apple
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, pomes, apples
 Baldwin apple Notes: This is a fairly sweet, all-purpose apple, but it's hard to find.
 
 ### Other Names

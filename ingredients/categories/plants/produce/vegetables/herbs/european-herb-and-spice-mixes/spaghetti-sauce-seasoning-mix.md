@@ -1,15 +1,5 @@
----
-title: spaghetti sauce seasoning mix
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herb-and-spice-mixes
----
+- title:: spaghetti sauce seasoning mix
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herb-and-spice-mixes
 spaghetti sauce seasoning mix To make your own: See the RecipeSource.com posting Homemade Spaghetti Seasoning Mix
 
 ### Other Names

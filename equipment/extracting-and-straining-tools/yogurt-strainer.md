@@ -1,10 +1,5 @@
----
-title: yogurt strainer
-tags:
-- unreviewed
-- equipment
-- extracting-and-straining-tools
----
+- title:: yogurt strainer
+- tags:: unreviewed, equipment, extracting-and-straining-tools
 yogurt strainer Notes: This fine-meshed strainer is used to drain off the whey from yogurt in order to make yogurt cheese. Substitutes: Line a colander with several folds of cheesecloth or fine cloth.
 
 ### Other Names

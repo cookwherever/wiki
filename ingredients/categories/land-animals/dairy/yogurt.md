@@ -1,12 +1,5 @@
----
-title: yogurt
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
----
+- title:: yogurt
+- tags:: reviewed, ingredients, categories, land-animals, dairy
 
 ### Substitutes
 * [[sour-cream]] (This is higher in fat and calories, but less likely to curdle if boiled with an acidic ingredient.)

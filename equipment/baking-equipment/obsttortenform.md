@@ -1,10 +1,5 @@
----
-title: obsttortenform
-tags:
-- unreviewed
-- equipment
-- baking-equipment
----
+- title:: obsttortenform
+- tags:: unreviewed, equipment, baking-equipment
 ### Notes
 - Depression in the middle can hold fillings
 

@@ -1,14 +1,5 @@
----
-title: black pasta
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
----
+- title:: black pasta
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta
 black pasta = squid-ink pasta = pasta nera Notes: This is pasta flavored with squid or cuttlefish ink, which turns it black. It's best served with shellfish.
 
 ### Other Names

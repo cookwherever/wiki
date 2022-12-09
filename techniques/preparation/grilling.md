@@ -1,10 +1,5 @@
----
-title: Grilling
-tags:
-- unreviewed
-- techniques
-- preparation
----
+- title:: Grilling
+- tags:: unreviewed, techniques, preparation
 
 - Throw on extra food while grilling to get the most value out of the briquettes
 

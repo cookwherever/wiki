@@ -1,13 +1,5 @@
----
-title: american condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- american-condiments
----
+- title:: american condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, american-condiments
 
 
 ### Other Names

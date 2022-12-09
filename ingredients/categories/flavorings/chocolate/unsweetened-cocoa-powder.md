@@ -1,12 +1,5 @@
----
-title: unsweetened cocoa powder
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: unsweetened cocoa powder
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 unsweetened cocoa powder See cocoa.
 
 ### Other Names

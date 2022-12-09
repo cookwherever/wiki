@@ -1,15 +1,5 @@
----
-title: european herbs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herbs
----
+- title:: european herbs
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herbs
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: mamey
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: mamey
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 mamey See mamey sapote.
 
 ### Other Names

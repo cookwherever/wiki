@@ -1,13 +1,5 @@
----
-title: cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
----
+- title:: cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese
 
 ### Notes
 * Fat suspended in a watery medium (an [[emulsion]]) with the help of proteins to make a mesh network to hold it together

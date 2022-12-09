@@ -1,13 +1,5 @@
----
-title: acorn starch
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-flours-and-meals
----
+- title:: acorn starch
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-flours-and-meals
 acorn starch Look for this in Korean markets.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: hispanic herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- hispanic-herb-and-spice-mixes
----
+- title:: hispanic herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, hispanic-herb-and-spice-mixes
 
 
 ### Other Names

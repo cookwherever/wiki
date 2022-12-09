@@ -1,15 +1,5 @@
----
-title: carambola
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- tropical
-- common-tropical-fruit
----
+- title:: carambola
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, tropical, common-tropical-fruit
 carambola kah-rahm-BOH-luh See star fruit.
 
 ### Other Names

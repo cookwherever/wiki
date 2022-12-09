@@ -1,14 +1,5 @@
----
-title: cibol
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- green-onions-and-leeks
----
+- title:: cibol
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, green-onions-and-leeks
 cibol green onion.
 
 ### Other Names

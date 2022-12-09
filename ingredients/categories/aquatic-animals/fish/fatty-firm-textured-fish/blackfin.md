@@ -1,13 +1,5 @@
----
-title: blackfin
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: blackfin
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 blackfin See tuna.
 
 ### Other Names

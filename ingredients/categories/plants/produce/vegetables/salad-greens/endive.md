@@ -1,14 +1,5 @@
----
-title: endive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- salad-greens
----
+- title:: endive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, salad-greens
 endive This category includes Belgian endive, curly endive, frisee, and escarole.
 
 ### Other Names

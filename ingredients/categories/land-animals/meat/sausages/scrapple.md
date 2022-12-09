@@ -1,13 +1,5 @@
----
-title: scrapple
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: scrapple
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 scrapple A Pennsylvania Dutch specialty, this is a mixture of sausage and cornmeal. It's often slowly fried and served with eggs and grits. Substitutes: goetta OR bacon (as a side dish to eggs)
 
 ### Other Names

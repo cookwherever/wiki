@@ -1,12 +1,5 @@
----
-title: demerara sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: demerara sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 demerara sugar = demerera sugar turbinado sugar OR granulated sugar OR light brown sugar
 
 ### Other Names

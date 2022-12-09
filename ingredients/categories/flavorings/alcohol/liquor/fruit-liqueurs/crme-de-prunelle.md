@@ -1,14 +1,5 @@
----
-title: cr�me de prunelle
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: cr�me de prunelle
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 cr�me de prunelle = creme de prunelle KREM de prew-NELL Notes: This is a cr�me liqueur that's flavored with sloe berries. Substitutes: sloe gin OR plum brandy (not as sweet)
 
 ### Other Names

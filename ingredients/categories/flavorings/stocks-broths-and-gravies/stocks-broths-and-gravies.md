@@ -1,12 +1,5 @@
----
-title: stocks, broths & gravies
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: stocks, broths & gravies
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 
 
 ### Other Names

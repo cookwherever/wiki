@@ -1,18 +1,5 @@
----
-title: European soldier bean
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- dry-beans
----
+- title:: European soldier bean
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, dry-beans
 European soldier bean = red eye bean navy beans
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: thickeners
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- thickeners
----
+- title:: thickeners
+- tags:: unreviewed, ingredients, categories, miscellaneous, thickeners
 thickeners = thickening agents = liaisons Thickeners add substance and body to sauces, stews, soups, puddings, pie fillings, and other dishes.
 
 ### Tips

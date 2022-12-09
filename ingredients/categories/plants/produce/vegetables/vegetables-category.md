@@ -1,13 +1,5 @@
----
-title: vegetables category
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
----
+- title:: vegetables category
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables
 
 
 ### Other Names

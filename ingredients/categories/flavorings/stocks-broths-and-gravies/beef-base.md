@@ -1,12 +1,5 @@
----
-title: beef base
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: beef base
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 beef base beef bouillon cubes (not as flavorful) OR beef broth (no need to add water)
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: Falernum
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- liquid-sweeteners
----
+- title:: Falernum
+- tags:: unreviewed, ingredients, categories, flavorings, liquid-sweeteners
 Falernum This is a Caribbean cane syrup that's delicately flavored and slightly alcoholic. It's sometimes used in rum-based cocktails. Substitutes: simple syrup (less expensive)
 
 ### Other Names

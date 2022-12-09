@@ -1,14 +1,5 @@
----
-title: veal loin cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- veal
-- veal-loin-cuts
----
+- title:: veal loin cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, veal, veal-loin-cuts
 
 
 ### Other Names

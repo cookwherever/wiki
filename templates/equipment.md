@@ -1,6 +1,2 @@
----
-title: equipment
-tags:
-- unreviewed
-- templates
----
+- title:: equipment
+- tags:: unreviewed, templates

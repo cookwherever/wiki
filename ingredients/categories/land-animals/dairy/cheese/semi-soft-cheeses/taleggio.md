@@ -1,14 +1,5 @@
----
-title: Taleggio
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Taleggio
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Substitutes
 - Stracchino
 	- ripened version of taleggio

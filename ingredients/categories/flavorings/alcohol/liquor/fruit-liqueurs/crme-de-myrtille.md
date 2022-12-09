@@ -1,14 +1,5 @@
----
-title: cr�me de myrtille
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: cr�me de myrtille
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 cr�me de myrtille KREM de meer-TEEL Notes: This is a cr�me liqueur that's flavored with blueberries. Substitutes: cr�me de cassis
 
 ### Other Names

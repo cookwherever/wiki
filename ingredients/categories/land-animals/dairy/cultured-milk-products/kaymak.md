@@ -1,13 +1,5 @@
----
-title: kaymak
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: kaymak
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 kaymak = kaimaki clotted cream OR creme fraiche
 
 ### Other Names

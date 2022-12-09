@@ -1,10 +1,5 @@
----
-title: stovetop equipment
-tags:
-- unreviewed
-- equipment
-- stovetop-equipment
----
+- title:: stovetop equipment
+- tags:: unreviewed, equipment, stovetop-equipment
 
 
 ### Other Names

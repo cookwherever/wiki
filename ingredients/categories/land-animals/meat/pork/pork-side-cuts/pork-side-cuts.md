@@ -1,14 +1,5 @@
----
-title: pork side cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-side-cuts
----
+- title:: pork side cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-side-cuts
 
 
 ### Other Names

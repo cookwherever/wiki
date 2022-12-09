@@ -1,14 +1,5 @@
----
-title: fenugreek sprouts
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: fenugreek sprouts
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 fenugreek sprouts mung bean sprouts (thicker, sweeter) OR alfalfa sprouts (sweeter)
 
 ### Other Names

@@ -1,11 +1,5 @@
----
-title: peanut butter chips
-tags:
-- unreviewed
-- recipes
-- baking
-- candy
----
+- title:: peanut butter chips
+- tags:: unreviewed, recipes, baking, candy
 peanut butter chips chocolate chips OR butterscotch chips
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: middle eastern condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- middle-eastern-condiments
----
+- title:: middle eastern condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, middle-eastern-condiments
 
 
 ### Other Names

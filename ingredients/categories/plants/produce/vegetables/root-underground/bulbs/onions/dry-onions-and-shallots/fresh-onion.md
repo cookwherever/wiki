@@ -1,17 +1,5 @@
----
-title: fresh onion
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: fresh onion
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 fresh onion See sweet onion.
 
 ### Other Names

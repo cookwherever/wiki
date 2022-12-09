@@ -1,14 +1,5 @@
----
-title: Punt è Mes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- bitter-liqueurs
----
+- title:: Punt è Mes
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, bitter-liqueurs
 Punt è Mes = Punt e Mes POONT eh MESS Notes: This is a bitter form of red vermouth. It's often mixed with soda. Substitutes: Byrrh OR Cynar OR vermouth OR Fernet Branca OR Campari OR Suze
 
 ### Other Names

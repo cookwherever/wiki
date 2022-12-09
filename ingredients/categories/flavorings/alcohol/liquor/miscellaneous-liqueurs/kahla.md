@@ -1,14 +1,5 @@
----
-title: Kahl�a
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: Kahl�a
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 Kahl�a = Kahlua
 
 ### Other Names

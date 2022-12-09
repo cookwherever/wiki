@@ -1,13 +1,5 @@
----
-title: boudin rouge
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: boudin rouge
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 boudin rouge = red boudin boo-DAHN ROOZH Notes: This Cajun specialty is similar to boudin blanc, except that it also includes pork blood. Use it soon after you buy it. Substitutes: blood sausage OR boudin blanc OR blutwurst
 
 ### Other Names

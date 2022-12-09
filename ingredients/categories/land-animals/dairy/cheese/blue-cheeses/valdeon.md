@@ -1,14 +1,5 @@
----
-title: Valdeon
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- blue-cheeses
----
+- title:: Valdeon
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, blue-cheeses
 ### Notes
 - Spanish blue cheese
 - Pungent, but not overpowering

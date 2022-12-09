@@ -1,14 +1,5 @@
----
-title: crabs
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
-- crustaceans
-- crabs
----
+- title:: crabs
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish, crustaceans, crabs
 
 
 ### Other Names

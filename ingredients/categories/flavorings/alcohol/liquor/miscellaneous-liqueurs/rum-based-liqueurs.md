@@ -1,14 +1,5 @@
----
-title: rum-based liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: rum-based liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 rum-based liqueurs This category includes coconut rum and spiced rum.
 
 ### Other Names

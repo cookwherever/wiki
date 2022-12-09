@@ -1,13 +1,5 @@
----
-title: white poppy seeds
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- indian-spices
----
+- title:: white poppy seeds
+- tags:: unreviewed, ingredients, categories, flavorings, spices, indian-spices
 white poppy seeds = kas-kas Indian cooks use these as a thickener in their curries and as a filling in baked goods. Substitutes: poppy seeds (black)
 
 ### Other Names

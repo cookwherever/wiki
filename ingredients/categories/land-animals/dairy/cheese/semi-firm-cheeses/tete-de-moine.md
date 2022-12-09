@@ -1,14 +1,5 @@
----
-title: Tete de Moine
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Tete de Moine
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 
 ### Notes
 - Swiss

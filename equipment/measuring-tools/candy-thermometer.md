@@ -1,10 +1,5 @@
----
-title: candy thermometer
-tags:
-- unreviewed
-- equipment
-- measuring-tools
----
+- title:: candy thermometer
+- tags:: unreviewed, equipment, measuring-tools
 candy thermometer To measure the temperature of candy syrup without a thermometer, visit the Illinois Cooperative Extension Service's Candy Thermometer Accuracy page
 
 ### Other Names

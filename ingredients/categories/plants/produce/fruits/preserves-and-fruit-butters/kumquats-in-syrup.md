@@ -1,14 +1,5 @@
----
-title: kumquats in syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: kumquats in syrup
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 kumquats in syrup. Substitutes: preserved figs
 
 ### Other Names

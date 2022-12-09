@@ -1,12 +1,5 @@
----
-title: soda water
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- waters-and-sodas
----
+- title:: soda water
+- tags:: unreviewed, ingredients, categories, flavorings, waters-and-sodas
 soda water = club soda = seltzer water = carbonated water
 
 ### Other Names

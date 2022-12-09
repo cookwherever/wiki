@@ -1,14 +1,5 @@
----
-title: Vache Qui Rit
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- processed-cheeses
----
+- title:: Vache Qui Rit
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, processed-cheeses
 ### Notes
 - French
 - Cut as wedges or squares

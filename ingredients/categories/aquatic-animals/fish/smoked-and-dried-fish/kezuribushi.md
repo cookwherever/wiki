@@ -1,13 +1,5 @@
----
-title: kezuribushi
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: kezuribushi
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 kezuribushi See bonito flakes.
 
 ### Other Names

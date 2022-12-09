@@ -1,14 +1,5 @@
----
-title: tepin (tepín)
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: tepin (tepín)
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 tepin (tepín) = chiltpin (chiltpín) = chiltepin (chiltepín) = chiltecpin (chiltecpín) These look a bit like large dried cranberries. They're also sold fresh. Substitutes: pequin OR cascabel OR cayenne
 
 ### Other Names

@@ -1,15 +1,5 @@
----
-title: legumes
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
----
+- title:: legumes
+- tags:: reviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes
 * dried peas - [[dried-peas]]
 * lentils - [[lentils]]
 * dried beans - [[dry-beans]]

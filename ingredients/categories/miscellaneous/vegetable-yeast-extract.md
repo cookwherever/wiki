@@ -1,11 +1,5 @@
----
-title: vegetable yeast extract
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: vegetable yeast extract
+- tags:: unreviewed, ingredients, categories, miscellaneous
 vegetable yeast extract Marmite, Vegemite, and Promite
 
 ### Other Names

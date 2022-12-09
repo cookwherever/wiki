@@ -1,11 +1,5 @@
----
-title: oleomargarine
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: oleomargarine
+- tags:: unreviewed, ingredients, categories, fats
 oleomargarine See margarine.
 
 ### Other Names

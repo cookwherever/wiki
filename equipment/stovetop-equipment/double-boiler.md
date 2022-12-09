@@ -1,10 +1,5 @@
----
-title: double boiler
-tags:
-- unreviewed
-- equipment
-- stovetop-equipment
----
+- title:: double boiler
+- tags:: unreviewed, equipment, stovetop-equipment
 double boiler = bain marie set a heavy pot in a pan half-filled with water OR microwave oven (this is the preferred way to melt chocolate; use medium power)
 
 ### Other Names

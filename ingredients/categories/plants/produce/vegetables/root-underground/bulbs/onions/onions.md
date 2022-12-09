@@ -1,16 +1,5 @@
----
-title: onions
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
----
+- title:: onions
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions
 green onions and leeks
 
 ### Tips

@@ -1,8 +1,2 @@
----
-title: grits
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: grits
+- tags:: unreviewed, recipes, meal-course, breakfast

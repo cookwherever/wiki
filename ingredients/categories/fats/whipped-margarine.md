@@ -1,11 +1,5 @@
----
-title: whipped margarine
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: whipped margarine
+- tags:: unreviewed, ingredients, categories, fats
 whipped margarine See margarine.
 
 ### Other Names

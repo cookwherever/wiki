@@ -1,18 +1,5 @@
----
-title: shelly beans
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- fresh-beans
----
+- title:: shelly beans
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, fresh-beans
 shelly beans = shellies = shuckies = shellouts
 
 ### Other Names

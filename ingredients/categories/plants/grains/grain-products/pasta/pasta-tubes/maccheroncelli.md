@@ -1,15 +1,5 @@
----
-title: maccheroncelli
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-tubes
----
+- title:: maccheroncelli
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-tubes
 maccheroncelli mack-er-own-CHELL-ee Notes: This is a long, tubular pasta. It's good with heavy sauces or in casseroles. Substitutes: perciatelle
 
 ### Other Names

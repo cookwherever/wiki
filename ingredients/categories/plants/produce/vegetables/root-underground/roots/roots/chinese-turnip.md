@@ -1,15 +1,5 @@
----
-title: Chinese turnip
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- roots
----
+- title:: Chinese turnip
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, roots
 Chinese turnip See jicama OR lo bok.
 
 ### Other Names

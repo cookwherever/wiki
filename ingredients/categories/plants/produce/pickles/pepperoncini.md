@@ -1,13 +1,5 @@
----
-title: pepperoncini
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pepperoncini
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pepperoncini = pickled Tuscan peppers = peperoncini pickled cherry peppers,
 
 ### Other Names

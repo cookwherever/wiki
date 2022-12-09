@@ -1,12 +1,5 @@
----
-title: rose water
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- extracts-and-flavoring-oils
----
+- title:: rose water
+- tags:: unreviewed, ingredients, categories, flavorings, extracts-and-flavoring-oils
 rose water = rosewater = ma ward This is distilled from rose petals, and used in the Middle East, North Africa, and India to flavor desserts. Don't confuse this with rose essence, which is more concentrated. Substitutes: orange flower water OR rose syrup (use just a few drops) OR rose essence (use just a few drops) OR almond extract (use less) OR vanilla extract (use less) OR kewra water
 
 ### Other Names

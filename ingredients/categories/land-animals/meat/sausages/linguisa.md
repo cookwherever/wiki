@@ -1,13 +1,5 @@
----
-title: linguisa
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: linguisa
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 linguisa kielbasa OR pepperoni OR chorizo (milder)
 
 ### Other Names

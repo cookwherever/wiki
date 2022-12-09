@@ -1,14 +1,5 @@
----
-title: beef round cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- beef
-- beef-round-cuts
----
+- title:: beef round cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, beef, beef-round-cuts
 The round is a kind term for the rear end of the carcass. Those muscles are well exercised, so round cuts tends to be a bit tougher and leaner than cuts from the loin. Round cuts do well if they're cooked with moist heat, and many of them can also be roasted, as long as they're not overcooked.
 
 ### Other Names

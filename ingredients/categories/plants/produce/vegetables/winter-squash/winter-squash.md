@@ -1,14 +1,5 @@
----
-title: winter squash
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- winter-squash
----
+- title:: winter squash
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, winter-squash
 Winter squash come in many sizes and shapes, but all have hard outer rinds that surround sweet, often orange flesh. Winter squash arrive late in the growing season and they have a long shelf life, so they've long been a staple in winter and spring, when other vegetables are harder to come by. Unlike summer squash, winter squash must be cooked. They're usually baked or steamed, and then sometimes pur�ed. Select squash that are heavy for their size.
 
 ### Other Names

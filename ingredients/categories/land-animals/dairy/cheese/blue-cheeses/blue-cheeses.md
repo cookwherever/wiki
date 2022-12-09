@@ -1,14 +1,5 @@
----
-title: blue cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- blue-cheeses
----
+- title:: blue cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, blue-cheeses
 
 
 ### Other Names

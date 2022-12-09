@@ -1,14 +1,5 @@
----
-title: blush wine
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- wine
-- blush-wine
----
+- title:: blush wine
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, wine, blush-wine
 
 
 ### Other Names

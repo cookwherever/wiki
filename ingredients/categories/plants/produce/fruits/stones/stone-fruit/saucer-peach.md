@@ -1,15 +1,5 @@
----
-title: saucer peach
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- stones
-- stone-fruit
----
+- title:: saucer peach
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, stones, stone-fruit
 saucer peach See peach.
 
 ### Other Names

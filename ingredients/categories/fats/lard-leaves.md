@@ -1,11 +1,5 @@
----
-title: lard leaves
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: lard leaves
+- tags:: unreviewed, ingredients, categories, fats
 lard leaves = barding strips = lardons = leaf lard sliced fatback
 
 ### Other Names

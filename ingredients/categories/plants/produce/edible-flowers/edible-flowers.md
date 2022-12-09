@@ -1,13 +1,5 @@
----
-title: edible flowers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: edible flowers
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 
 
 ### Other Names

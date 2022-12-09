@@ -1,14 +1,5 @@
----
-title: lamuyo
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sweet-peppers
----
+- title:: lamuyo
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sweet-peppers
 lamuyo = European sweet pepper = rouge royal bell pepper (not as sweet or large)
 
 ### Other Names

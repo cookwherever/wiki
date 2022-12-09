@@ -1,13 +1,5 @@
----
-title: five-spice
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- indian-herb-and-spice-mixes
----
+- title:: five-spice
+- tags:: unreviewed, ingredients, categories, flavorings, spices, indian-herb-and-spice-mixes
 five-spice 1. Chinese five-spice powder 2. panch phoron
 
 ### Other Names

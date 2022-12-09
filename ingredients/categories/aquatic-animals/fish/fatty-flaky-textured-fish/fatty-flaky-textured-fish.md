@@ -1,13 +1,5 @@
----
-title: fatty, flaky-textured fish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: fatty, flaky-textured fish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 
 
 ### Other Names

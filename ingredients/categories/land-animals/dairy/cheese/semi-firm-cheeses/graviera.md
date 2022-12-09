@@ -1,14 +1,5 @@
----
-title: Graviera
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Graviera
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Graviera Jarlsberg OR Gruyère
 
 ### Other Names

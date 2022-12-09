@@ -1,13 +1,5 @@
----
-title: black pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- global-spices
----
+- title:: black pepper
+- tags:: unreviewed, ingredients, categories, flavorings, spices, global-spices
 black pepper = black peppercorns pepper.
 
 ### Other Names

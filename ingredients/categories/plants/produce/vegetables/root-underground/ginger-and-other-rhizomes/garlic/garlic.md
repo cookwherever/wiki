@@ -1,16 +1,5 @@
----
-title: garlic
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
-- garlic
----
+- title:: garlic
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes, garlic
 
 
 ### Other Names

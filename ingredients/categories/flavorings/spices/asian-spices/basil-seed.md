@@ -1,13 +1,5 @@
----
-title: basil seed
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-spices
----
+- title:: basil seed
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-spices
 basil seed = sweet basil seed Look for it in Southeast Asian markets.
 
 ### Other Names

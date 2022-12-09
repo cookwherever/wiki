@@ -1,14 +1,5 @@
----
-title: Teleme
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- soft-cheeses
----
+- title:: Teleme
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, soft-cheeses
 ### Notes
 - California cheese
 - mild, nutty flavor

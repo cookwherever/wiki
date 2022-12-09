@@ -1,15 +1,5 @@
----
-title: Zante grapes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- small
-- berries
----
+- title:: Zante grapes
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, small, berries
 Zante grapes = champagne grapes These clusters of tiny grapes are often used as a garnish. Substitutes: other garnish
 
 ### Other Names

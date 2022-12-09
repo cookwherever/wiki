@@ -1,15 +1,5 @@
----
-title: Chinese chives
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- asian-herbs
----
+- title:: Chinese chives
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, asian-herbs
 Chinese chives = gow choy = garlic chives = ku chai Notes: Unlike regular chives, these have flat leaves and a distinct garlicky flavor. Substitutes: garlic shoots OR chives (not as pungent as Chinese chives) OR flowering chives
 
 ### Other Names

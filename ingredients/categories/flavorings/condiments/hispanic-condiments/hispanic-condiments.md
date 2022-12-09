@@ -1,13 +1,5 @@
----
-title: hispanic condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- hispanic-condiments
----
+- title:: hispanic condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, hispanic-condiments
 
 
 ### Other Names

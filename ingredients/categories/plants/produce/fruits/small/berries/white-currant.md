@@ -1,15 +1,5 @@
----
-title: white currant
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- small
-- berries
----
+- title:: white currant
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, small, berries
 white currant KER-unt Substitutes: red currant
 
 ### Other Names

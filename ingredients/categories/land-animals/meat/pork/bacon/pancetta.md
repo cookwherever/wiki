@@ -1,14 +1,5 @@
----
-title: pancetta
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- bacon
----
+- title:: pancetta
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, bacon
 pan-SHEH-tuh
 
 ### Notes

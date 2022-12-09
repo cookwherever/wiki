@@ -1,13 +1,5 @@
----
-title: sunflower butter
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-pastes
----
+- title:: sunflower butter
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-pastes
 sunflower butter sesame seed paste
 
 ### Other Names

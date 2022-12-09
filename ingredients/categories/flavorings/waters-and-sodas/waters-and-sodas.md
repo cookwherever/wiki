@@ -1,12 +1,5 @@
----
-title: waters & sodas
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- waters-and-sodas
----
+- title:: waters & sodas
+- tags:: unreviewed, ingredients, categories, flavorings, waters-and-sodas
 
 
 ### Other Names

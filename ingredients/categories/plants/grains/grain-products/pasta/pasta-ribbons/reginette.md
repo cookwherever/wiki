@@ -1,15 +1,5 @@
----
-title: reginette
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-ribbons
----
+- title:: reginette
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-ribbons
 reginette = reginelle These wide ribbons of Italian pasta have ruffled edges. Substitutes: papardelle OR tagliatelle
 
 ### Other Names

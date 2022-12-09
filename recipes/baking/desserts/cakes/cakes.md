@@ -1,12 +1,5 @@
----
-title: cakes
-tags:
-- unreviewed
-- recipes
-- baking
-- desserts
-- cakes
----
+- title:: cakes
+- tags:: unreviewed, recipes, baking, desserts, cakes
 
 
 ### Other Names

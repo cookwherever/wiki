@@ -1,12 +1,5 @@
----
-title: sea slug
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: sea slug
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 sea slug = sea cucumber = beche-de-mer (comes dried or fresh)
 
 ### Other Names

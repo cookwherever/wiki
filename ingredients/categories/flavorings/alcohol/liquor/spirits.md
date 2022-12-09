@@ -1,13 +1,5 @@
----
-title: spirits
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
----
+- title:: spirits
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor
 spirits = hard alcohol = booze = hard liquor
 
 ### Other Names

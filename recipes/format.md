@@ -1,9 +1,5 @@
----
-title: Format of Recipes
-tags:
-- unreviewed
-- recipes
----
+- title:: Format of Recipes
+- tags:: unreviewed, recipes
 
 Recipes take [[diets]] and transform them into a new food.
 

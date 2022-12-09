@@ -1,14 +1,5 @@
----
-title: preserves & fruit butters
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: preserves & fruit butters
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 
 
 ### Other Names

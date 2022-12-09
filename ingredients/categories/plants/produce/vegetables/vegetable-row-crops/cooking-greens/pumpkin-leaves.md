@@ -1,15 +1,5 @@
----
-title: pumpkin leaves
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- vegetable-row-crops
-- cooking-greens
----
+- title:: pumpkin leaves
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, vegetable-row-crops, cooking-greens
 pumpkin leaves = pumpkin greens Substitutes: Swiss chard OR turnip greens OR chicory OR spinach
 
 ### Other Names

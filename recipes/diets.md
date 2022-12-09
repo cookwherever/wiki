@@ -1,8 +1,4 @@
----
-title: Diets
-tags:
-- unreviewed
-- recipes
----
+- title:: Diets
+- tags:: unreviewed, recipes
 
 [[format]]

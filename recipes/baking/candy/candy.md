@@ -1,11 +1,5 @@
----
-title: candy
-tags:
-- unreviewed
-- recipes
-- baking
-- candy
----
+- title:: candy
+- tags:: unreviewed, recipes, baking, candy
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: miscellaneous veal cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- veal
-- miscellaneous-veal-cuts
----
+- title:: miscellaneous veal cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, veal, miscellaneous-veal-cuts
 
 
 ### Other Names

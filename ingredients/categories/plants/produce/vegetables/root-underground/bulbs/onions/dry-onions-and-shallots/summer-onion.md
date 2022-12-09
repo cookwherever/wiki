@@ -1,17 +1,5 @@
----
-title: summer onion
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: summer onion
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 summer onion See sweet onion.
 
 ### Other Names

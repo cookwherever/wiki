@@ -1,13 +1,5 @@
----
-title: pizza spice
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: pizza spice
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 pizza spice = pizza pepper Italian seasoning,
 
 ### Other Names

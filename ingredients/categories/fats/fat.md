@@ -1,11 +1,5 @@
----
-title: fat
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: fat
+- tags:: unreviewed, ingredients, categories, fats
 fat = solid fat
 
 ### Other Names

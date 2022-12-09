@@ -1,15 +1,5 @@
----
-title: thimbleberry
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- small
-- berries
----
+- title:: thimbleberry
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, small, berries
 thimbleberry raspberry
 
 ### Other Names

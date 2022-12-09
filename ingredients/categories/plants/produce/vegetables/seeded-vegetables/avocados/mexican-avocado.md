@@ -1,15 +1,5 @@
----
-title: Mexican avocado
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- avocados
----
+- title:: Mexican avocado
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, avocados
 With their small size and shiny black skins, these look like elongated plums. You can eat them, skin and all.
 
 ### Other Names

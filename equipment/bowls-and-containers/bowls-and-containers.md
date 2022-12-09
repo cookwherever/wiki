@@ -1,10 +1,5 @@
----
-title: bowls & containers
-tags:
-- equipment
-- unreviewed
-- bowls-and-containers
----
+- title:: bowls & containers
+- tags:: equipment, unreviewed, bowls-and-containers
 
 ### Other Names
 

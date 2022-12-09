@@ -1,15 +1,5 @@
----
-title: pomes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- pomes
-- pome-fruit
----
+- title:: pomes
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, pomes, pome-fruit
 pomes = false fruit
 
 ### Other Names

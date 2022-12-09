@@ -1,13 +1,5 @@
----
-title: spiny eel
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: spiny eel
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 spiny eel In the United States, you're more likely to find these in an aquarium that in a supermarket, but Southeast Asians consider them a delicacy.
 
 ### Other Names

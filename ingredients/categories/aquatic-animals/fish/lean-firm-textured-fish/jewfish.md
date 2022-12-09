@@ -1,13 +1,5 @@
----
-title: jewfish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: jewfish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 jewfish See grouper.
 
 ### Other Names

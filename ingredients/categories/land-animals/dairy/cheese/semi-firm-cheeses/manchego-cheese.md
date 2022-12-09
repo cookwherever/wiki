@@ -1,14 +1,5 @@
----
-title: Manchego cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Manchego cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Manchego cheese Don't confuse this with aged Manchego cheese, which is firm and yellow, and typically used for grating. Younger Manchego cheese is sweet and nutty. It melts nicely and is often used in quesadillas. Substitutes: Monterey jack OR mozzarella OR cheddar
 
 ### Other Names

@@ -1,8 +1,5 @@
----
-title: inbox
-tags:
-- unreviewed
----
+- title:: inbox
+- tags:: unreviewed
 
 * How to make sous vide steaks
 	* Time + temp

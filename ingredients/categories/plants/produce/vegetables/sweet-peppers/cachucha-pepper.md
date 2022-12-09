@@ -1,14 +1,5 @@
----
-title: cachucha pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sweet-peppers
----
+- title:: cachucha pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sweet-peppers
 cachucha pepper = rocatillo = aji dulce bell pepper
 
 ### Other Names

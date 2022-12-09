@@ -1,14 +1,5 @@
----
-title: pork shoulder cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-shoulder-cuts
----
+- title:: pork shoulder cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-shoulder-cuts
 
 
 ### Other Names

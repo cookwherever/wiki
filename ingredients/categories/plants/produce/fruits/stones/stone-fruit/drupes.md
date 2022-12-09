@@ -1,15 +1,5 @@
----
-title: drupes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- stones
-- stone-fruit
----
+- title:: drupes
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, stones, stone-fruit
 drupes = summer fruit
 
 ### Other Names

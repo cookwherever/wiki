@@ -1,14 +1,5 @@
----
-title: Tzfati
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- firm-cheeses
----
+- title:: Tzfati
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, firm-cheeses
 ### Substitutions
 - [[parmesan]]
 

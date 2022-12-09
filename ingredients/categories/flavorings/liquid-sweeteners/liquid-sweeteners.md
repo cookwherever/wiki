@@ -1,12 +1,5 @@
----
-title: liquid sweeteners
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- liquid-sweeteners
----
+- title:: liquid sweeteners
+- tags:: unreviewed, ingredients, categories, flavorings, liquid-sweeteners
 liquid sweeteners This category includes various syrups, honey, and molasses.
 
 ### Tips

@@ -1,14 +1,5 @@
----
-title: soy products
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- soy-products
----
+- title:: soy products
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, soy-products
 
 
 ### Other Names

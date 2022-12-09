@@ -1,13 +1,5 @@
----
-title: miscellaneous cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- miscellaneous-cuts
----
+- title:: miscellaneous cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, miscellaneous-cuts
 This category includes cuts taken from different parts of the carcass, including ground beef, stew meat, and soup bones.
 
 ### Other Names

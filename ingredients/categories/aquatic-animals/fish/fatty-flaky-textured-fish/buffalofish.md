@@ -1,13 +1,5 @@
----
-title: buffalofish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: buffalofish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 buffalofish = buffalo Substitutes: butterfish OR whitefish
 
 ### Other Names

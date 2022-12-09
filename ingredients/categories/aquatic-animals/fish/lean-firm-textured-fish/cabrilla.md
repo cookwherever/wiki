@@ -1,13 +1,5 @@
----
-title: cabrilla
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: cabrilla
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 cabrilla See grouper.
 
 ### Other Names

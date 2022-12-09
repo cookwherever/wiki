@@ -1,10 +1,5 @@
----
-title: mushroom brush
-tags:
-- equipment
-- unreviewed
-- cleaning-tools
----
+- title:: mushroom brush
+- tags:: equipment, unreviewed, cleaning-tools
 
 ### Substitutes
 * paint brush

@@ -1,12 +1,5 @@
----
-title: smoked salmon roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: smoked salmon roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 smoked salmon roe = smoked salmon caviar salmon roe
 
 ### Other Names

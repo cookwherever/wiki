@@ -1,16 +1,5 @@
----
-title: garlic greens
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
-- garlic
----
+- title:: garlic greens
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes, garlic
 garlic greens = garlic sprouts greens onions + minced garlic,
 
 ### Other Names

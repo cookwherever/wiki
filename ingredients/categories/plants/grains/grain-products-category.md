@@ -1,12 +1,5 @@
----
-title: grain products category
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- grains
----
+- title:: grain products category
+- tags:: reviewed, ingredients, categories, plants, grains
 ### Varieties
 * wheat flours - [[wheat-flours]]
 * non-wheat flours - [[nonwheat-flours]]

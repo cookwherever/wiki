@@ -1,13 +1,5 @@
----
-title: puffed rice
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- grains
-- rice
----
+- title:: puffed rice
+- tags:: reviewed, ingredients, categories, plants, grains, rice
 ### Notes
 - Can be found in Indian markets
 

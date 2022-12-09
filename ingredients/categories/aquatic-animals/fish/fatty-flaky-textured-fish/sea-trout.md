@@ -1,13 +1,5 @@
----
-title: sea trout
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: sea trout
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 sea trout salmon
 
 ### Other Names

@@ -1,8 +1,2 @@
----
-title: pastries
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: pastries
+- tags:: unreviewed, recipes, meal-course, breakfast

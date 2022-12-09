@@ -1,13 +1,5 @@
----
-title: clary
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: clary
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 clary Substitutes: nasturtiums (in salads) OR borage (in salads) OR violet (in salads)
 
 ### Other Names

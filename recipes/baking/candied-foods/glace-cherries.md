@@ -1,11 +1,5 @@
----
-title: glace cherries
-tags:
-- unreviewed
-- recipes
-- baking
-- candied-foods
----
+- title:: glace cherries
+- tags:: unreviewed, recipes, baking, candied-foods
 glace cherries = glacé cherries glah-SAY Includes: red and green versions Substitutes: dried cherries OR dried cranberries
 
 ### Other Names

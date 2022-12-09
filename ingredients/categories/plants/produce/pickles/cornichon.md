@@ -1,13 +1,5 @@
----
-title: cornichon
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: cornichon
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 cornichon sweet gherkins (sweeter) OR dill pickle slices,
 
 ### Other Names

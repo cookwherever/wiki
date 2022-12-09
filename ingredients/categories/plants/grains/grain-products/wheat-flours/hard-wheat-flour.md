@@ -1,14 +1,5 @@
----
-title: hard-wheat flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- wheat-flours
----
+- title:: hard-wheat flour
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, wheat-flours
 hard-wheat flour See bread flour.
 
 ### Other Names

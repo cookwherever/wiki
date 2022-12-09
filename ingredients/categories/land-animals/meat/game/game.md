@@ -1,13 +1,5 @@
----
-title: game
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- game
----
+- title:: game
+- tags:: unreviewed, ingredients, categories, land-animals, meat, game
 
 
 ### Other Names

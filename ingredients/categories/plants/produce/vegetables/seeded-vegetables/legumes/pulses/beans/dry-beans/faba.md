@@ -1,18 +1,5 @@
----
-title: faba
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- dry-beans
----
+- title:: faba
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, dry-beans
 faba See fava bean.
 
 ### Other Names

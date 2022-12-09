@@ -1,13 +1,5 @@
----
-title: turtle
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- game
----
+- title:: turtle
+- tags:: unreviewed, ingredients, categories, land-animals, meat, game
 turtle = cooter Turtle meat is very flavorful though it's somewhat chewy. It often goes into soups. Substitutes: alligator meat OR frog's legs OR lobster
 
 ### Other Names

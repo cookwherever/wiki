@@ -1,15 +1,5 @@
----
-title: mulberry
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- small
-- berries
----
+- title:: mulberry
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, small, berries
 mulberry These are so fragile that almost no markets carry them. Substitutes: blackberry (smaller, not as fragile)
 
 ### Other Names

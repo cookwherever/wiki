@@ -1,13 +1,5 @@
----
-title: Spanish mackerel
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: Spanish mackerel
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 Spanish mackerel = Pacific sierra Sierra OR other mackerel
 
 ### Other Names

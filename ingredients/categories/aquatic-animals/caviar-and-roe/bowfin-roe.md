@@ -1,12 +1,5 @@
----
-title: bowfin roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: bowfin roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 ### Other Names
 * choupique
 

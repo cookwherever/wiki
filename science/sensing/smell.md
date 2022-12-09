@@ -1,10 +1,5 @@
----
-title: Smell
-tags:
-- unreviewed
-- science
-- sensing
----
+- title:: Smell
+- tags:: unreviewed, science, sensing
   
   
 - Smells that enter nose and are "tasted" are Orthonasal Olfaction (aka aroma)

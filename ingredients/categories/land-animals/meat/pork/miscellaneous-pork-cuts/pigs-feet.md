@@ -1,14 +1,5 @@
----
-title: pig's feet
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- miscellaneous-pork-cuts
----
+- title:: pig's feet
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, miscellaneous-pork-cuts
 pig's feet smoked ham hocks
 
 ### Other Names

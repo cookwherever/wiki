@@ -1,12 +1,5 @@
----
-title: Chinese sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: Chinese sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 Chinese sugar = Chinese rock sugar = rock sugar This includes yellow rock sugar = yellow lump sugar (pictured) or clear rock sugar. Substitutes: granulated sugar (sweeter; substitute 1 tablespoon for each Chinese sugar crystal)
 
 ### Other Names

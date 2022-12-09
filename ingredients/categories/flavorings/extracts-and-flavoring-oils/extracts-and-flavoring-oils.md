@@ -1,12 +1,5 @@
----
-title: extracts and flavoring oils
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- extracts-and-flavoring-oils
----
+- title:: extracts and flavoring oils
+- tags:: unreviewed, ingredients, categories, flavorings, extracts-and-flavoring-oils
 
 
 ### Other Names

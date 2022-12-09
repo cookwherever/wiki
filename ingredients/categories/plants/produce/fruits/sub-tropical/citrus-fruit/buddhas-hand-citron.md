@@ -1,15 +1,5 @@
----
-title: Buddha's Hand Citron
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- sub-tropical
-- citrus-fruit
----
+- title:: Buddha's Hand Citron
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, sub-tropical, citrus-fruit
 This fragrant fruit has hardly any flesh, but the peel can be candied.
 
 ### Substitutes

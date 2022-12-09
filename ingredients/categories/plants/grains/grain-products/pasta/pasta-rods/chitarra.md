@@ -1,15 +1,5 @@
----
-title: chitarra
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-rods
----
+- title:: chitarra
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-rods
 chitarra = spaghetti alla chitarra These pasta rods resemble spaghetti, only their cross-sections are square instead of round. They're named after the guitar strings that were traditionally used to cut the pasta. Substitutes: spaghetti OR linguine (wider) OR spaghettini (thinner) OR fettucine (ribbons, not strands)
 
 ### Other Names

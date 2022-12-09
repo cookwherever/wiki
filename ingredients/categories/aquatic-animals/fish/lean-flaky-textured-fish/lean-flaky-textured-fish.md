@@ -1,13 +1,5 @@
----
-title: lean, flaky-textured fish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-flaky-textured-fish
----
+- title:: lean, flaky-textured fish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-flaky-textured-fish
 Tilefish
 
 ### Tips

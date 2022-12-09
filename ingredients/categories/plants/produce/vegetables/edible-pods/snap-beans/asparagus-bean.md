@@ -1,15 +1,5 @@
----
-title: asparagus bean
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- edible-pods
-- snap-beans
----
+- title:: asparagus bean
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, edible-pods, snap-beans
 asparagus bean See yard-long bean or winged bean.
 
 ### Other Names

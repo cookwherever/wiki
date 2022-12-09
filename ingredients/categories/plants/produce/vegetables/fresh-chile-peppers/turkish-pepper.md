@@ -1,14 +1,5 @@
----
-title: Turkish pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: Turkish pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 Turkish pepper Anaheim pepper
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: asam gelugor
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: asam gelugor
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 asam gelugor tamarind
 
 ### Other Names

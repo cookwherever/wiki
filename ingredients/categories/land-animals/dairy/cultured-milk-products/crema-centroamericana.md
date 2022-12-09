@@ -1,13 +1,5 @@
----
-title: crema Centroamericana
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: crema Centroamericana
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 crema Centroamericana See crema.
 
 ### Other Names

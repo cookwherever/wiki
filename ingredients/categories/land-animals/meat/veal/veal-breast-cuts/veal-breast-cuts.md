@@ -1,14 +1,5 @@
----
-title: veal breast cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- veal
-- veal-breast-cuts
----
+- title:: veal breast cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, veal, veal-breast-cuts
 
 
 ### Other Names

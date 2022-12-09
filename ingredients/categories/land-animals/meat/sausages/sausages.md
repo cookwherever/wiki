@@ -1,13 +1,5 @@
----
-title: sausages
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: sausages
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 A typical sausage consists of ground meat that's combined with fat, flavorings, and preservatives, and then stuffed into a casing and twisted at intervals to make links. Pork is most commonly used, but butchers also use beef, lamb, veal, turkey, chicken, or game, and some also use fillers like oatmeal and rice to stretch the meat a bit. Casings vary too--in addition to intestines or artificial casings, butchers sometimes use stomachs, feet, skins, or they do away with casings altogether and sell the sausage in bulk. After assembling a sausage, a butcher can either sell it as fresh sausage, or else cure, dry, or precook it in some way.
 
 ### Other Names

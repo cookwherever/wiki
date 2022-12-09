@@ -1,10 +1,5 @@
----
-title: clay pot
-tags:
-- unreviewed
-- equipment
-- baking-equipment
----
+- title:: clay pot
+- tags:: unreviewed, equipment, baking-equipment
 ### Substitutes
 - casserole pot
 - dutch oven

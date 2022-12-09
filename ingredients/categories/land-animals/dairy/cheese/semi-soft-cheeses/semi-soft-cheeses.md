@@ -1,14 +1,5 @@
----
-title: semi-soft cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: semi-soft cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 
 
 ### Other Names

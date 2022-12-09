@@ -1,9 +1,5 @@
----
-title: equipment category
-tags:
-- unreviewed
-- equipment
----
+- title:: equipment category
+- tags:: unreviewed, equipment
 
 
 ### Other Names

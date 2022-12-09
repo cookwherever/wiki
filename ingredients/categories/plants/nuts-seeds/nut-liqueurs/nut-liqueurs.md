@@ -1,13 +1,5 @@
----
-title: nut liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-liqueurs
----
+- title:: nut liqueurs
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-liqueurs
 nut liqueurs
 
 ### Other Names

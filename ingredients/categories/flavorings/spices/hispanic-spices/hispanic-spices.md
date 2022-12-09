@@ -1,13 +1,5 @@
----
-title: hispanic spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- hispanic-spices
----
+- title:: hispanic spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, hispanic-spices
 
 
 ### Other Names

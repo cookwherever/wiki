@@ -1,14 +1,5 @@
----
-title: lamb loin cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- lamb-loin-cuts
----
+- title:: lamb loin cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, lamb-loin-cuts
 
 
 ### Other Names

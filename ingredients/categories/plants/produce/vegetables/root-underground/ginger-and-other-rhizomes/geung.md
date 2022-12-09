@@ -1,15 +1,5 @@
----
-title: geung
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
----
+- title:: geung
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes
 geung See ginger root.
 
 ### Other Names

@@ -1,11 +1,5 @@
----
-title: baking powder
-tags:
-- unreviewed
-- ingredients
-- categories
-- leavens
----
+- title:: baking powder
+- tags:: unreviewed, ingredients, categories, leavens
 
 ### Notes
 - Composed of baking soda, powered acid, and a starch

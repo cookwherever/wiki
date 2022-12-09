@@ -1,15 +1,5 @@
----
-title: european herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herb-and-spice-mixes
----
+- title:: european herb & spice mixes
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herb-and-spice-mixes
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: egg noodles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- other-noodles
----
+- title:: egg noodles
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, other-noodles
 egg noodles linguine OR fettucine OR other ribbon pasta
 
 ### Other Names

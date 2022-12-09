@@ -1,13 +1,5 @@
----
-title: nasturtium
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: nasturtium
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 nasturtium = Indian cress Substitutes: marigolds OR pansies
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: mi chay
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- asian-wheat-noodles
----
+- title:: mi chay
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, asian-wheat-noodles
 mi chay = m� chay These are Vietnamese wheat noodles.
 
 ### Other Names

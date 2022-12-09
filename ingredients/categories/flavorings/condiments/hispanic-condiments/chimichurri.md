@@ -1,13 +1,5 @@
----
-title: Chimichurri
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- hispanic-condiments
----
+- title:: Chimichurri
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, hispanic-condiments
 ### Ingredients
 #### herbs
 signature flavor, bulk of the volume

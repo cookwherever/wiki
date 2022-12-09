@@ -1,13 +1,5 @@
----
-title: sorghum starch
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- thickeners
-- starch-thickeners
----
+- title:: sorghum starch
+- tags:: unreviewed, ingredients, categories, miscellaneous, thickeners, starch-thickeners
 sorghum starch cornstarch
 
 ### Other Names

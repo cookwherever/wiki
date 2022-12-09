@@ -1,9 +1,5 @@
----
-title: large-roast
-tags:
-- unreviewed
-- defrosting
----
+- title:: large-roast
+- tags:: unreviewed, defrosting
 #### How to defrost a large ham or roast:  
 - The refrigerator method is best.  Allow 5 hours per pound.
 - The cold water method is a good alterative.  Allow 30 minutes per pound.

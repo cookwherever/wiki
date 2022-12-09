@@ -1,14 +1,5 @@
----
-title: brine-cured ham
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- ham
----
+- title:: brine-cured ham
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, ham
 brine-cured ham See city ham.
 
 ### Other Names

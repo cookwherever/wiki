@@ -1,14 +1,5 @@
----
-title: Kaser
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Kaser
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Kaser Kasseri OR Kashkaval OR Provolone
 
 ### Other Names

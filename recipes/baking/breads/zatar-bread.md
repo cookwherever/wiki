@@ -1,11 +1,5 @@
----
-title: zatar bread
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: zatar bread
+- tags:: unreviewed, recipes, baking, breads
 zatar bread = manaeesh
 
 ### Other Names

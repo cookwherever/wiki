@@ -1,13 +1,5 @@
----
-title: harvestfish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: harvestfish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 harvestfish butterfish ORbluefish OR herring
 
 ### Other Names

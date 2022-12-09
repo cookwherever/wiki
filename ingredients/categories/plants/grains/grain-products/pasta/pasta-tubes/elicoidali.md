@@ -1,15 +1,5 @@
----
-title: elicoidali
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-tubes
----
+- title:: elicoidali
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-tubes
 elicoidali Notes: This Italian pasta consists of medium-sized, flat-cut tubes with spiraling ridges on the outside (elicoidali is Italian for "helix"). Substitutes: rigatoni OR ziti OR elbow macaroni OR penne
 
 ### Other Names

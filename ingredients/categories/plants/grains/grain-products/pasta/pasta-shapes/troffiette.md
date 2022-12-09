@@ -1,15 +1,5 @@
----
-title: troffiette
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-shapes
----
+- title:: troffiette
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-shapes
 troffiette A Ligurian specialty, these are small, twisted bits of pasta. They're often served with pesto. Substitutes: strozzapretti
 
 ### Other Names

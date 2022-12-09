@@ -1,15 +1,5 @@
----
-title: calamondin
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- sub-tropical
-- citrus-fruit
----
+- title:: calamondin
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, sub-tropical, citrus-fruit
 calamondin = calamondin orange = China orange = Panama orange kumquats (slightly smaller) OR kalamansi
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: Hondroelia olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: Hondroelia olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 Hondroelia olive This is a juicy, meaty olive.
 
 ### Other Names

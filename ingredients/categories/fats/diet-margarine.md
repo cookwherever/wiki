@@ -1,11 +1,5 @@
----
-title: diet margarine
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: diet margarine
+- tags:: unreviewed, ingredients, categories, fats
 diet margarine See margarine.
 
 ### Other Names

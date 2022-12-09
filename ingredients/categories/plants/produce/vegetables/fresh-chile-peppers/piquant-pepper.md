@@ -1,14 +1,5 @@
----
-title: piquant pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: piquant pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 piquant pepper = sport pepper poblano peppers
 
 ### Other Names

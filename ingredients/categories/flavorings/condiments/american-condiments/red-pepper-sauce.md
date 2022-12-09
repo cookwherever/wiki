@@ -1,13 +1,5 @@
----
-title: red pepper sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- american-condiments
----
+- title:: red pepper sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, american-condiments
 red pepper sauce tomato sauce
 
 ### Other Names

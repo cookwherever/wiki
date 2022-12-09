@@ -1,13 +1,5 @@
----
-title: gr�tzewurst
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: gr�tzewurst
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 gr�tzewurst = grutzewurst
 
 ### Other Names

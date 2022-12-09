@@ -1,8 +1,2 @@
----
-title: oatmeal
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: oatmeal
+- tags:: unreviewed, recipes, meal-course, breakfast

@@ -1,13 +1,5 @@
----
-title: celery salt
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: celery salt
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 celery salt ground celery seed + salt OR ground celery seed OR Beau Monde seasoning OR Bon Appetit seasoning
 
 ### Other Names

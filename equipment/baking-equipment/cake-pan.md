@@ -1,10 +1,5 @@
----
-title: cake pan
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: cake pan
+- tags:: equipment, unreviewed, baking-equipment
 
 ### Other Names
 * layer cake pan

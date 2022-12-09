@@ -1,14 +1,5 @@
----
-title: fresh cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- fresh-cheeses
----
+- title:: fresh cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, fresh-cheeses
 
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: Moroccan green olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: Moroccan green olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 Moroccan green olive green olives (rinse off the vinegar brine first)
 
 ### Other Names

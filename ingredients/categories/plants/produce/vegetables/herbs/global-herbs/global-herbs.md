@@ -1,15 +1,5 @@
----
-title: global herbs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- global-herbs
----
+- title:: global herbs
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, global-herbs
 
 
 ### Other Names

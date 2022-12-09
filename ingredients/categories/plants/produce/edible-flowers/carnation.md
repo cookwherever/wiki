@@ -1,13 +1,5 @@
----
-title: carnation
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: carnation
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 carnation These have a peppery flavor.
 
 ### Other Names

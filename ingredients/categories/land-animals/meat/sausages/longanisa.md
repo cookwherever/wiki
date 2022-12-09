@@ -1,13 +1,5 @@
----
-title: longanisa
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: longanisa
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 longanisa = longaniza kielbasa
 
 ### Other Names

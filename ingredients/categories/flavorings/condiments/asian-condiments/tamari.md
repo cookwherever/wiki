@@ -1,13 +1,5 @@
----
-title: tamari
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: tamari
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 tamari = wheat-free soy sauce Substitutes: soy sauce (thinner and less rich; made with wheat)
 
 ### Other Names

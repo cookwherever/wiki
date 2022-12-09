@@ -1,13 +1,5 @@
----
-title: lean, firm-textured fish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: lean, firm-textured fish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 
 
 ### Other Names

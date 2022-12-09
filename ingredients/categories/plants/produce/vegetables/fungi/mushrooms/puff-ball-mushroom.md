@@ -1,15 +1,5 @@
----
-title: puff ball mushroom
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fungi
-- mushrooms
----
+- title:: puff ball mushroom
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fungi, mushrooms
 puff ball mushroom = puffball mushroom
 
 ### Other Names

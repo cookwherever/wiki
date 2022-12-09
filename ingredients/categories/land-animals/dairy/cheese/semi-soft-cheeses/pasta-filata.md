@@ -1,14 +1,5 @@
----
-title: pasta filata
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: pasta filata
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Notes
 - Stretched and pulled like taffy before being molded
 - Springy and elastic consistency

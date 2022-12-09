@@ -1,13 +1,5 @@
----
-title: pickled mango
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickled mango
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pickled mango = burong mangga
 
 ### Other Names

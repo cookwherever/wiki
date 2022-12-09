@@ -1,12 +1,5 @@
----
-title: papaya leaves
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- food-wrappers
----
+- title:: papaya leaves
+- tags:: unreviewed, ingredients, categories, miscellaneous, food-wrappers
 papaya leaves Wrapping meats in these leaves helps tenderize them.
 
 ### Other Names

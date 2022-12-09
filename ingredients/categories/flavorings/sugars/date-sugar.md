@@ -1,12 +1,5 @@
----
-title: date sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: date sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 date sugar = dehydrated date pieces granulated sugar (not as nutritious)
 
 ### Other Names

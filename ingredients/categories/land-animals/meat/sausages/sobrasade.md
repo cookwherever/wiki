@@ -1,13 +1,5 @@
----
-title: sobrasade
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: sobrasade
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 sobrasade = sobrassade
 
 ### Other Names

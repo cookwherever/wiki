@@ -1,13 +1,5 @@
----
-title: Sriracha
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: Sriracha
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 Sriracha Notes: This is a hot sauce used as a condiment by Thais and Vietnamese. Substitutes: Tabasco sauce or other hot sauce (not as sweet)
 
 ### Other Names

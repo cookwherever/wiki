@@ -1,15 +1,5 @@
----
-title: pasta ribbons
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-ribbons
----
+- title:: pasta ribbons
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-ribbons
 Ribbons of pasta are usually available either fresh or dried. Use fresh ribbon pasta for light, delicate sauces and dried for the rich, heavier ones.
 
 ### Other Names

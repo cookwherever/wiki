@@ -1,18 +1,5 @@
----
-title: fresh beans
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- fresh-beans
----
+- title:: fresh beans
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, fresh-beans
 Fresh beans appear in the summer and fall, and they're sweeter and more tender than dry beans. They're also easier to prepare, since you don't need to soak them or cook them very long.
 
 ### Other Names

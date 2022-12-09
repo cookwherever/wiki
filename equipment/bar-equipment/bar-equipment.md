@@ -1,10 +1,5 @@
----
-title: bar equipment
-tags:
-- equipment
-- unreviewed
-- bar-equipment
----
+- title:: bar equipment
+- tags:: equipment, unreviewed, bar-equipment
 
 ### Varieties
 

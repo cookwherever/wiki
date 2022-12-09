@@ -1,11 +1,5 @@
----
-title: breakfast cracker
-tags:
-- unreviewed
-- recipes
-- baking
-- crackers
----
+- title:: breakfast cracker
+- tags:: unreviewed, recipes, baking, crackers
 breakfast cracker These sturdy British crackers are quite bland. Substitutes: water cracker
 
 ### Other Names

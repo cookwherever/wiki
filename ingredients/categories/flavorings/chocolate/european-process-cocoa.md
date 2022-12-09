@@ -1,12 +1,5 @@
----
-title: European process cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: European process cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 European process cocoa See cocoa.
 
 ### Other Names

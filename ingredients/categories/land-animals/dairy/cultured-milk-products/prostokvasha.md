@@ -1,13 +1,5 @@
----
-title: prostokvasha
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: prostokvasha
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 prostokvasha yogurt
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: fish category
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
----
+- title:: fish category
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish
 
 
 ### Other Names

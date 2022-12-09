@@ -1,13 +1,5 @@
----
-title: grapefruit juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: grapefruit juice
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 grapefruit juice This comes either sweetened or unsweetened. Substitutes: orange juice (not as sour) OR pineapple juice
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: dark corn syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- liquid-sweeteners
----
+- title:: dark corn syrup
+- tags:: unreviewed, ingredients, categories, flavorings, liquid-sweeteners
 
 
 ### Other Names

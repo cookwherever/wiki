@@ -1,14 +1,5 @@
----
-title: miscellaneous lamb cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- miscellaneous-lamb-cuts
----
+- title:: miscellaneous lamb cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, miscellaneous-lamb-cuts
 miscellaneous lamb cuts These come from various parts of the carcass.
 
 ### Tips

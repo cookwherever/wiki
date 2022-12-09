@@ -1,14 +1,5 @@
----
-title: graham flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- wheat-flours
----
+- title:: graham flour
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, wheat-flours
 graham flour whole wheat flour (fewer nutrients)
 
 ### Other Names

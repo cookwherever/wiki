@@ -1,13 +1,5 @@
----
-title: seeds
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- seeds
----
+- title:: seeds
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, seeds
 The category "seeds" includes not just the familiar sunflower and pumpkin seeds, but also legumes, nuts, and grains, as well as many spices.
 
 ### Other Names

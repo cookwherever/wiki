@@ -1,15 +1,5 @@
----
-title: baobab leaves
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- african
----
+- title:: baobab leaves
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, african
 baobab leaves African cooks use leaves from the massive baobab tree to thicken their stews. Like okra, the leaves give the dish a slimy texture that's characteristic of West African stews. Substitutes: okra OR file gumbo OR ogbono
 
 ### Other Names

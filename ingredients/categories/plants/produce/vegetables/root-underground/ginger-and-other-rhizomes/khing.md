@@ -1,15 +1,5 @@
----
-title: khing
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
----
+- title:: khing
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes
 khing See ginger root.
 
 ### Other Names

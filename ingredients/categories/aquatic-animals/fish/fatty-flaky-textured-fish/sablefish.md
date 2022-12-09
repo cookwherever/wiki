@@ -1,13 +1,5 @@
----
-title: sablefish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: sablefish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 sablefish = black cod = (incorrectly) butterfish Substitutes: butterfish OR whitefish OR buffalofish
 
 ### Other Names

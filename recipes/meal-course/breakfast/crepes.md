@@ -1,8 +1,2 @@
----
-title: crepes
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: crepes
+- tags:: unreviewed, recipes, meal-course, breakfast

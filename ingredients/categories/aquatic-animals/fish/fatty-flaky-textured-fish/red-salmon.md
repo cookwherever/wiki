@@ -1,13 +1,5 @@
----
-title: red salmon
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: red salmon
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 red salmon = sockeye salmon = blueback salmon Substitutes: other salmon (flesh not as red)
 
 ### Other Names

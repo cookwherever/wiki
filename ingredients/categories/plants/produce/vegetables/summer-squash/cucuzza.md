@@ -1,14 +1,5 @@
----
-title: cucuzza
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- summer-squash
----
+- title:: cucuzza
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, summer-squash
 cucuzza = cucuzzi = bottle gourd = calabash = zucca = suzza melon = Tasmania bean = New Guinea bean = Italian squash zucchini OR yellow squash
 
 ### Other Names

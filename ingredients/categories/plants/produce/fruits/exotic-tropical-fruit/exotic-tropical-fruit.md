@@ -1,14 +1,5 @@
----
-title: exotic tropical fruit
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: exotic tropical fruit
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 
 
 ### Other Names

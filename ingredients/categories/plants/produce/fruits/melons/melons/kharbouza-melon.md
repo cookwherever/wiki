@@ -1,14 +1,5 @@
----
-title: kharbouza melon
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- melons
----
+- title:: kharbouza melon
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, melons
 kharbouza melon This is a very crunchy, mildly sweet melon.
 
 ### Other Names

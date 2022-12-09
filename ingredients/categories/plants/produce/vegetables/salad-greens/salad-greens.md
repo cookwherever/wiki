@@ -1,14 +1,5 @@
----
-title: salad greens
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- salad-greens
----
+- title:: salad greens
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, salad-greens
 
 
 ### Other Names

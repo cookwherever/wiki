@@ -1,10 +1,5 @@
----
-title: Mary Ann pan
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: Mary Ann pan
+- tags:: equipment, unreviewed, baking-equipment
 ### Notes
 - Depression in the middle can hold fillings
 

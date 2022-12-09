@@ -1,13 +1,5 @@
----
-title: sahlab
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- thickeners
-- starch-thickeners
----
+- title:: sahlab
+- tags:: unreviewed, ingredients, categories, miscellaneous, thickeners, starch-thickeners
 sahlab This is made from orchid tubers and has a pleasant, flowery smell. Look for it in Middle Eastern markets. Substitutes: cornstarch (Substitute measure for measure.)
 
 ### Other Names

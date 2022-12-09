@@ -1,13 +1,5 @@
----
-title: chive flowers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: chive flowers
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 chive flowers = chive blossoms
 
 ### Other Names

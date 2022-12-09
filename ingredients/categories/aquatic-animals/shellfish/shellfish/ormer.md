@@ -1,12 +1,5 @@
----
-title: ormer
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: ormer
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 ormer abalone (larger) OR other clams
 
 ### Other Names

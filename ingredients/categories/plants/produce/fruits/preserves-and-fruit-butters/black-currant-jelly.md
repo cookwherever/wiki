@@ -1,14 +1,5 @@
----
-title: black currant jelly
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: black currant jelly
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 black currant jelly See currant jelly.
 
 ### Other Names

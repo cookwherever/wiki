@@ -1,14 +1,5 @@
----
-title: Wensleydale
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Wensleydale
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 ### Substitutes
 - [[cheddar]]
   

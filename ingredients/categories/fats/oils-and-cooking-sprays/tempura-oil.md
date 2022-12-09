@@ -1,12 +1,5 @@
----
-title: tempura oil
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: tempura oil
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 tempura oil blend equal parts sesame oil and soybean oil
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: chum salmon
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: chum salmon
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 chum salmon = dog salmon
 
 ### Other Names

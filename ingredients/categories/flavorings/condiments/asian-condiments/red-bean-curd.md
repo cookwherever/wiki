@@ -1,13 +1,5 @@
----
-title: red bean curd
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: red bean curd
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 red bean curd = red bean curd cheese = red preserved bean curd
 
 ### Other Names

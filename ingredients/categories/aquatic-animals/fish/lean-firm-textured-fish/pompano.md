@@ -1,13 +1,5 @@
----
-title: pompano
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: pompano
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 pompano = black pomfret grouper
 
 ### Other Names

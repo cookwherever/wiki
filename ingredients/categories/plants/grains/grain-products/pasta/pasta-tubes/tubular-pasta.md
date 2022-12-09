@@ -1,15 +1,5 @@
----
-title: tubular pasta
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-tubes
----
+- title:: tubular pasta
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-tubes
 tubular pasta = tubular-shaped pasta = tube-shaped pasta
 
 ### Other Names

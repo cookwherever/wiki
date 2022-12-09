@@ -1,14 +1,5 @@
----
-title: whey cheeses
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- fresh-cheeses
----
+- title:: whey cheeses
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, fresh-cheeses
 ### Notes
 - Cooked [[whey-water]] where the proteins have coagulated to make even more cheese
 

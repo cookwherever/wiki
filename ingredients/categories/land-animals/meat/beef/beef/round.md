@@ -1,13 +1,5 @@
----
-title: round
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- beef
----
+- title:: round
+- tags:: unreviewed, ingredients, categories, land-animals, meat, beef
 
 
 ### Links

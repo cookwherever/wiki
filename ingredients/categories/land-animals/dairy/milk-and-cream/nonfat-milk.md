@@ -1,13 +1,5 @@
----
-title: nonfat milk
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: nonfat milk
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 nonfat milk See milk.
 
 ### Other Names

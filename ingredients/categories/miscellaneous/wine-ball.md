@@ -1,11 +1,5 @@
----
-title: wine ball
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: wine ball
+- tags:: unreviewed, ingredients, categories, miscellaneous
 wine ball = wine yeast = wine cube
 
 ### Other Names

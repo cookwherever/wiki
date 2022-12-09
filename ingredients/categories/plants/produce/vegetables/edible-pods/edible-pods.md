@@ -1,14 +1,5 @@
----
-title: edible pods
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- edible-pods
----
+- title:: edible pods
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, edible-pods
 
 
 ### Other Names

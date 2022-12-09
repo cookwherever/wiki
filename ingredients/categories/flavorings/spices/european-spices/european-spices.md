@@ -1,13 +1,5 @@
----
-title: european spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- european-spices
----
+- title:: european spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, european-spices
 
 
 ### Other Names

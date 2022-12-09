@@ -1,8 +1,2 @@
----
-title: frittatas
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: frittatas
+- tags:: unreviewed, recipes, meal-course, breakfast

@@ -1,12 +1,5 @@
----
-title: khus syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- liquid-sweeteners
----
+- title:: khus syrup
+- tags:: unreviewed, ingredients, categories, flavorings, liquid-sweeteners
 khus syrup Indians use this to make desserts and drinks. Substitutes: rose syrup
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: quahog
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: quahog
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 quahog = quahog clam = quahaug clam = chowder clam hard shell clams
 
 ### Other Names

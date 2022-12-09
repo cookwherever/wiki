@@ -1,9 +1,5 @@
----
-title: baked-goods
-tags:
-- unreviewed
-- defrosting
----
+- title:: baked-goods
+- tags:: unreviewed, defrosting
 #### How to defrost baked goods:
 - The refrigerator method is the best way to thaw most baked goods.  Keep them wrapped.
 - The room temperature method is a very good alternative, and it’s faster than the refrigerator method.   Unwrap frosted cakes before thawing so that the frosting doesn’t stick to the wrapper.

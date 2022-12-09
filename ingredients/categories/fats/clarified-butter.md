@@ -1,11 +1,5 @@
----
-title: clarified butter
-tags:
-- reviewed
-- ingredients
-- categories
-- fats
----
+- title:: clarified butter
+- tags:: reviewed, ingredients, categories, fats
 ### Substitutes
 * canola oil (more healthful)
 * other vegetable oil (Not as flavorful, but the fat is unsaturated.)

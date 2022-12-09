@@ -1,13 +1,5 @@
----
-title: global spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- global-spices
----
+- title:: global spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, global-spices
 
 
 ### Other Names

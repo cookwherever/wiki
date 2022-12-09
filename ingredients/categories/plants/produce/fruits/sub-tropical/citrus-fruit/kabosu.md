@@ -1,15 +1,5 @@
----
-title: kabosu
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- sub-tropical
-- citrus-fruit
----
+- title:: kabosu
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, sub-tropical, citrus-fruit
 kabosu = kabosu lime lime
 
 ### Other Names

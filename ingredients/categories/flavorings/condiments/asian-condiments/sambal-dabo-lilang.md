@@ -1,13 +1,5 @@
----
-title: sambal dabo lilang
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: sambal dabo lilang
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 sambal dabo lilang See the USENET Cookbook recipe for Sambal Dabo Lilang.
 
 ### Other Names

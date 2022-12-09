@@ -1,10 +1,5 @@
----
-title: pizza wheel
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: pizza wheel
+- tags:: equipment, unreviewed, cutting-tools
 ### Other Names
 * pizza cutter
 

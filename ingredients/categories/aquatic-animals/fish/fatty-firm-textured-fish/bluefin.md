@@ -1,13 +1,5 @@
----
-title: bluefin
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: bluefin
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 bluefin See tuna.
 
 ### Other Names

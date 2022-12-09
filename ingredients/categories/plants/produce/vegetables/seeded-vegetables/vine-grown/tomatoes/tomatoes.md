@@ -1,16 +1,5 @@
----
-title: tomatoes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- vine-grown
-- tomatoes
----
+- title:: tomatoes
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, vine-grown, tomatoes
 With their rich flavor and mild acidity, tomatoes have worked their way into thousands of recipes. You can eat them raw in salads, salsas, or sandwiches, cook them to make sauces, stuff them and bake them, or grill them on skewers with other vegetables. Summertime is the the best season for tomatoes; those sold at other times of the year are often bland. Indeed, better cooks often prefer canned tomatoes for their sauces over fresh out-of-season tomatoes. Select tomatoes that are brightly colored, smooth skinned, and heavy for their size. Don't refrigerate tomatoes--it ruins their flavor.
 
 ### Other Names

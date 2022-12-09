@@ -1,12 +1,5 @@
----
-title: food wrappers
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- food-wrappers
----
+- title:: food wrappers
+- tags:: unreviewed, ingredients, categories, miscellaneous, food-wrappers
 
 
 ### Other Names

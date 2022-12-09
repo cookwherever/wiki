@@ -1,14 +1,5 @@
----
-title: carrots, dried
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: carrots, dried
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 carrots, dried These are used to make muffins and cakes.
 
 ### Other Names

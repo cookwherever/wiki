@@ -1,10 +1,5 @@
----
-title: Defrosting
-tags:
-- unreviewed
-- techniques
-- preparation
----
+- title:: Defrosting
+- tags:: unreviewed, techniques, preparation
 
 ### Notes
 - defrosting

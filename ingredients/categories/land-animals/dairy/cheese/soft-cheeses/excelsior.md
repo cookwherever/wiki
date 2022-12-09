@@ -1,14 +1,5 @@
----
-title: Excelsior
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- soft-cheeses
----
+- title:: Excelsior
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, soft-cheeses
 Excelsior Boursault OR Brillat-Savarin
 
 ### Other Names

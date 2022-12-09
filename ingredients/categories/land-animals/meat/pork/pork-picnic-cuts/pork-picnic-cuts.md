@@ -1,14 +1,5 @@
----
-title: pork picnic cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-picnic-cuts
----
+- title:: pork picnic cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-picnic-cuts
 
 
 ### Other Names

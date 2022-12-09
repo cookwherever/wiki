@@ -1,14 +1,5 @@
----
-title: pimento
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sweet-peppers
----
+- title:: pimento
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sweet-peppers
 pimento Pimentos are often sold roasted and peeled in cans or jars, or used to stuff green olives. Substitutes: red bell pepper (thinner walls)
 
 ### Other Names

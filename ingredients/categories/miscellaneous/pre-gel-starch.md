@@ -1,11 +1,5 @@
----
-title: pre-gel starch
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: pre-gel starch
+- tags:: unreviewed, ingredients, categories, miscellaneous
 pre-gel starch xanthum gum OR guar gum
 
 ### Other Names

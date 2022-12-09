@@ -1,14 +1,5 @@
----
-title: sapota
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: sapota
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 sapota See sapote.
 
 ### Other Names

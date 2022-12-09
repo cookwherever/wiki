@@ -1,14 +1,5 @@
----
-title: mirasol chile (dried)
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: mirasol chile (dried)
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 mirasol chile (dried) chile de Arbol
 
 ### Other Names

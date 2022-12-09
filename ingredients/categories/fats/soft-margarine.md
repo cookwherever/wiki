@@ -1,11 +1,5 @@
----
-title: soft margarine
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: soft margarine
+- tags:: unreviewed, ingredients, categories, fats
 soft margarine See margarine.
 
 ### Other Names

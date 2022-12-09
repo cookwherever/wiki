@@ -1,13 +1,5 @@
----
-title: bluefish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: bluefish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 bluefish butterfish (milder flavor) OR whitefish (milder flavor) OR mackerel OR striped bass
 
 ### Other Names

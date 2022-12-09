@@ -1,12 +1,5 @@
----
-title: surimi
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: surimi
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 surimi = imitation seafood = crab sticks = sea legs crab (tastier, more expensive)
 
 ### Other Names

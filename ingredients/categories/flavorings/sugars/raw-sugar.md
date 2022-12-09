@@ -1,12 +1,5 @@
----
-title: raw sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: raw sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 raw sugar turbinado sugar
 
 ### Other Names

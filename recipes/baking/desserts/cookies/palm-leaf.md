@@ -1,12 +1,5 @@
----
-title: palm leaf
-tags:
-- unreviewed
-- recipes
-- baking
-- desserts
-- cookies
----
+- title:: palm leaf
+- tags:: unreviewed, recipes, baking, desserts, cookies
 palm leaf = palmier These crunchy cookies are made with puff pastry and sugar.
 
 ### Other Names

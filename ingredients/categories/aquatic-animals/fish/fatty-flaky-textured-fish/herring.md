@@ -1,13 +1,5 @@
----
-title: herring
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: herring
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 herring shad (larger) OR smelt OR mackerel OR small trout
 
 ### Other Names

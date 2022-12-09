@@ -1,14 +1,5 @@
----
-title: marmalade plum
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: marmalade plum
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 marmalade plum See sapote.
 
 ### Other Names

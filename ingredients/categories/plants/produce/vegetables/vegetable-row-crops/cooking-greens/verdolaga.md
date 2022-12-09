@@ -1,15 +1,5 @@
----
-title: verdolaga
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- vegetable-row-crops
-- cooking-greens
----
+- title:: verdolaga
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, vegetable-row-crops, cooking-greens
 verdolaga See purslane.
 
 ### Other Names

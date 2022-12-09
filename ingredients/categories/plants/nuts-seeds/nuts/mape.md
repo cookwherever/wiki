@@ -1,13 +1,5 @@
----
-title: mape
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nuts
----
+- title:: mape
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nuts
 mape = Polynesian chestnut chestnuts
 
 ### Other Names

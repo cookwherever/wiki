@@ -1,15 +1,5 @@
----
-title: kontomire
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- vegetable-row-crops
-- cooking-greens
----
+- title:: kontomire
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, vegetable-row-crops, cooking-greens
 kontomire = African spinach This African green is very hard to find fresh in the United States, and the canned version is terrible. Substitutes: Swiss chard OR spinach
 
 ### Other Names

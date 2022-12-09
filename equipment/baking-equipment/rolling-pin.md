@@ -1,10 +1,5 @@
----
-title: rolling pin
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: rolling pin
+- tags:: equipment, unreviewed, baking-equipment
 ### Substitutes
 * wine bottle
 

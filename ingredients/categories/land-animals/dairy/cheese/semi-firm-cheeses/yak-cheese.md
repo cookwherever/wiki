@@ -1,14 +1,5 @@
----
-title: yak cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: yak cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 
 ### Varieties
 * [[semi-firm-cheeses]]

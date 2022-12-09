@@ -1,14 +1,5 @@
----
-title: Tomme Crayeuse cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Tomme Crayeuse cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Notes
 - soft French cheese
 - rich and buttery

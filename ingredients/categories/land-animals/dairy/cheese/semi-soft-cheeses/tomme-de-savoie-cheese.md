@@ -1,14 +1,5 @@
----
-title: Tomme de Savoie cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Tomme de Savoie cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Notes
 - Mild French cheese
 - semi-soft when young

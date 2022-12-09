@@ -1,13 +1,5 @@
----
-title: Aleppo pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- middle-eastern-spices
----
+- title:: Aleppo pepper
+- tags:: unreviewed, ingredients, categories, flavorings, spices, middle-eastern-spices
 Aleppo pepper = Near Eastern pepper uh-LEP-oh Substitutes: Four parts sweet paprika plus one part cayenne pepper.
 
 ### Other Names

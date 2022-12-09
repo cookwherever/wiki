@@ -1,13 +1,5 @@
----
-title: rainbow runner
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-flaky-textured-fish
----
+- title:: rainbow runner
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-flaky-textured-fish
 rainbow runner = kamanu = Hawaiian salmon salmon
 
 ### Other Names

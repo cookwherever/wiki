@@ -1,9 +1,5 @@
----
-title: How to defrost shellfish
-tags:
-- unreviewed
-- defrosting
----
+- title:: How to defrost shellfish
+- tags:: unreviewed, defrosting
 - It’s best to thaw shellfish until it’s just pliable.  There should be a few ice crystals in the flesh when you begin cooking it. 
 - The refrigerator method is the best way to defrost shellfish, as long as you can do so without thawing it completely.  Many cooks recommend soaking shrimp in salt water (1-2 tablespoons salt per quart of water) while it’s thawing in the refrigerator.  
 - The cold water method is the best way to defrost cooked shrimp or langostinos.   Unwrap them first.

@@ -1,13 +1,5 @@
----
-title: asian herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-herb-and-spice-mixes
----
+- title:: asian herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-herb-and-spice-mixes
 
 
 ### Other Names

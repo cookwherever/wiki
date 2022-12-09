@@ -1,15 +1,5 @@
----
-title: filled pasta
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- stuffed-pasta
----
+- title:: filled pasta
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, stuffed-pasta
 filled pasta = pasta ripiena
 
 ### Other Names

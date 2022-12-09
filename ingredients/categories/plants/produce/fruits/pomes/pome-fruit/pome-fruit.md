@@ -1,15 +1,5 @@
----
-title: pome fruit
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- pomes
-- pome-fruit
----
+- title:: pome fruit
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, pomes, pome-fruit
 The family of pome fruits include apples, pears, quinces, Asian pears, and loquats.
 
 ### Other Names

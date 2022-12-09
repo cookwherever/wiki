@@ -1,17 +1,5 @@
----
-title: lentils
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- lentils
----
+- title:: lentils
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, lentils
 
 ### Taste & Texture
 * Creamy when cooked

@@ -1,14 +1,5 @@
----
-title: Colby
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Colby
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Colby Notes: This Wisconsin cheese resembles a mild Cheddar. Substitutes: Cheddar (sharper flavor) OR Tillamook OR American OR cheese substitutes
 
 ### Other Names

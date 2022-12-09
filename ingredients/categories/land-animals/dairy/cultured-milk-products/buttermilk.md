@@ -1,13 +1,5 @@
----
-title: buttermilk
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: buttermilk
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 ### Notes
 - creamy, but low in fat
 - cultured buttermilk comes from bacteria cultures added to low-fat or nonfat milk

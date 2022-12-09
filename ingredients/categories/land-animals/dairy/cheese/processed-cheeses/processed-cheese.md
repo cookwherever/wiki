@@ -1,14 +1,5 @@
----
-title: processed cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- processed-cheeses
----
+- title:: processed cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, processed-cheeses
 processed cheese = process cheese These products combine cheese with gums and stabilizers that improve shelf life but compromise flavor and texture.
 
 ### Other Names

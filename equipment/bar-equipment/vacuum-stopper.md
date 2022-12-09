@@ -1,10 +1,5 @@
----
-title: vacuum stopper
-tags:
-- equipment
-- unreviewed
-- bar-equipment
----
+- title:: vacuum stopper
+- tags:: equipment, unreviewed, bar-equipment
 Wine, once exposed to air, turns vinegary. This stopper has a pump that removes much of the air from the bottle and allows you to keep opened bottles of wine a bit longer. 
 
 ### Substitutes

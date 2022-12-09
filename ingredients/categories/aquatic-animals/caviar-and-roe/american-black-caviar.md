@@ -1,12 +1,5 @@
----
-title: American black caviar
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: American black caviar
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 ### Substitutes
 - [[beluga-caviar]]
 - [[hackleback caviar]]

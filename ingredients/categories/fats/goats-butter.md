@@ -1,11 +1,5 @@
----
-title: goat's butter
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: goat's butter
+- tags:: unreviewed, ingredients, categories, fats
 goat's butter = staka butter
 
 ### Other Names

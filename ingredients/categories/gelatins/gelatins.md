@@ -1,11 +1,5 @@
----
-title: gelatins
-tags:
-- unreviewed
-- ingredients
-- categories
-- gelatins
----
+- title:: gelatins
+- tags:: unreviewed, ingredients, categories, gelatins
 
 
 ### Other Names

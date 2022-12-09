@@ -1,15 +1,5 @@
----
-title: Winter Nellis pear
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- pomes
-- pears
----
+- title:: Winter Nellis pear
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, pomes, pears
 These are especially good for baking.
 
 ### Other Names

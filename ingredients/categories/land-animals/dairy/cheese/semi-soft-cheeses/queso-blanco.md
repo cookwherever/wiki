@@ -1,14 +1,5 @@
----
-title: queso blanco
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: queso blanco
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 queso blanco mozzarella OR Muenster
 
 ### Other Names

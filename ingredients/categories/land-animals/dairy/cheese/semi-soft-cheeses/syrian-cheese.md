@@ -1,14 +1,5 @@
----
-title: Syrian cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Syrian cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Substitutes
 - jack cheese
 - Muenster cheese

@@ -1,15 +1,5 @@
----
-title: blood orange
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- sub-tropical
-- citrus-fruit
----
+- title:: blood orange
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, sub-tropical, citrus-fruit
 blood orange = pigmented orange These red-fleshed oranges are more popular in Europe than in the United States. Look for them in the winter and spring. Substitutes: orange (flesh orange, not red, more acidic) OR tangerines (sweeter)
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: pequin pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: pequin pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 pequin pepper = piquin pepper pay-KEEN Notes: These small red peppers are fairly hot. Substitutes: chile de Arbol OR tepin OR cayenne OR cascabel
 
 ### Other Names

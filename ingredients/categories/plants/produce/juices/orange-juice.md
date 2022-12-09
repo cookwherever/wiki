@@ -1,13 +1,5 @@
----
-title: orange juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: orange juice
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 orange juice grapefruit juice OR pineapple juice,
 
 ### Other Names

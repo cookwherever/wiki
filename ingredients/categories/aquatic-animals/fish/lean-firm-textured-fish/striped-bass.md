@@ -1,13 +1,5 @@
----
-title: striped bass
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: striped bass
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 striped bass = striper Substitutes: grouper OR sea bass (less choice) OR tilefish OR halibut OR salmon OR blackfish
 
 ### Other Names

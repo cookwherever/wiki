@@ -1,12 +1,5 @@
----
-title: malt sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: malt sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 malt sugar = maltose = genuine maltose Look for this in Asian markets. Substitutes: honey (much sweeter)
 
 ### Other Names

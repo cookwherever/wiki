@@ -1,10 +1,5 @@
----
-title: mortar and pestle
-tags:
-- unreviewed
-- equipment
-- mashing-grating-grinding-and-mixing-tools
----
+- title:: mortar and pestle
+- tags:: unreviewed, equipment, mashing-grating-grinding-and-mixing-tools
 mortar and pestle coffee grinder OR crush with a rolling pin
 
 ### Other Names

@@ -1,10 +1,5 @@
----
-title: outdoor cooking equipment
-tags:
-- unreviewed
-- equipment
-- outdoor-cooking-equipment
----
+- title:: outdoor cooking equipment
+- tags:: unreviewed, equipment, outdoor-cooking-equipment
 
 
 ### Other Names

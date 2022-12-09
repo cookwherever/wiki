@@ -1,10 +1,5 @@
----
-title: loaf pan
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: loaf pan
+- tags:: equipment, unreviewed, baking-equipment
 
 ### Varieties
 * [[equipment/baking-equipment/_index]]

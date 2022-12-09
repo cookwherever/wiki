@@ -1,11 +1,5 @@
----
-title: crumbs
-tags:
-- unreviewed
-- ingredients
-- categories
-- crumbs
----
+- title:: crumbs
+- tags:: unreviewed, ingredients, categories, crumbs
 
 
 ### Other Names

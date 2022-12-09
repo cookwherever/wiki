@@ -1,13 +1,5 @@
----
-title: triple-cr�me cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
----
+- title:: triple-cr�me cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese
 ### Notes
 - creamy
 - decadent

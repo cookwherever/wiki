@@ -1,14 +1,5 @@
----
-title: sweet banana
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sweet-peppers
----
+- title:: sweet banana
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sweet-peppers
 sweet banana yellow bell
 
 ### Other Names

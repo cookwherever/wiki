@@ -1,12 +1,5 @@
----
-title: ravioli wrappers
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- food-wrappers
----
+- title:: ravioli wrappers
+- tags:: unreviewed, ingredients, categories, miscellaneous, food-wrappers
 ravioli wrappers pasta sheet OR eggroll wrappers OR wonton wrappers OR dumpling wrappers
 
 ### Other Names

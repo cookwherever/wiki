@@ -1,13 +1,5 @@
----
-title: Johnny jump-up
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: Johnny jump-up
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 Johnny jump-up pansy OR violet
 
 ### Other Names

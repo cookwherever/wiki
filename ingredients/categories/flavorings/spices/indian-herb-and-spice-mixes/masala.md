@@ -1,13 +1,5 @@
----
-title: masala
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- indian-herb-and-spice-mixes
----
+- title:: masala
+- tags:: unreviewed, ingredients, categories, flavorings, spices, indian-herb-and-spice-mixes
 masala This is the catch-all Hindi term for a spice mixture. Popular masalas include garam masala, chat masala, and sambar masala.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: apple pie spice
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: apple pie spice
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 apple pie spice 4 parts cinnamon + 2 parts nutmeg + 1 part cardamom, all ground
 
 ### Other Names

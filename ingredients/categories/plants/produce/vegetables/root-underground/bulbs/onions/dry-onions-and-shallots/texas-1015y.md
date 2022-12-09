@@ -1,17 +1,5 @@
----
-title: Texas 1015Y
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: Texas 1015Y
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 Texas 1015Y See sweet onion.
 
 ### Other Names

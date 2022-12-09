@@ -1,14 +1,5 @@
----
-title: red currant jelly currant jelly.
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: red currant jelly currant jelly.
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 red currant jelly currant jelly. strawberry preserves
 
 ### Other Names

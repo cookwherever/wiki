@@ -1,12 +1,5 @@
----
-title: salted herring roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: salted herring roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 ### Substitutes:
 - shad roe
 

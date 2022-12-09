@@ -1,10 +1,5 @@
----
-title: cleaning tools
-tags:
-- equipment
-- unreviewed
-- cleaning-tools
----
+- title:: cleaning tools
+- tags:: equipment, unreviewed, cleaning-tools
 
 ### Varieties
 * [[mushroom-brush]]

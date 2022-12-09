@@ -1,11 +1,5 @@
----
-title: vegetable rennet
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: vegetable rennet
+- tags:: unreviewed, ingredients, categories, miscellaneous
 vegetable rennet = rennin rennet (made with animal by-products)
 
 ### Other Names

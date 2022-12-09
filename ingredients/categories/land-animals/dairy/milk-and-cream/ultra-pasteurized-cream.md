@@ -1,13 +1,5 @@
----
-title: ultra-pasteurized cream
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: ultra-pasteurized cream
+- tags:: reviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 ### Notes
 - whipping cream that
 	- has better taste

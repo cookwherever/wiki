@@ -1,14 +1,5 @@
----
-title: cr�me de m�re
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: cr�me de m�re
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 cr�me de m�re = creme de mure KREM de MYUR Notes: This is a cr�me liqueur that's flavored with blackberries. Substitutes: cr�me de cassis
 
 ### Other Names

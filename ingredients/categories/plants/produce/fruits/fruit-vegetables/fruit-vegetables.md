@@ -1,14 +1,5 @@
----
-title: fruit vegetables
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- fruit-vegetables
----
+- title:: fruit vegetables
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, fruit-vegetables
 
 
 ### Other Names

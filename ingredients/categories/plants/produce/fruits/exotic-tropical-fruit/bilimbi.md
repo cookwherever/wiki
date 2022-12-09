@@ -1,14 +1,5 @@
----
-title: bilimbi
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: bilimbi
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 bilimbi star fruit
 
 ### Other Names

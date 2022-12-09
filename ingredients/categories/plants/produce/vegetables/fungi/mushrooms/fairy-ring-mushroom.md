@@ -1,15 +1,5 @@
----
-title: fairy-ring mushroom
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fungi
-- mushrooms
----
+- title:: fairy-ring mushroom
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fungi, mushrooms
 fairy-ring mushroom white mushrooms OR chanterelles
 
 ### Other Names

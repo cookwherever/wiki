@@ -1,11 +1,5 @@
----
-title: miscellaneous
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: miscellaneous
+- tags:: unreviewed, ingredients, categories, miscellaneous
 
 
 ### Other Names

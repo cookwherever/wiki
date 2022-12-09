@@ -1,14 +1,5 @@
----
-title: cranberries, dried
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: cranberries, dried
+- tags:: reviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 ### Notes
 - tangy
 - tart

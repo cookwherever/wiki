@@ -1,13 +1,5 @@
----
-title: juices
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: juices
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 
 
 ### Other Names

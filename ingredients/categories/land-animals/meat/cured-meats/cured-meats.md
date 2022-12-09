@@ -1,13 +1,5 @@
----
-title: cured meats
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- cured-meats
----
+- title:: cured meats
+- tags:: unreviewed, ingredients, categories, land-animals, meat, cured-meats
 ham
 
 ### Tips

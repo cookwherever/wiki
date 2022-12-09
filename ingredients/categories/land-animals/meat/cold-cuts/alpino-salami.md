@@ -1,13 +1,5 @@
----
-title: Alpino salami
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- cold-cuts
----
+- title:: Alpino salami
+- tags:: unreviewed, ingredients, categories, land-animals, meat, cold-cuts
 Alpino salami This is an Italian-style salami. Substitutes: salami
 
 ### Other Names

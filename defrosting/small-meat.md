@@ -1,6 +1,5 @@
----
-title: How to defrost hamburger or small cuts of meat
----
+- title:: How to defrost hamburger or small cuts of meat
+- tags:: 
 - Be careful when cooking previously frozen hamburger—it sometimes looks brown on the inside even if it hasn’t been adequately cooked.  To be sure, use a meat thermometer to make sure that the internal temperature of the meat is at least 160°.
 - The refrigerator method is the best way to thaw hamburger and small cuts of meat.  Since there’s less drip out, the meat will be juicier and more flavorful when cooked.  Allow 5 hours per pound.  After thawing, hamburger and poultry should be cooked within two days, beef and pork within five.
 - The cold water method is a good alternative to the refrigerator method.

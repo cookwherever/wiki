@@ -1,15 +1,5 @@
----
-title: chaya
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- vegetable-row-crops
-- cooking-greens
----
+- title:: chaya
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, vegetable-row-crops, cooking-greens
 chaya spinach
 
 ### Other Names

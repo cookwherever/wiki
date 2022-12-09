@@ -1,13 +1,5 @@
----
-title: asian spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-spices
----
+- title:: asian spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-spices
 
 
 ### Other Names

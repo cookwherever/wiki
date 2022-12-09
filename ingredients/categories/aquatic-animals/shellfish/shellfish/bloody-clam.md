@@ -1,12 +1,5 @@
----
-title: bloody clam
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: bloody clam
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 bloody clam Argina pexta
 
 ### Other Names

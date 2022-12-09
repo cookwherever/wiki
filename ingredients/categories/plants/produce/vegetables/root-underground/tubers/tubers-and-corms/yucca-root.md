@@ -1,16 +1,5 @@
----
-title: yucca root
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- tubers
-- tubers-and-corms
----
+- title:: yucca root
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, tubers, tubers-and-corms
 yucca root YOO-kuh See cassava.
 
 ### Other Names

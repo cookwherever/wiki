@@ -1,12 +1,5 @@
----
-title: Dutch process cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: Dutch process cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 Dutch process cocoa See cocoa.
 
 ### Other Names

@@ -1,15 +1,5 @@
----
-title: trumpet royale mushroom
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fungi
-- mushrooms
----
+- title:: trumpet royale mushroom
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fungi, mushrooms
 trumpet royale mushroom This is a tasty, meaty mushroom. Substitutes: shiitake OR porcini
 
 ### Other Names

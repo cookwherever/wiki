@@ -1,12 +1,5 @@
----
-title: black pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- pepper
----
+- title:: black pepper
+- tags:: unreviewed, ingredients, categories, flavorings, pepper
 black pepper = black peppercorns white pepper (less pungent, more delicate flavor) OR ground papaya seeds OR green peppercorns (softer, fresher tasting)
 
 ### Other Names

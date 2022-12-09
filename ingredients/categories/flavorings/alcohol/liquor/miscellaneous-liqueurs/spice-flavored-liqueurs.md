@@ -1,14 +1,5 @@
----
-title: spice-flavored liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: spice-flavored liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 spice-flavored liqueurs This category includes spiced rum, Goldschl�ger and k�mmel.
 
 ### Other Names

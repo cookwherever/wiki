@@ -1,8 +1,5 @@
----
-title: Cook Wherever
-tags:
-- reviewed
----
+- title:: Cook Wherever
+- tags:: reviewed
 
 A cooking knowledge base for everything and anything related to cooking.
 

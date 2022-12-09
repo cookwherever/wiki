@@ -1,14 +1,5 @@
----
-title: liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- liqueurs
----
+- title:: liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, liqueurs
 
 
 ### Other Names

@@ -1,16 +1,5 @@
----
-title: Darjeeling
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- teas
-- black-tea
----
+- title:: Darjeeling
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, teas, black-tea
 
 * First flush
 	* picked in early spring

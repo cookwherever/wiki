@@ -1,10 +1,5 @@
----
-title: other equipment
-tags:
-- unreviewed
-- equipment
-- other-equipment
----
+- title:: other equipment
+- tags:: unreviewed, equipment, other-equipment
 
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: pickled string beans
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickled string beans
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pickled string beans See the Pickled String Beans recipe posted on RecipeSource.com.
 
 ### Other Names

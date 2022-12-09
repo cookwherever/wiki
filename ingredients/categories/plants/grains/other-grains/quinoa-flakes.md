@@ -1,13 +1,5 @@
----
-title: quinoa flakes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- other-grains
----
+- title:: quinoa flakes
+- tags:: unreviewed, ingredients, categories, plants, grains, other-grains
 quinoa flakes This is steamed, rolled, and flaked quinoa. It's used like oatmeal to make a hot cereal. Substitutes: rolled oats
 
 ### Other Names

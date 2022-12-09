@@ -1,15 +1,5 @@
----
-title: lumaconi
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-shapes
----
+- title:: lumaconi
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-shapes
 lumaconi = giant snails This is an outsized version of the Italian pasta shape called lumache, which resembles a snail shells. Lumaconi are usually stuffed and baked. Substitutes: conchiglioni OR manicotti OR cannelloni
 
 ### Other Names

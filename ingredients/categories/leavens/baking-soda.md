@@ -1,11 +1,5 @@
----
-title: baking soda
-tags:
-- unreviewed
-- ingredients
-- categories
-- leavens
----
+- title:: baking soda
+- tags:: unreviewed, ingredients, categories, leavens
 ### Notes
 - Invented to make [[breads]] faster to rise, which is usually done with [[yeast]]
 - The chemical sodium bicarbonate is an alkaline (or [[basic]]) powder.

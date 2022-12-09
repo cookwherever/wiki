@@ -1,13 +1,5 @@
----
-title: snags
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: snags
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 snags = bangers = salsiccia = wurst = sausissons
 
 ### Other Names

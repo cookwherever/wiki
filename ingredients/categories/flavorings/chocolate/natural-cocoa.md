@@ -1,12 +1,5 @@
----
-title: natural cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: natural cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 natural cocoa See cocoa.
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: vegetable marrow
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- summer-squash
----
+- title:: vegetable marrow
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, summer-squash
 vegetable marrow = marrow squash Substitutes: zucchini (smaller)
 
 ### Other Names

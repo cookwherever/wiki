@@ -1,14 +1,5 @@
----
-title: sunflower sprouts
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: sunflower sprouts
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 sunflower sprouts These are sweet and crunchy. Substitutes: mung bean sprouts OR alfalfa sprouts OR soybean sprouts
 
 ### Other Names

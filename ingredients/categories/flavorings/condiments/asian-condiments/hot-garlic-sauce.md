@@ -1,13 +1,5 @@
----
-title: hot garlic sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: hot garlic sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 hot garlic sauce any Asian hot chile paste
 
 ### Other Names

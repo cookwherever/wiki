@@ -1,14 +1,5 @@
----
-title: Agrinion olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: Agrinion olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 Agrinion olive Notes: This is a large, green Greek olive with very tender flesh.
 
 ### Other Names

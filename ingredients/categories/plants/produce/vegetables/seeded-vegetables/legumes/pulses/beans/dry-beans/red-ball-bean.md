@@ -1,18 +1,5 @@
----
-title: red ball bean
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- dry-beans
----
+- title:: red ball bean
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, dry-beans
 red ball bean = frijo bola roja
 
 ### Other Names

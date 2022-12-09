@@ -1,12 +1,5 @@
----
-title: vanilla essence
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- extracts-and-flavoring-oils
----
+- title:: vanilla essence
+- tags:: unreviewed, ingredients, categories, flavorings, extracts-and-flavoring-oils
 vanilla essence This has two meanings. In Britain, vanilla essence is the same as America's imitation vanilla extract. Elsewhere, vanilla essence may mean a highly concentrated and pricey form of pure vanilla extract.
 
 ### Other Names

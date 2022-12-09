@@ -1,14 +1,5 @@
----
-title: wheat flours
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- wheat-flours
----
+- title:: wheat flours
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, wheat-flours
 
 
 ### Other Names

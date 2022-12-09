@@ -1,13 +1,5 @@
----
-title: poultry seasoning
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: poultry seasoning
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 poultry seasoning Combine equal parts dried sage, thyme, and marjoram or oregano.
 
 ### Other Names

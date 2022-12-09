@@ -1,12 +1,5 @@
----
-title: vegetable broth
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: vegetable broth
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 vegetable broth reconstituted vegetable bouillon cubes
 
 ### Other Names

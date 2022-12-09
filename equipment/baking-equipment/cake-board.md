@@ -1,10 +1,5 @@
----
-title: cake board
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: cake board
+- tags:: equipment, unreviewed, baking-equipment
 
 ### Other Names
 * cake circle

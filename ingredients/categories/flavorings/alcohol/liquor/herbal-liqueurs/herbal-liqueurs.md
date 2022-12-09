@@ -1,14 +1,5 @@
----
-title: herbal liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- herbal-liqueurs
----
+- title:: herbal liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, herbal-liqueurs
 herbal liqueurs = herb liqueurs Herbal liqueurs include Chartreuse, Strega, Suze, K�mmel, Izarra, J�germeister, Fernet Branca, and anise-flavored liqueurs.
 
 ### Tips

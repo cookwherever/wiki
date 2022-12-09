@@ -1,13 +1,5 @@
----
-title: passion fruit juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: passion fruit juice
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 passion fruit juice key lime juice
 
 ### Other Names

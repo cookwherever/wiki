@@ -1,15 +1,5 @@
----
-title: common tropical fruit
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- tropical
-- common-tropical-fruit
----
+- title:: common tropical fruit
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, tropical, common-tropical-fruit
 
 
 ### Other Names

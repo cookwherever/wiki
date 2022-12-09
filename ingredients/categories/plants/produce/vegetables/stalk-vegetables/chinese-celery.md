@@ -1,14 +1,5 @@
----
-title: Chinese celery
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- stalk-vegetables
----
+- title:: Chinese celery
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, stalk-vegetables
 Chinese celery = khuen chai = kinchay This has a stronger flavor than ordinary celery, and it's often used in stir-fries and soups. Look for it in Asian markets. Substitutes: celery
 
 ### Other Names

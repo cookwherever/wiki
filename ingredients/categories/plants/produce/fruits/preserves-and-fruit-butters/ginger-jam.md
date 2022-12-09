@@ -1,14 +1,5 @@
----
-title: ginger jam
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: ginger jam
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 ginger jam Asian grocery stores Substitutes: chopped candied ginger
 
 ### Other Names

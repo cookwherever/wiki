@@ -1,10 +1,5 @@
----
-title: Maillard Reaction
-tags:
-- chemistry
-- reaction
-- reviewed
----
+- title:: Maillard Reaction
+- tags:: chemistry, reaction, reviewed
 ### Notes
 - Named after Louise Camille Maillard
 - Set of reactions that create brown crust on steak and color of bread crust

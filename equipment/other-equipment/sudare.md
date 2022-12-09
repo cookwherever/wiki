@@ -1,10 +1,5 @@
----
-title: sudare
-tags:
-- unreviewed
-- equipment
-- other-equipment
----
+- title:: sudare
+- tags:: unreviewed, equipment, other-equipment
 sudare = sushi sudare = sushi roller These are made of bamboo. Substitutes: flexible plastic place mat
 
 ### Other Names

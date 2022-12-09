@@ -1,10 +1,5 @@
----
-title: roasting equipment
-tags:
-- unreviewed
-- equipment
-- roasting-equipment
----
+- title:: roasting equipment
+- tags:: unreviewed, equipment, roasting-equipment
 
 
 ### Other Names

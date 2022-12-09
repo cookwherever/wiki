@@ -1,14 +1,5 @@
----
-title: baby acorn squash
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- winter-squash
----
+- title:: baby acorn squash
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, winter-squash
 baby acorn squash summer squash
 
 ### Other Names

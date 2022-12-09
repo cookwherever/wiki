@@ -1,12 +1,5 @@
----
-title: shellfish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: shellfish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 crab
 
 ### Tips

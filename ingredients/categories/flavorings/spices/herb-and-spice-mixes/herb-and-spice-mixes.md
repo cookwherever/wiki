@@ -1,13 +1,5 @@
----
-title: herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- herb-and-spice-mixes
----
+- title:: herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, herb-and-spice-mixes
 
 
 ### Other Names

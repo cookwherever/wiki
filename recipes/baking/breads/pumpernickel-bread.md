@@ -1,11 +1,5 @@
----
-title: pumpernickel bread
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: pumpernickel bread
+- tags:: unreviewed, recipes, baking, breads
 pumpernickel bread This heavy and slightly sour bread is made with molasses and a blend of rye and wheat flours. It's often cut into thin slices and used for appetizers. Substitutes: sourdough rye OR Russian black bread
 
 ### Other Names

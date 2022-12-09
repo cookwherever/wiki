@@ -1,12 +1,5 @@
----
-title: oyster liquor
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- stocks-broths-and-gravies
----
+- title:: oyster liquor
+- tags:: unreviewed, ingredients, categories, flavorings, stocks-broths-and-gravies
 oyster liquor clam juice
 
 ### Other Names

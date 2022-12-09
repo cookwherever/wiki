@@ -1,6 +1,2 @@
----
-title: recipe
-tags:
-- unreviewed
-- templates
----
+- title:: recipe
+- tags:: unreviewed, templates

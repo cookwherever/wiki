@@ -1,12 +1,5 @@
----
-title: regular cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: regular cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 regular cocoa See cocoa.
 
 ### Other Names

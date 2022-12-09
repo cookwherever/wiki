@@ -1,12 +1,5 @@
----
-title: beluga caviar
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: beluga caviar
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 ### Notes
 - One of the best/most expensive 
 - Large, bluish-grey, slightly sweet

@@ -1,14 +1,5 @@
----
-title: other noodles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- other-noodles
----
+- title:: other noodles
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, other-noodles
 
 
 ### Other Names

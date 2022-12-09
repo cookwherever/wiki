@@ -1,14 +1,5 @@
----
-title: kaiware
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: kaiware
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 kaiware ki-WAHR-ay See daikon sprouts.
 
 ### Other Names

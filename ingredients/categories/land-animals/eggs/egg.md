@@ -1,12 +1,5 @@
----
-title: egg
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- eggs
----
+- title:: egg
+- tags:: unreviewed, ingredients, categories, land-animals, eggs
 Equivalents: One egg contains about one tablespoon of egg yolk and two tablespoons of egg white and weighs about two ounces without the shell.
 
 ### Notes

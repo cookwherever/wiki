@@ -1,13 +1,5 @@
----
-title: skipjack
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: skipjack
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 skipjack See tuna.
 
 ### Other Names

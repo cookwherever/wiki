@@ -1,10 +1,5 @@
----
-title: funnel
-tags:
-- unreviewed
-- equipment
-- extracting-and-straining-tools
----
+- title:: funnel
+- tags:: unreviewed, equipment, extracting-and-straining-tools
 funnel roll paper or aluminum foil into a cone ,
 
 ### Other Names

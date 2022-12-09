@@ -1,12 +1,5 @@
----
-title: r
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: r
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 regular sugar
 
 ### Other Names

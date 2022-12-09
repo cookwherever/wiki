@@ -1,13 +1,5 @@
----
-title: pickled onions
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickled onions
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pickled onions See the Pickled Onions recipe posted by the Internet Chef.
 
 ### Other Names

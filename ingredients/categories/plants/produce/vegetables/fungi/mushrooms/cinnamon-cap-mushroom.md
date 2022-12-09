@@ -1,15 +1,5 @@
----
-title: cinnamon cap mushroom
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fungi
-- mushrooms
----
+- title:: cinnamon cap mushroom
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fungi, mushrooms
 cinnamon cap mushroom Cinnamon cap mushrooms have a firm texture and an earthy flavor. Substitutes: shiitake
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: cheese substitutes
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- cheese-substitutes
----
+- title:: cheese substitutes
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, cheese-substitutes
 There are many brands of cheese substitutes on the market today, and most are made with soybeans, rice, almonds and/or hemp seed. Most are made to taste something like popular milk-based cheeses like Cheddar, Mozzarella, Gouda, American, Provolone, and Jack.
 
 ### Tips

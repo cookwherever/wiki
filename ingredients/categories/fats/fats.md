@@ -1,11 +1,5 @@
----
-title: fats
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
----
+- title:: fats
+- tags:: unreviewed, ingredients, categories, fats
 
 
 ### Other Names

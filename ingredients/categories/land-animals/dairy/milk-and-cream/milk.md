@@ -1,13 +1,5 @@
----
-title: milk
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: milk
+- tags:: reviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 ### Varieties
 * skim milk or nonfat milk
 	* 0.5% fat

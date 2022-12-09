@@ -1,11 +1,5 @@
----
-title: gypsum powder
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: gypsum powder
+- tags:: unreviewed, ingredients, categories, miscellaneous
 gypsum powder Recipes for ale and mead often call for this.
 
 ### Other Names

@@ -1,16 +1,5 @@
----
-title: tubers & corms
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- tubers
-- tubers-and-corms
----
+- title:: tubers & corms
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, tubers, tubers-and-corms
 sweet potatoes
 
 ### Tips

@@ -1,12 +1,5 @@
----
-title: nuts-seeds
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
----
+- title:: nuts-seeds
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds
 * nuts - [[nuts-seeds]]
 * nut & seed pastes - [[nut-pastes]]
 * nut flours & meals - [[nut-flours-and-meals]]

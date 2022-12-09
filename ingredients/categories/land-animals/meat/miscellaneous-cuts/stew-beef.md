@@ -1,13 +1,5 @@
----
-title: stew beef
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- miscellaneous-cuts
----
+- title:: stew beef
+- tags:: unreviewed, ingredients, categories, land-animals, meat, miscellaneous-cuts
 stew beef = beef for stew = diced beef These cubes of meat are tough enough to require slow cooking in a liquid. Don't use them for kabobs--they're too tough for the grill. Substitutes: chuck steak (cut into small pieces)
 
 ### Other Names

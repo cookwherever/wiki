@@ -1,13 +1,5 @@
----
-title: dianthus
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: dianthus
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 dianthus These have a clove-like flavor.
 
 ### Other Names

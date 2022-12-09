@@ -1,13 +1,5 @@
----
-title: breakfast cream
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: breakfast cream
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 breakfast cream = qaimaaq clotted cream
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: rice
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- grains
-- rice
----
+- title:: rice
+- tags:: reviewed, ingredients, categories, plants, grains, rice
 ### Notes
 - Important crop in Asia
 

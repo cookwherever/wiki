@@ -1,14 +1,5 @@
----
-title: tart shell
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- doughs
----
+- title:: tart shell
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, doughs
 tart shell = pastry tart shell
 
 ### Other Names

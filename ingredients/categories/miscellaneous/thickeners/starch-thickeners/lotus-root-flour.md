@@ -1,13 +1,5 @@
----
-title: lotus root flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- thickeners
-- starch-thickeners
----
+- title:: lotus root flour
+- tags:: unreviewed, ingredients, categories, miscellaneous, thickeners, starch-thickeners
 lotus root flour This is gluten-free.
 
 ### Other Names

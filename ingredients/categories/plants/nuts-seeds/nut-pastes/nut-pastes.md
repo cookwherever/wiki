@@ -1,13 +1,5 @@
----
-title: nut pastes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-pastes
----
+- title:: nut pastes
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-pastes
 
 
 ### Other Names

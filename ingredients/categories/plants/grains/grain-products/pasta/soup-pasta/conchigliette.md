@@ -1,15 +1,5 @@
----
-title: conchigliette
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- soup-pasta
----
+- title:: conchigliette
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, soup-pasta
 conchigliette = baby shells This is a tiny version of a classic Italian pasta shape: the conchiglie or conch shell. Conchigliette is most often used as a soup pasta. Substitutes: ditalini OR tubettini OR tripolini OR stelle OR other soup pasta
 
 ### Other Names

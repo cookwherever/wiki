@@ -1,13 +1,5 @@
----
-title: horseradish relish
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: horseradish relish
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 horseradish relish See horseradish.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: beef jerky
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- dried-meats
----
+- title:: beef jerky
+- tags:: unreviewed, ingredients, categories, land-animals, meat, dried-meats
 beef jerky These chewy strips of dried beef don't need refrigeration, so they're popular snacks for hikers and travelers. The biggest drawbacks are that they're high in sodium, calories, and price. Substitutes: turkey jerky OR dulse (a salty sea vegetable that can be eaten raw)
 
 ### Other Names

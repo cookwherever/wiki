@@ -1,13 +1,5 @@
----
-title: african condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- african-condiments
----
+- title:: african condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, african-condiments
 
 
 ### Other Names

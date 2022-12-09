@@ -1,14 +1,5 @@
----
-title: Chaubier cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Chaubier cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 Chaubier cheese This mild French cheese is made with a blend of cow and goat milk.
 
 ### Other Names

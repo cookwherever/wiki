@@ -1,13 +1,5 @@
----
-title: taco sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- hispanic-condiments
----
+- title:: taco sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, hispanic-condiments
 taco sauce See the Taco Sauce recipe posted on SOAR.
 
 ### Other Names

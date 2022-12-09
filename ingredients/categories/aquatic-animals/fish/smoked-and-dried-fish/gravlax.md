@@ -1,13 +1,5 @@
----
-title: gravlax
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: gravlax
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 gravlax = gravadlax = gravlox lox
 
 ### Other Names

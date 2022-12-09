@@ -1,12 +1,5 @@
----
-title: fats & oils category
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- fats-and-oils-category
----
+- title:: fats & oils category
+- tags:: unreviewed, ingredients, categories, fats, fats-and-oils-category
 
 
 ### Other Names

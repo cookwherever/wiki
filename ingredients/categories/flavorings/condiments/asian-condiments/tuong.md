@@ -1,13 +1,5 @@
----
-title: tuong
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: tuong
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 tuong = toi sauce = Vietnamese soy sauce This is a salty bean paste used in Vietnamese cuisine. Substitutes: Blend equal parts bean sauce and water
 
 ### Other Names

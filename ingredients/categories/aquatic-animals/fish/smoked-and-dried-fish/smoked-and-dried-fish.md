@@ -1,13 +1,5 @@
----
-title: smoked & dried fish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: smoked & dried fish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 
 
 ### Other Names

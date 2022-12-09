@@ -1,14 +1,5 @@
----
-title: Amphissa olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: Amphissa olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 Amphissa olive = Amfisa olive These are dark purple Greek olives that are hard to find in the U.S. They're great for snacking. Substitutes: Kalamata olives OR Gaeta olives
 
 ### Other Names

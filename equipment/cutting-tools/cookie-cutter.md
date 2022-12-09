@@ -1,10 +1,5 @@
----
-title: cookie cutter
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: cookie cutter
+- tags:: equipment, unreviewed, cutting-tools
 ### Substitutes
 * glass
 * empty can

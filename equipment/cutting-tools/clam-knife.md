@@ -1,10 +1,5 @@
----
-title: clam knife
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: clam knife
+- tags:: equipment, unreviewed, cutting-tools
 
 ### Substitutes
 - Microwave for 20 seconds until oysters open

@@ -1,13 +1,5 @@
----
-title: applejack
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- brandy
----
+- title:: applejack
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, brandy
 applejack See apple brandy.
 
 ### Other Names

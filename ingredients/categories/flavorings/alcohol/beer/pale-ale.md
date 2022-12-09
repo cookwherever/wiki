@@ -1,13 +1,5 @@
----
-title: pale ale
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- beer
----
+- title:: pale ale
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, beer
 pale ale = amber ale These golden brown ales are somewhat bitter and fruity.
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: plum wine
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- wine
-- fruit-wine
----
+- title:: plum wine
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, wine, fruit-wine
 plum wine These are wines that are made from plums. Some producers leave the stones in while the plums are fermenting, giving the wine a bit of almond flavoring as well.
 
 ### Other Names

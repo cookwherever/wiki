@@ -1,14 +1,5 @@
----
-title: berry syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- fruit-syrups
----
+- title:: berry syrup
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, fruit-syrups
 berry syrup Notes: Berry syrups make a wonderful topping to pancakes, waffles, French toast, oatmeal, ice cream, pies, and other dishes. To make your own: See the recipe for Sweet Berry Syrups on recipegoldmine.com, or for Berry Syrup on RecipeSource.
 
 ### Other Names

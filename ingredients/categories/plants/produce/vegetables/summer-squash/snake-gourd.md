@@ -1,14 +1,5 @@
----
-title: snake gourd
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- summer-squash
----
+- title:: snake gourd
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, summer-squash
 snake gourd zucchini (smaller) OR other summer squash
 
 ### Other Names

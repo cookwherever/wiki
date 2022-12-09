@@ -1,10 +1,5 @@
----
-title: baking equipment
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: baking equipment
+- tags:: equipment, unreviewed, baking-equipment
 ### Varieties
 * air-bake cookie sheet - [[insulated-cookie-sheet]]
 * baking sheet - [[cookie-sheet]]

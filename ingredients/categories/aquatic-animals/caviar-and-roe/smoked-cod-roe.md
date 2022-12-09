@@ -1,12 +1,5 @@
----
-title: smoked cod roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: smoked cod roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 smoked cod roe other smoked roe
 
 ### Other Names

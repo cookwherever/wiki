@@ -1,10 +1,5 @@
----
-title: apple peeler and corer
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: apple peeler and corer
+- tags:: equipment, unreviewed, cutting-tools
 ### Other Names
 * vegetable peeler
 

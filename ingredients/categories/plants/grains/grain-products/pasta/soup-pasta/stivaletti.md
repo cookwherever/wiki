@@ -1,15 +1,5 @@
----
-title: stivaletti
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- soup-pasta
----
+- title:: stivaletti
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, soup-pasta
 stivaletti These tiny pasta shapes are usually served in a broth or very light soup. Substitutes: other soup pasta
 
 ### Other Names

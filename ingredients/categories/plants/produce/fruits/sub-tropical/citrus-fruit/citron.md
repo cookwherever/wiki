@@ -1,15 +1,5 @@
----
-title: citron
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- sub-tropical
-- citrus-fruit
----
+- title:: citron
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, sub-tropical, citrus-fruit
 citron = cedro = yuzu SIHT-ruhn Substitutes: lemon
 
 ### Other Names

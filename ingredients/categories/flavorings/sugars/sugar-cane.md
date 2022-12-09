@@ -1,12 +1,5 @@
----
-title: sugar cane
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: sugar cane
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 sugar cane These are fun to chew on. They're available in the produce section either peeled (left) or unpeeled.
 
 ### Other Names

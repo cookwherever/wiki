@@ -1,17 +1,5 @@
----
-title: French green lentils
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- lentils
----
+- title:: French green lentils
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, lentils
 These choice lentils were originally grown in the volcanic soils of Puy in France, but now they're also grown in North America and Italy. They're especially good in salads since they remain firm after cooking and have a rich flavor. They cook a bit slower than other lentils. 
 
 ### Substitutes

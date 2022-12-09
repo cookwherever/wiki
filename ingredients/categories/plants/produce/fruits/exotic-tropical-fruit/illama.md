@@ -1,14 +1,5 @@
----
-title: illama
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: illama
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 illama These are hard to find outside of Mexico or Guatamala. Substitutes: sweetsop OR cherimoya
 
 ### Other Names

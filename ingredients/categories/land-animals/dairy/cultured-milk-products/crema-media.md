@@ -1,13 +1,5 @@
----
-title: crema media
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: crema media
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 crema media See crema.
 
 ### Other Names

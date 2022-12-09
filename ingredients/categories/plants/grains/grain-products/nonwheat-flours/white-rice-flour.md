@@ -1,14 +1,5 @@
----
-title: white rice flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- nonwheat-flours
----
+- title:: white rice flour
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, nonwheat-flours
 white rice flour See rice flour.
 
 ### Other Names

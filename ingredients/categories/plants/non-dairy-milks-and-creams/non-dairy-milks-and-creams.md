@@ -1,12 +1,5 @@
----
-title: non-dairy milks & creams
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- non-dairy-milks-and-creams
----
+- title:: non-dairy milks & creams
+- tags:: unreviewed, ingredients, categories, plants, non-dairy-milks-and-creams
 
 
 ### Other Names

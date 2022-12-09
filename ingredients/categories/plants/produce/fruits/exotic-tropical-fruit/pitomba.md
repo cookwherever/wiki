@@ -1,14 +1,5 @@
----
-title: pitomba
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: pitomba
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 pitomba apricots
 
 ### Other Names

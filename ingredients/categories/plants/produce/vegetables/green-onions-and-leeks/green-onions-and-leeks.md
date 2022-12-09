@@ -1,14 +1,5 @@
----
-title: green onions & leeks
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- green-onions-and-leeks
----
+- title:: green onions & leeks
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, green-onions-and-leeks
 
 
 ### Other Names

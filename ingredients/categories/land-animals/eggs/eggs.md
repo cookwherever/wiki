@@ -1,12 +1,5 @@
----
-title: eggs
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- eggs
----
+- title:: eggs
+- tags:: unreviewed, ingredients, categories, land-animals, eggs
 
 ### Notes
 

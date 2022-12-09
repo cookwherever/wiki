@@ -1,14 +1,5 @@
----
-title: Parmesan cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- firm-cheeses
----
+- title:: Parmesan cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, firm-cheeses
 ### Notes
 - firm
 - pungent and salty

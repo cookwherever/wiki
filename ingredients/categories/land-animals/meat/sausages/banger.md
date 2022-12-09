@@ -1,13 +1,5 @@
----
-title: banger
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: banger
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 banger This is a mild British pork sausage.
 
 ### Other Names

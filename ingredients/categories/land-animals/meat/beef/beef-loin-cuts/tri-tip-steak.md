@@ -1,14 +1,5 @@
----
-title: tri-tip steak
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- beef
-- beef-loin-cuts
----
+- title:: tri-tip steak
+- tags:: unreviewed, ingredients, categories, land-animals, meat, beef, beef-loin-cuts
 tri-tip steak These steaks are cut from a tri-tip roast. Substitutes: sirloin steak OR flank steak
 
 ### Other Names

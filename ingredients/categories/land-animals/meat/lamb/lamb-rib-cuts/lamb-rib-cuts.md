@@ -1,14 +1,5 @@
----
-title: lamb rib cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- lamb-rib-cuts
----
+- title:: lamb rib cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, lamb-rib-cuts
 
 
 ### Other Names

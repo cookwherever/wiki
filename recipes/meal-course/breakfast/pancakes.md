@@ -1,8 +1,2 @@
----
-title: pancakes
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: pancakes
+- tags:: unreviewed, recipes, meal-course, breakfast

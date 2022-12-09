@@ -1,11 +1,5 @@
----
-title: crackers
-tags:
-- unreviewed
-- recipes
-- baking
-- crackers
----
+- title:: crackers
+- tags:: unreviewed, recipes, baking, crackers
 
 
 ### Other Names

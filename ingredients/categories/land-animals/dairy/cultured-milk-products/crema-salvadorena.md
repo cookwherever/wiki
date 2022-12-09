@@ -1,13 +1,5 @@
----
-title: crema Salvadoreña
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: crema Salvadoreña
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 crema Salvadoreña See crema.
 
 ### Other Names

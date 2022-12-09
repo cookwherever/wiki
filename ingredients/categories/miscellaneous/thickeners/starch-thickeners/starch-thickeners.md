@@ -1,13 +1,5 @@
----
-title: starch thickeners
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- thickeners
-- starch-thickeners
----
+- title:: starch thickeners
+- tags:: unreviewed, ingredients, categories, miscellaneous, thickeners, starch-thickeners
 starch thickeners These silky powders are used to thicken sauces, gravies, pie fillings, and puddings. They're popular because they thicken without adding fat or much flavor.
 
 ### Tips

@@ -1,12 +1,5 @@
----
-title: smelt roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: smelt roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 smelt roe = masago This is bright orange and moderately crunchy. Substitutes: flying fish roe OR lumpfish roe
 
 ### Other Names

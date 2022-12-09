@@ -1,13 +1,5 @@
----
-title: osho sho
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- african-spices
----
+- title:: osho sho
+- tags:: unreviewed, ingredients, categories, flavorings, spices, african-spices
 osho sho uh-SHOW-show
 
 ### Other Names

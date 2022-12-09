@@ -1,14 +1,5 @@
----
-title: asian noodles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- asian-noodles
----
+- title:: asian noodles
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, asian-noodles
 other Asian noodles
 
 ### Tips

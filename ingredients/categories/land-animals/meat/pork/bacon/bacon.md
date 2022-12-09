@@ -1,14 +1,5 @@
----
-title: bacon
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- bacon
----
+- title:: bacon
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, bacon
 BAY-kuhn
 
 ### Notes

@@ -1,14 +1,5 @@
----
-title: raspberry syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- fruit-syrups
----
+- title:: raspberry syrup
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, fruit-syrups
 raspberry syrup Torani is a well-known brand. Substitutes: grenadine
 
 ### Other Names

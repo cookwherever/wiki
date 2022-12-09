@@ -1,13 +1,5 @@
----
-title: chrain
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: chrain
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 chrain See horseradish.
 
 ### Other Names

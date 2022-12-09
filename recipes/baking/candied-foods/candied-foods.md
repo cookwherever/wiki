@@ -1,11 +1,5 @@
----
-title: candied foods
-tags:
-- unreviewed
-- recipes
-- baking
-- candied-foods
----
+- title:: candied foods
+- tags:: unreviewed, recipes, baking, candied-foods
 
 
 ### Other Names

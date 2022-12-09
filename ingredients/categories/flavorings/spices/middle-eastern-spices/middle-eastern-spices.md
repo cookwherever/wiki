@@ -1,13 +1,5 @@
----
-title: middle eastern spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- middle-eastern-spices
----
+- title:: middle eastern spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, middle-eastern-spices
 
 
 ### Other Names

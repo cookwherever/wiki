@@ -1,14 +1,5 @@
----
-title: soft cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- soft-cheeses
----
+- title:: soft cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, soft-cheeses
 
 
 ### Other Names

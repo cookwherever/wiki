@@ -1,13 +1,5 @@
----
-title: milk & cream
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: milk & cream
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 
 
 ### Other Names

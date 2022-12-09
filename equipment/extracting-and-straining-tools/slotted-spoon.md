@@ -1,10 +1,5 @@
----
-title: slotted spoon
-tags:
-- unreviewed
-- equipment
-- extracting-and-straining-tools
----
+- title:: slotted spoon
+- tags:: unreviewed, equipment, extracting-and-straining-tools
 slotted spoon Chinese wire-mesh strainer OR colander nested in pot OR tongs
 
 ### Other Names

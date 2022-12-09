@@ -1,15 +1,5 @@
----
-title: gingerroot
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
----
+- title:: gingerroot
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes
 gingerroot See ginger root.
 
 ### Other Names

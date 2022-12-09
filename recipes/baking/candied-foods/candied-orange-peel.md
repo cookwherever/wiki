@@ -1,11 +1,5 @@
----
-title: candied orange peel
-tags:
-- unreviewed
-- recipes
-- baking
-- candied-foods
----
+- title:: candied orange peel
+- tags:: unreviewed, recipes, baking, candied-foods
 candied orange peel See the candied citrus peel entry.
 
 ### Other Names

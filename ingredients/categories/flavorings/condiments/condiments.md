@@ -1,12 +1,5 @@
----
-title: condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
----
+- title:: condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments
 
 
 ### Other Names

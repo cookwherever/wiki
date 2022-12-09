@@ -1,14 +1,5 @@
----
-title: onion sprouts
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sprouts
----
+- title:: onion sprouts
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sprouts
 onion sprouts These have a distinct onion flavor. Substitutes: daikon sprouts
 
 ### Other Names

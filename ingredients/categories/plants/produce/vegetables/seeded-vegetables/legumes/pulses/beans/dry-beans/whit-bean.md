@@ -1,18 +1,5 @@
----
-title: whit bean
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- dry-beans
----
+- title:: whit bean
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, dry-beans
 whit bean = dermason bean
 
 ### Other Names

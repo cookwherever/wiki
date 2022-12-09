@@ -1,13 +1,5 @@
----
-title: violet
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: violet
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 violet nasturtium (in salads) OR borage (in salads) OR pansy
 
 ### Other Names

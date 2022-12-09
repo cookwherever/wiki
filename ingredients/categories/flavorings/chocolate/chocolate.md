@@ -1,12 +1,5 @@
----
-title: chocolate
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: chocolate
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 Chocolate is made from tropical cacao beans, which are transformed by machines and an inveterate spelling error into a bitter, brown paste of cocoa butter and cocoa solids. When this unsweetened chocolate is combined with sugar, vanilla, and other ingredients, the result, of course, is heavenly.
 
 Chocolate's notoriously hard to work with.  If you don't store it properly (preferably at 65° or so), the cocoa butter can separate slightly from the solids, causing the chocolate to "bloom."  This leaves a telltale gray residue on the surface and impairs the taste and texture slightly.   Chocolate will scorch if you melt it at too high a temperature, or "seize" and become thick and grainy if you add even a drop of cold liquid to it as it's melting.  You can prevent it from seizing by adding hot liquids (like cream) to chopped chocolate in order to melt it, or by making sure that anything you're dipping into the melted chocolate (like a strawberry or whisk) is perfectly dry.  If your chocolate has seized, you can still use it in any recipe that calls for chocolate to be blended with a liquid.  Just add the liquid to the chocolate and melt it again.  

@@ -1,15 +1,5 @@
----
-title: Greek seasoning
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herb-and-spice-mixes
----
+- title:: Greek seasoning
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herb-and-spice-mixes
 Greek seasoning Cavender's is a popular brand. To make your own: See the recipe for Greek Seasoning posted on RecipeSource.com. Substitutes: equal parts rosemary and paprika
 
 ### Other Names

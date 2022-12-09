@@ -1,10 +1,5 @@
----
-title: sifter
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: sifter
+- tags:: equipment, unreviewed, baking-equipment
 ### Substitutes
 - fine sieve
 

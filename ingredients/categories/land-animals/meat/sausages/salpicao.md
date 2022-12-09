@@ -1,13 +1,5 @@
----
-title: Salpicao
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- sausages
----
+- title:: Salpicao
+- tags:: unreviewed, ingredients, categories, land-animals, meat, sausages
 Salpicao = Salpic�o
 
 ### Other Names

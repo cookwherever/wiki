@@ -1,13 +1,5 @@
----
-title: buckwheat grits
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- buckwheat
----
+- title:: buckwheat grits
+- tags:: unreviewed, ingredients, categories, plants, grains, buckwheat
 buckwheat grits = buckwheat cereal = cream of buckwheat These are finely ground buckwheat groats that cook very quickly. They're commonly used as a breakfast cereal. Substitutes: barley grits OR hominy grits
 
 ### Other Names

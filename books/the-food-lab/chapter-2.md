@@ -1,10 +1,5 @@
----
-title: /home/breadchris/projects/cookbook/cookwherever/wiki/content
-tags:
-- unreviewed
-- books
-- the-food-lab
----
+- title:: /home/breadchris/projects/cookbook/cookwherever/wiki/content
+- tags:: unreviewed, books, the-food-lab
 # Soups, Stews, And The Science of Stock
 
 ## Stock

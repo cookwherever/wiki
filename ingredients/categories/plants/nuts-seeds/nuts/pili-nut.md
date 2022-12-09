@@ -1,13 +1,5 @@
----
-title: pili nut
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nuts
----
+- title:: pili nut
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nuts
 pili nut = Java almond almonds
 
 ### Other Names

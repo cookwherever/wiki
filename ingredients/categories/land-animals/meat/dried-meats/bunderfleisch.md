@@ -1,13 +1,5 @@
----
-title: bunderfleisch
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- dried-meats
----
+- title:: bunderfleisch
+- tags:: unreviewed, ingredients, categories, land-animals, meat, dried-meats
 bunderfleisch = b�ndner fleisch Notes: This air-dried beef is a Swiss delicacy. It's much more delicate that ordinary beef jerky. Substitutes: bresaola OR prosciutto
 
 ### Other Names

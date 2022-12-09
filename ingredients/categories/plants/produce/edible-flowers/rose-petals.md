@@ -1,13 +1,5 @@
----
-title: rose petals
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: rose petals
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 rose petals violet flowers (for syrups, jams, and for crystallizing) sage blossoms
 
 ### Other Names

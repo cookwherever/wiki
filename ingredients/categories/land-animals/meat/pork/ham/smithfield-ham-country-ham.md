@@ -1,14 +1,5 @@
----
-title: Smithfield ham country ham
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- ham
----
+- title:: Smithfield ham country ham
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, ham
 Smithfield ham country ham.
 
 ### Other Names

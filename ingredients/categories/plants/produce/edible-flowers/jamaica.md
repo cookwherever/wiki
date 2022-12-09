@@ -1,13 +1,5 @@
----
-title: Jamaica
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: Jamaica
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 Jamaica = hibiscus flowers = Jamaica sorrel = roselle Substitutes: Red Zinger tea
 
 ### Other Names

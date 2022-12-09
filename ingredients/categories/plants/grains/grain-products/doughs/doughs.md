@@ -1,14 +1,5 @@
----
-title: doughs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- doughs
----
+- title:: doughs
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, doughs
 
 
 ### Other Names

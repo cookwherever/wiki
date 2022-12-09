@@ -1,14 +1,5 @@
----
-title: Gran Torres
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: Gran Torres
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 Gran Torres This is a Spanish orange liqueur. Substitutes: Triple Sec
 
 ### Other Names

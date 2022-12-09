@@ -1,13 +1,5 @@
----
-title: indian spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- indian-spices
----
+- title:: indian spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, indian-spices
 
 
 ### Other Names

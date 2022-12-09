@@ -1,14 +1,5 @@
----
-title: apple, dried
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: apple, dried
+- tags:: reviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 ### Notes
 - often treated with sulfur to improve their color and shelf life
 

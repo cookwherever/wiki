@@ -1,14 +1,5 @@
----
-title: white Merlot
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- wine
-- blush-wine
----
+- title:: white Merlot
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, wine, blush-wine
 white Merlot This blush wine goes well with poultry and seafood.
 
 ### Other Names

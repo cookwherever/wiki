@@ -1,8 +1,2 @@
----
-title: toast
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: toast
+- tags:: unreviewed, recipes, meal-course, breakfast

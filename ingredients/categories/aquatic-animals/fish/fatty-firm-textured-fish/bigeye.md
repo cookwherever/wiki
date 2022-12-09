@@ -1,13 +1,5 @@
----
-title: bigeye
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: bigeye
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 bigeye See tuna.
 
 ### Other Names

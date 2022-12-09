@@ -1,13 +1,5 @@
----
-title: hanakatsuo
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: hanakatsuo
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 hanakatsuo See bonito flakes.
 
 ### Other Names

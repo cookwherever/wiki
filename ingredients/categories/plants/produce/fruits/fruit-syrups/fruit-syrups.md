@@ -1,14 +1,5 @@
----
-title: fruit syrups
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- fruit-syrups
----
+- title:: fruit syrups
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, fruit-syrups
 
 
 ### Other Names

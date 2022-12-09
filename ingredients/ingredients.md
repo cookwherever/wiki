@@ -1,9 +1,5 @@
----
-title: _index
-tags:
-- unreviewed
-- ingredients
----
+- title:: _index
+- tags:: unreviewed, ingredients
 # Ingredients
 Recipes are essentially just a collection of ingredients that are transformed through different [[techniques/_index|techniques]] to derive desirable qualities for us humans (or your pet if you want to play chef for them).
 

@@ -1,14 +1,5 @@
----
-title: fruit wine
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- wine
-- fruit-wine
----
+- title:: fruit wine
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, wine, fruit-wine
 fruit wine This is wine made from fruit other than grapes. Substitutes: fruit liqueur
 
 ### Other Names

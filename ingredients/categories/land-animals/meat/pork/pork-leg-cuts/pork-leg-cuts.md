@@ -1,14 +1,5 @@
----
-title: pork leg cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-leg-cuts
----
+- title:: pork leg cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-leg-cuts
 
 
 ### Other Names

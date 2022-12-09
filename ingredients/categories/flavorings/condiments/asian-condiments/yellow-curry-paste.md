@@ -1,13 +1,5 @@
----
-title: yellow curry paste
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: yellow curry paste
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 yellow curry paste = nam prik kaeng kari See the recipe for yellow curry paste posted on RecipeSource.com.
 
 ### Other Names

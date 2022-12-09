@@ -1,13 +1,5 @@
----
-title: almond filling
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-pastes
----
+- title:: almond filling
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-pastes
 almond filling This sweet filling is used to make pastries and cakes.
 
 ### Other Names

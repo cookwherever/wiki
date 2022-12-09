@@ -1,14 +1,5 @@
----
-title: N�kkelost
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: N�kkelost
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 ### Notes
 - Norwegian cheese
 - seasoned with caraway seeds, cumin, and cloves

@@ -1,12 +1,5 @@
----
-title: cooking spray
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: cooking spray
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 cooking spray (includes vegetable oil spray, olive oil spray, and butter-flavored spray)
 
 ### Other Names

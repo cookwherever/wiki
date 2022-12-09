@@ -1,15 +1,5 @@
----
-title: cocktail avocado
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- avocados
----
+- title:: cocktail avocado
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, avocados
 cocktail avocado = avocadito Notes: This is a very small variety.
 
 ### Other Names

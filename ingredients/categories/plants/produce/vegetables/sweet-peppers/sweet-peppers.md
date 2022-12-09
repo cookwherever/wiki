@@ -1,14 +1,5 @@
----
-title: sweet peppers
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- sweet-peppers
----
+- title:: sweet peppers
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, sweet-peppers
 
 
 ### Other Names

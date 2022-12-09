@@ -1,14 +1,5 @@
----
-title: fruit liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- fruit-liqueurs
----
+- title:: fruit liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, fruit-liqueurs
 fruit liqueurs fruit wine OR fruit syrup OR extracts (use much less)
 
 ### Other Names

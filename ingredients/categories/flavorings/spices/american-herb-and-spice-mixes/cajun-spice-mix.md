@@ -1,13 +1,5 @@
----
-title: Cajun spice mix
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: Cajun spice mix
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 Cajun spice mix = Cajun seasoning mix See the Cajun Spice Mix posting on RecipeSource.com. Substitutes: creole spice mix
 
 ### Other Names

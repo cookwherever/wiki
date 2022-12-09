@@ -1,13 +1,5 @@
----
-title: dogfish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: dogfish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 dogfish = Cape shark shark
 
 ### Other Names

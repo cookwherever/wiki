@@ -1,17 +1,5 @@
----
-title: Sweet Imperial onion
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: Sweet Imperial onion
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 Sweet Imperial onion See sweet onion.
 
 ### Other Names

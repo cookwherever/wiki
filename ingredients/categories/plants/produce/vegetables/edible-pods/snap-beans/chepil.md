@@ -1,15 +1,5 @@
----
-title: chepil
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- edible-pods
-- snap-beans
----
+- title:: chepil
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, edible-pods, snap-beans
 chepil Look for this in the produce section of Hispanic markets. Substitutes: green beans
 
 ### Other Names

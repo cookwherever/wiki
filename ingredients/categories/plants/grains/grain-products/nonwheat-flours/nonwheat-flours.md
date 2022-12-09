@@ -1,14 +1,5 @@
----
-title: nonwheat flours
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- nonwheat-flours
----
+- title:: nonwheat flours
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, nonwheat-flours
 
 
 ### Other Names

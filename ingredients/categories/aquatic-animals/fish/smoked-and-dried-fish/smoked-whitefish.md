@@ -1,13 +1,5 @@
----
-title: smoked whitefish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: smoked whitefish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 smoked whitefish This is delicious in salads. Look for it in upscale delis.
 
 ### Other Names

@@ -1,9 +1,5 @@
----
-title: Churning
-tags:
-- unreviewed
-- techniques
----
+- title:: Churning
+- tags:: unreviewed, techniques
 
 * Beating air into [[cream]] and slamming fat globules against each other
 * Over time, the air bubbles forced into the cream will attract the fat globules together and disrupt the membrane.

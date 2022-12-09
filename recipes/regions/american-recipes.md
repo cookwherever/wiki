@@ -1,10 +1,5 @@
----
-title: American Cooking Basics
-tags:
-- unreviewed
-- recipes
-- regions
----
+- title:: American Cooking Basics
+- tags:: unreviewed, recipes, regions
 
 ## Breakfast
 ### I got to run

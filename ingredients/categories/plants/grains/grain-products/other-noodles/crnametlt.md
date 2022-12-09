@@ -1,14 +1,5 @@
----
-title: c�rnamet�lt =
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- other-noodles
----
+- title:: c�rnamet�lt =
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, other-noodles
 c�rnamet�lt = cernametelt
 
 ### Other Names

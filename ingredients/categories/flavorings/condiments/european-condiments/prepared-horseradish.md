@@ -1,13 +1,5 @@
----
-title: prepared horseradish
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: prepared horseradish
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 prepared horseradish See horseradish.
 
 ### Other Names

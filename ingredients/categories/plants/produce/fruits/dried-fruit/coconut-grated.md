@@ -1,14 +1,5 @@
----
-title: coconut, grated
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: coconut, grated
+- tags:: reviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 ### Notes
 - Comes in bags
 - Usually stored in the baking supplies

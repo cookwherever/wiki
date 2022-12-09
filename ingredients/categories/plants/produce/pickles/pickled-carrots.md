@@ -1,13 +1,5 @@
----
-title: pickled carrots
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickled carrots
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pickled carrots See the Pickled Carrots recipe on RecipeSource.com.
 
 ### Other Names

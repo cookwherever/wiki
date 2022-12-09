@@ -1,10 +1,5 @@
----
-title: cookie sheet
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: cookie sheet
+- tags:: equipment, unreviewed, baking-equipment
 ### Substitutes
 - insulated cookie sheet
 	- bakes more slowly due to insulation

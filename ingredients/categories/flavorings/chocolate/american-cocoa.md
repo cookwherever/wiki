@@ -1,12 +1,5 @@
----
-title: American cocoa
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: American cocoa
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 American cocoa See cocoa.
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: cherry pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: cherry pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 cherry pepper pepperoncini
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: barbari bread
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
-- flatbreads
----
+- title:: barbari bread
+- tags:: unreviewed, recipes, baking, breads, flatbreads
 barbari bread = nan-e barbari = Persian flat bread This flatbread hails from Iran. Substitutes: sangak bread
 
 ### Other Names

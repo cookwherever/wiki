@@ -1,11 +1,5 @@
----
-title: baked goods category
-tags:
-- unreviewed
-- recipes
-- baking
-- baked-goods-category
----
+- title:: baked goods category
+- tags:: unreviewed, recipes, baking, baked-goods-category
 
 
 ### Other Names

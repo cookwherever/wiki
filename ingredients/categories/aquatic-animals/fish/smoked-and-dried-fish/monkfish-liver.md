@@ -1,13 +1,5 @@
----
-title: monkfish liver
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: monkfish liver
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 monkfish liver = foie de lotte = ankimo = monkfish foie gras This exquisite Japanese delicacy has the texture and richness of a choice p�t� de foie gras. It's usually poached, steamed, or saut�ed before serving in order. Look for it in well-stocked Japanese markets. Substitutes: p�t�
 
 ### Other Names

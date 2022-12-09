@@ -1,13 +1,5 @@
----
-title: coconut juice
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- juices
----
+- title:: coconut juice
+- tags:: unreviewed, ingredients, categories, plants, produce, juices
 coconut juice = nam katee To make your own: In a pan, combine grated unsweetened coconut and 1 cup water. Simmer briefly, then use strained liquid.
 
 ### Other Names

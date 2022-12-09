@@ -1,12 +1,5 @@
----
-title: salted duck egg
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- eggs
----
+- title:: salted duck egg
+- tags:: unreviewed, ingredients, categories, land-animals, eggs
 salted duck egg See the Recipesource.com recipe for Salted Eggs.
 
 ### Other Names

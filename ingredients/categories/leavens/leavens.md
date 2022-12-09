@@ -1,11 +1,5 @@
----
-title: leavens
-tags:
-- unreviewed
-- ingredients
-- categories
-- leavens
----
+- title:: leavens
+- tags:: unreviewed, ingredients, categories, leavens
 ### Varieties
 * ammonium carbonate - [[bakers-ammonia]]
 * baking ammonia - [[bakers-ammonia]]

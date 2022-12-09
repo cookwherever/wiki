@@ -1,13 +1,5 @@
----
-title: dwen jang
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: dwen jang
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 dwen jang = customary soy bean paste This is a salty Korean bean paste. Substitutes: red miso
 
 ### Other Names

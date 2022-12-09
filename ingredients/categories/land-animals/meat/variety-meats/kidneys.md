@@ -1,13 +1,5 @@
----
-title: kidneys
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- variety-meats
----
+- title:: kidneys
+- tags:: unreviewed, ingredients, categories, land-animals, meat, variety-meats
 
 
 ### Links

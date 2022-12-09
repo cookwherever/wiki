@@ -1,13 +1,5 @@
----
-title: nut flours & meals
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nut-flours-and-meals
----
+- title:: nut flours & meals
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nut-flours-and-meals
 
 
 ### Other Names

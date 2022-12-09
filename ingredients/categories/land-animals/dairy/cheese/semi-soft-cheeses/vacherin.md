@@ -1,14 +1,5 @@
----
-title: Vacherin
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-soft-cheeses
----
+- title:: Vacherin
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese, semi-soft-cheeses
 ### Notes
 - nutty flavor
 - melt-able

@@ -1,12 +1,5 @@
----
-title: cinnamon sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: cinnamon sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 cinnamon sugar Mix together 7 parts granulated sugar and 1 part cinnamon.
 
 ### Other Names

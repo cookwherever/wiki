@@ -1,13 +1,5 @@
----
-title: sweet gherkin
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: sweet gherkin
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 sweet gherkin cornichons (tarter)
 
 ### Other Names

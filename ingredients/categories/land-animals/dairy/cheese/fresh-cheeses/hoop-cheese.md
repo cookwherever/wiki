@@ -1,14 +1,5 @@
----
-title: hoop cheese
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- fresh-cheeses
----
+- title:: hoop cheese
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, fresh-cheeses
 hoop cheese pot cheese
 
 ### Other Names

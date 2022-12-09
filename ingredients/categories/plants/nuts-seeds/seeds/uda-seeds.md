@@ -1,13 +1,5 @@
----
-title: uda seeds
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- seeds
----
+- title:: uda seeds
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, seeds
 uda seeds OO-duh Notes: Look for these in African markets.
 
 ### Other Names

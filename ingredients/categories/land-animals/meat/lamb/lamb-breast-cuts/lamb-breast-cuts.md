@@ -1,14 +1,5 @@
----
-title: lamb breast cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- lamb-breast-cuts
----
+- title:: lamb breast cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, lamb-breast-cuts
 
 
 ### Other Names

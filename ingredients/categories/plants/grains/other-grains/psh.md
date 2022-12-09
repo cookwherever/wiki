@@ -1,13 +1,5 @@
----
-title: PSH
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- other-grains
----
+- title:: PSH
+- tags:: unreviewed, ingredients, categories, plants, grains, other-grains
 PSH See psyllium seed husks.
 
 ### Other Names

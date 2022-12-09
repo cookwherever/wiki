@@ -1,12 +1,5 @@
----
-title: palm syrup
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- liquid-sweeteners
----
+- title:: palm syrup
+- tags:: unreviewed, ingredients, categories, flavorings, liquid-sweeteners
 palm syrup melt palm sugar, then strain
 
 ### Other Names

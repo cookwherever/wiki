@@ -1,14 +1,5 @@
----
-title: lamb leg cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- lamb-leg-cuts
----
+- title:: lamb leg cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, lamb-leg-cuts
 
 
 ### Other Names

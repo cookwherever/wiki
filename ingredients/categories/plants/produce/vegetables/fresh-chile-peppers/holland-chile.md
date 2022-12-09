@@ -1,14 +1,5 @@
----
-title: Holland chile
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: Holland chile
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 Holland chile = Dutch chile fresh cayenne pepper OR Fresno chile
 
 ### Other Names

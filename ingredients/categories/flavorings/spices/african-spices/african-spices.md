@@ -1,13 +1,5 @@
----
-title: african spices
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- african-spices
----
+- title:: african spices
+- tags:: unreviewed, ingredients, categories, flavorings, spices, african-spices
 
 
 ### Other Names

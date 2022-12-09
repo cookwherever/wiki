@@ -1,15 +1,5 @@
----
-title: orecchiette
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-shapes
----
+- title:: orecchiette
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-shapes
 orecchiette oh-reck-ee-ET-tay Notes: These "little ears" are pieces of Italian pasta shaped like tiny ears or bowls. Substitutes: fusilli OR orzo OR acini di pepe OR tubettini OR conchiglette OR coralli
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: vanilla-flavored liqueurs
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: vanilla-flavored liqueurs
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 vanilla-flavored liqueurs Examples include spiced rum, Tuaca, Licor 43, and cr�me de vanille.
 
 ### Other Names

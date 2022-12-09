@@ -1,13 +1,5 @@
----
-title: asian condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: asian condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 Asian condiments
 
 ### Other Names

@@ -1,10 +1,5 @@
----
-title: sharpening steel
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: sharpening steel
+- tags:: equipment, unreviewed, cutting-tools
 
 ### Notes
 - Does not actually sharpen the knife, just aligns the very fine edge of the knife to be straight

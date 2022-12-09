@@ -1,12 +1,5 @@
----
-title: nondairy topping
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- non-dairy-milks-and-creams
----
+- title:: nondairy topping
+- tags:: reviewed, ingredients, categories, plants, non-dairy-milks-and-creams
 
 ### Notes
 - Cool Whip and Dream Whip are popular brands

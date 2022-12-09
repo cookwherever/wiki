@@ -1,14 +1,5 @@
----
-title: zapote
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: zapote
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 zapote See sapote.
 
 ### Other Names

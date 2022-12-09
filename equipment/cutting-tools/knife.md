@@ -1,10 +1,5 @@
----
-title: knife
-tags:
-- equipment
-- unreviewed
-- cutting-tools
----
+- title:: knife
+- tags:: equipment, unreviewed, cutting-tools
 ### Varieties
 * [[equipment/cutting-tools/_index]]
 

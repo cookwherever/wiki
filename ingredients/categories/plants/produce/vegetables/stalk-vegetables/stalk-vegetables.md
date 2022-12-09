@@ -1,14 +1,5 @@
----
-title: stalk vegetables
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- stalk-vegetables
----
+- title:: stalk vegetables
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, stalk-vegetables
 
 
 ### Other Names

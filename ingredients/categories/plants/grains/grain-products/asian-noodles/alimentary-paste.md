@@ -1,14 +1,5 @@
----
-title: alimentary paste
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- asian-noodles
----
+- title:: alimentary paste
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, asian-noodles
 alimentary paste = imitation noodles
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: Korean barbecue sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: Korean barbecue sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 Korean barbecue sauce = bulgogi sauce = bulkogi sauce
 
 ### Other Names

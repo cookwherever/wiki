@@ -1,13 +1,5 @@
----
-title: eaux de vie
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- brandy
----
+- title:: eaux de vie
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, brandy
 eaux de vie See brandy.
 
 ### Other Names

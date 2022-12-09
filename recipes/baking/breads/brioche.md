@@ -1,11 +1,5 @@
----
-title: brioche
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: brioche
+- tags:: unreviewed, recipes, baking, breads
 brioche bree-OSHE Notes: This rich, slightly sweet yeast bread is made with eggs and butter, and sometimes with fruit or nuts. Substitutes: challah (similar, but not as rich) OR croissant OR Kugelhopf
 
 ### Other Names

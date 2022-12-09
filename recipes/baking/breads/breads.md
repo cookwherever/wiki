@@ -1,11 +1,5 @@
----
-title: breads
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: breads
+- tags:: unreviewed, recipes, baking, breads
 ### Notes
 - Bread is a ball of protein filled with gas (plus starch)
 - Wheat is made of two proteins [[glutenin]] and [[gliadin]]

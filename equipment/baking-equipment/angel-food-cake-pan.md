@@ -1,10 +1,5 @@
----
-title: angel food cake pan
-tags:
-- equipment
-- unreviewed
-- baking-equipment
----
+- title:: angel food cake pan
+- tags:: equipment, unreviewed, baking-equipment
 ### Substitutes
 - tube pan
 

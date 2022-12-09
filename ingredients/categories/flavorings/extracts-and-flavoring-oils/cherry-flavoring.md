@@ -1,12 +1,5 @@
----
-title: cherry flavoring
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- extracts-and-flavoring-oils
----
+- title:: cherry flavoring
+- tags:: unreviewed, ingredients, categories, flavorings, extracts-and-flavoring-oils
 cherry flavoring juice from a jar of maraschino cherries plus some vanilla extract
 
 ### Other Names

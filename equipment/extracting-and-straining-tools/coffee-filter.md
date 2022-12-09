@@ -1,10 +1,5 @@
----
-title: coffee filter
-tags:
-- unreviewed
-- equipment
-- extracting-and-straining-tools
----
+- title:: coffee filter
+- tags:: unreviewed, equipment, extracting-and-straining-tools
 coffee filter heavy duty paper towel OR cheesecloth folded several times
 
 ### Other Names

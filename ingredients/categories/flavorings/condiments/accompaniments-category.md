@@ -1,12 +1,5 @@
----
-title: accompaniments category
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
----
+- title:: accompaniments category
+- tags:: unreviewed, ingredients, categories, flavorings, condiments
 
 
 ### Other Names

@@ -1,12 +1,5 @@
----
-title: Indian fry bread
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
-- flatbreads
----
+- title:: Indian fry bread
+- tags:: unreviewed, recipes, baking, breads, flatbreads
 Indian fry bread A specialty of Native Americans in the Southwest, this flatbread is deep-fried just before serving. Substitutes: pita bread OR flour tortilla
 
 ### Other Names

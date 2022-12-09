@@ -1,14 +1,5 @@
----
-title: Crema Danica
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- soft-cheeses
----
+- title:: Crema Danica
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, soft-cheeses
 Crema Danica = Crema Dania Pronunciation: CREHM-uh DAHN-ik-uh Substitutes: Camembert OR Brie
 
 ### Other Names

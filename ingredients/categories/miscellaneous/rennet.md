@@ -1,11 +1,5 @@
----
-title: rennet
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: rennet
+- tags:: unreviewed, ingredients, categories, miscellaneous
 rennet (1 tablet = 1 tablespoon liquid) Substitutes: vegetable rennet
 
 ### Other Names

@@ -1,14 +1,5 @@
----
-title: delicata squash
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- winter-squash
----
+- title:: delicata squash
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, winter-squash
 delicata squash = sweet potato squash = Bohemian squash de-lee-CAH-tuh Notes: This is one of the tastier winter squashes, with creamy pulp that tastes a bit like sweet potatoes. Choose squash that are heavy for their size. Substitutes: butternut squash OR buttercup squash OR sweet potato
 
 ### Other Names

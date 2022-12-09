@@ -1,13 +1,5 @@
----
-title: quetsch
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- brandy
----
+- title:: quetsch
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, brandy
 quetsch See plum brandy.
 
 ### Other Names

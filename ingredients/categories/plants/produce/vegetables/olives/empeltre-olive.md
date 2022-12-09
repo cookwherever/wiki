@@ -1,14 +1,5 @@
----
-title: empeltre olive
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- olives
----
+- title:: empeltre olive
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, olives
 empeltre olive These Spanish black olives are soaked in sherry.
 
 ### Other Names

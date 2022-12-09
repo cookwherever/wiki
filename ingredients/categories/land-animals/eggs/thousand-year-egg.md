@@ -1,12 +1,5 @@
----
-title: thousand-year egg
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- eggs
----
+- title:: thousand-year egg
+- tags:: unreviewed, ingredients, categories, land-animals, eggs
 thousand-year egg See the RecipeSource.com recipe for Thousand-year Eggs.
 
 ### Other Names

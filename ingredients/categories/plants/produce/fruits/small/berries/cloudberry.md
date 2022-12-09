@@ -1,15 +1,5 @@
----
-title: cloudberry
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- small
-- berries
----
+- title:: cloudberry
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, small, berries
 cloudberry Both the color and flavor of these Scandinavian berries pale in comparison to the raspberry. Substitutes: raspberries
 
 ### Other Names

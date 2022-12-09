@@ -1,10 +1,5 @@
----
-title: escargot shell
-tags:
-- equipment
-- unreviewed
-- bowls-and-containers
----
+- title:: escargot shell
+- tags:: equipment, unreviewed, bowls-and-containers
 
 ### Other Names
 * escargot shell

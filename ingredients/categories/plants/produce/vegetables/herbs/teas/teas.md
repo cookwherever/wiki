@@ -1,15 +1,5 @@
----
-title: teas
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- teas
----
+- title:: teas
+- tags:: reviewed, ingredients, categories, plants, produce, vegetables, herbs, teas
 
 * All teas come from the same plant _camellia sinesis_
 * polyphenol oxidase is an enzyme in tea that will cause the tea to [[oxidation|oxidize]] when it is exposed to air

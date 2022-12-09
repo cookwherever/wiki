@@ -1,14 +1,5 @@
----
-title: malagueta pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: malagueta pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 malagueta pepper jalapeno (not as hot) OR tabasco sauce
 
 ### Other Names

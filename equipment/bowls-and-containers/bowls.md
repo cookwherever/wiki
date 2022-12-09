@@ -1,10 +1,5 @@
----
-title: bowls
-tags:
-- equipment
-- unreviewed
-- bowls-and-containers
----
+- title:: bowls
+- tags:: equipment, unreviewed, bowls-and-containers
 ### Substitutes
 #### Hollowed out foods
 - citrus fruit

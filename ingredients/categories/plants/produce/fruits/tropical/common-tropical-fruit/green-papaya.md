@@ -1,15 +1,5 @@
----
-title: green papaya
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- tropical
-- common-tropical-fruit
----
+- title:: green papaya
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, tropical, common-tropical-fruit
 green papaya = cooking papaya Southeast Asian cooks like to shred these into salads. Substitutes: chayote squash
 
 ### Other Names

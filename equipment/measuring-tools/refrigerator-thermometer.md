@@ -1,10 +1,5 @@
----
-title: refrigerator thermometer
-tags:
-- unreviewed
-- equipment
-- measuring-tools
----
+- title:: refrigerator thermometer
+- tags:: unreviewed, equipment, measuring-tools
 refrigerator thermometer = freezer thermometer
 
 ### Other Names

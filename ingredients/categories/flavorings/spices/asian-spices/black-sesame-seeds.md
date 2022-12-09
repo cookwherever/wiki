@@ -1,13 +1,5 @@
----
-title: black sesame seeds
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-spices
----
+- title:: black sesame seeds
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-spices
 black sesame seeds Look for this in Asian markets Substitutes: white sesame seeds (Toast them before using. They're not as pungent as black sesame seeds.)
 
 ### Other Names

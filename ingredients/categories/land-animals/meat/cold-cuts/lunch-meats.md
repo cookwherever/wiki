@@ -1,13 +1,5 @@
----
-title: lunch meats
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- cold-cuts
----
+- title:: lunch meats
+- tags:: unreviewed, ingredients, categories, land-animals, meat, cold-cuts
 lunch meats = luncheon meats = sandwich meats = cooked meats = sliced meats = cold meats
 
 ### Other Names

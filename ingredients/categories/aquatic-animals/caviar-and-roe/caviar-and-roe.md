@@ -1,12 +1,5 @@
----
-title: caviar and roe
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- caviar-and-roe
----
+- title:: caviar and roe
+- tags:: unreviewed, ingredients, categories, aquatic-animals, caviar-and-roe
 
 ### Notes
 - If using lower quality caviar, using lemon juice can brighten the flavor

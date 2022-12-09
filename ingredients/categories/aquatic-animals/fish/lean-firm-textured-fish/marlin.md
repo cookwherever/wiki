@@ -1,13 +1,5 @@
----
-title: marlin
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: marlin
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 marlin (includes Pacific blue marlin = kajiki) Substitutes: swordfish
 
 ### Other Names

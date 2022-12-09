@@ -1,12 +1,5 @@
----
-title: oils & cooking sprays
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: oils & cooking sprays
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 
 
 ### Other Names

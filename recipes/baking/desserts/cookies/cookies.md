@@ -1,12 +1,5 @@
----
-title: cookies
-tags:
-- unreviewed
-- recipes
-- baking
-- desserts
-- cookies
----
+- title:: cookies
+- tags:: unreviewed, recipes, baking, desserts, cookies
 
 
 ### Other Names

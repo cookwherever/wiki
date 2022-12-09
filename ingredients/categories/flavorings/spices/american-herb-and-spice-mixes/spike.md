@@ -1,13 +1,5 @@
----
-title: Spike
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- american-herb-and-spice-mixes
----
+- title:: Spike
+- tags:: unreviewed, ingredients, categories, flavorings, spices, american-herb-and-spice-mixes
 Spike Substitutes: seasoned salt OR parsley OR herbs
 
 ### Other Names

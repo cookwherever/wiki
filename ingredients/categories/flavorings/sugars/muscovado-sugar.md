@@ -1,12 +1,5 @@
----
-title: muscovado sugar
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- sugars
----
+- title:: muscovado sugar
+- tags:: unreviewed, ingredients, categories, flavorings, sugars
 muscovado sugar dark brown sugar
 
 ### Other Names

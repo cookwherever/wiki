@@ -1,14 +1,5 @@
----
-title: processed cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- processed-cheeses
----
+- title:: processed cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, processed-cheeses
 
 
 ### Other Names

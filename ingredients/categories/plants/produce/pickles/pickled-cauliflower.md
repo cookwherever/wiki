@@ -1,13 +1,5 @@
----
-title: pickled cauliflower
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- pickles
----
+- title:: pickled cauliflower
+- tags:: unreviewed, ingredients, categories, plants, produce, pickles
 pickled cauliflower See the Pickled Cauliflower recipe posted by the Internet Chef.
 
 ### Other Names

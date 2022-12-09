@@ -1,14 +1,5 @@
----
-title: cr�me de vanille
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- miscellaneous-liqueurs
----
+- title:: cr�me de vanille
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, miscellaneous-liqueurs
 cr�me de vanille = creme de vanille KREM de vah-KNEE Notes: This is a cr�me liqueur that has a vanilla flavor. Substitutes: vanilla extract (use less)
 
 ### Other Names

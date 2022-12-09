@@ -1,13 +1,5 @@
----
-title: umeboshi plums
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: umeboshi plums
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 umeboshi plums 1 teaspoon sea salt per plum substituted
 
 ### Other Names

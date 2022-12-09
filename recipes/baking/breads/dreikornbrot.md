@@ -1,11 +1,5 @@
----
-title: dreikornbrot
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: dreikornbrot
+- tags:: unreviewed, recipes, baking, breads
 dreikornbrot This German bread is made with rye flour.
 
 ### Other Names

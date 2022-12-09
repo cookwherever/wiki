@@ -1,13 +1,5 @@
----
-title: washed-rind cheese
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
----
+- title:: washed-rind cheese
+- tags:: reviewed, ingredients, categories, land-animals, dairy, cheese
 ### Notes
 - Cheese that is washed as it is ripening
 - Moisture on cheese increases bacteria growth, which gives cheese a strong odor and flavor

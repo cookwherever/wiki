@@ -1,13 +1,5 @@
----
-title: red chile sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- hispanic-condiments
----
+- title:: red chile sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, hispanic-condiments
 red chile sauce See the Red Chile Sauce recipe posted on RecipeSource.com.
 
 ### Other Names

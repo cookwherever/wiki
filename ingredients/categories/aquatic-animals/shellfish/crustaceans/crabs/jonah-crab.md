@@ -1,14 +1,5 @@
----
-title: Jonah crab
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
-- crustaceans
-- crabs
----
+- title:: Jonah crab
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish, crustaceans, crabs
 Jonah crab These are found in the coastal waters of New England.
 
 ### Other Names

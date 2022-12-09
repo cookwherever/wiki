@@ -1,14 +1,5 @@
----
-title: summer squash
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- summer-squash
----
+- title:: summer squash
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, summer-squash
 Unlike winter squash, summer squash can be eaten rind, seeds, and all. The different varieties vary in size, shape, and color, but they can be used interchangeably in recipes. Select summer squash that's small and firm.
 
 ### Other Names

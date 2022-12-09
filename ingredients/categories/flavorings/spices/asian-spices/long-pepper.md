@@ -1,13 +1,5 @@
----
-title: long pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- asian-spices
----
+- title:: long pepper
+- tags:: unreviewed, ingredients, categories, flavorings, spices, asian-spices
 long pepper Look for this in Indian or Southeast Asian markets. The seeds come in clumps that look like tiny pine cones. Substitutes: black pepper (milder) OR crushed red pepper
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: mirabelle
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- brandy
----
+- title:: mirabelle
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, brandy
 mirabelle See plum brandy.
 
 ### Other Names

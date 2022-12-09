@@ -1,14 +1,5 @@
----
-title: other vegetables
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- other-vegetables
----
+- title:: other vegetables
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, other-vegetables
 nopalitos Substitutes: chopped nopales
 
 ### Tips

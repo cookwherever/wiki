@@ -1,14 +1,5 @@
----
-title: lamb shoulder cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- lamb
-- lamb-shoulder-cuts
----
+- title:: lamb shoulder cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, lamb, lamb-shoulder-cuts
 
 
 ### Other Names

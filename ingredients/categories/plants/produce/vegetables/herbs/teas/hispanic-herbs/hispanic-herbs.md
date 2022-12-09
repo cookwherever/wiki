@@ -1,16 +1,5 @@
----
-title: hispanic herbs
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- teas
-- hispanic-herbs
----
+- title:: hispanic herbs
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, teas, hispanic-herbs
 
 
 ### Other Names

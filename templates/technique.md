@@ -1,6 +1,2 @@
----
-title: technique
-tags:
-- unreviewed
-- templates
----
+- title:: technique
+- tags:: unreviewed, templates

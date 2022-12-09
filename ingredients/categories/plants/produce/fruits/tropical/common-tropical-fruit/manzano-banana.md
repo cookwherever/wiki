@@ -1,15 +1,5 @@
----
-title: manzano banana
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- tropical
-- common-tropical-fruit
----
+- title:: manzano banana
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, tropical, common-tropical-fruit
 manzano banana See banana.
 
 ### Other Names

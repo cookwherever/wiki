@@ -1,11 +1,5 @@
----
-title: baguet
-tags:
-- unreviewed
-- recipes
-- baking
-- breads
----
+- title:: baguet
+- tags:: unreviewed, recipes, baking, breads
 baguet See French bread.
 
 ### Other Names

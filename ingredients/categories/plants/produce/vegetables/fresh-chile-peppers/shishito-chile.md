@@ -1,14 +1,5 @@
----
-title: shishito chile
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- fresh-chile-peppers
----
+- title:: shishito chile
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, fresh-chile-peppers
 shishito chile This Japanese chile is very sweet and mild. It's about two inches long.
 
 ### Other Names

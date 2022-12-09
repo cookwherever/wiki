@@ -1,10 +1,5 @@
----
-title: Steeping
-tags:
-- unreviewed
-- techniques
-- brewing
----
+- title:: Steeping
+- tags:: unreviewed, techniques, brewing
 
 * Quantity, temperature, and time
 

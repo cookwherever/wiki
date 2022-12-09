@@ -1,13 +1,5 @@
----
-title: horseradish sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: horseradish sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 horseradish sauce See horseradish.
 
 ### Other Names

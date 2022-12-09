@@ -1,12 +1,5 @@
----
-title: bacon grease
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: bacon grease
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 bacon grease = bacon fat This is the fat that remains in the pan after cooking bacon. It's very flavorful, but high in cholesterol.
 
 ### Other Names

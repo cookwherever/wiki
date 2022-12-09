@@ -1,12 +1,5 @@
----
-title: maguey leaves
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
-- food-wrappers
----
+- title:: maguey leaves
+- tags:: unreviewed, ingredients, categories, miscellaneous, food-wrappers
 maguey leavesbanana leaves OR avocado leaves
 
 ### Other Names

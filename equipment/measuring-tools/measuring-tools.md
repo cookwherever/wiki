@@ -1,10 +1,5 @@
----
-title: measuring tools
-tags:
-- unreviewed
-- equipment
-- measuring-tools
----
+- title:: measuring tools
+- tags:: unreviewed, equipment, measuring-tools
 
 
 ### Other Names

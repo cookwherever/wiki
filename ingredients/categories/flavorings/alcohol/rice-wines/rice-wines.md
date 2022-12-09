@@ -1,13 +1,5 @@
----
-title: rice wines
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- rice-wines
----
+- title:: rice wines
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, rice-wines
 
 
 ### Other Names

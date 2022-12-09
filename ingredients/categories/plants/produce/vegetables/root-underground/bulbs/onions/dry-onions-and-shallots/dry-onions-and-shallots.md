@@ -1,17 +1,5 @@
----
-title: dry onions and shallots
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: dry onions and shallots
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 There are two categories of dry onions: storage onions and sweet onions. Storage onions are low in water and high in sulfur, so they store well and are available year-round. Sweet onions are usually available just from April to August. Storage onions are more pungent and flavorful than sweet onions, and they're best if cooked before eating. Sweet onions are usually served raw or lightly cooked. Onions should be firm and heavy for their size. Avoid onions that have sprouted or that have an odor, or that have green or moldy blemishes. If you're prone to crying while cutting onions, try chilling them first, then peeling them under running water. Always cook onions over low or medium heat, since they become bitter at high temperatures.
 
 ### Other Names

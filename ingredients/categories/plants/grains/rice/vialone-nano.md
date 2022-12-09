@@ -1,13 +1,5 @@
----
-title: vialone nano
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- rice
----
+- title:: vialone nano
+- tags:: unreviewed, ingredients, categories, plants, grains, rice
 vialone nano = nano rice
 
 ### Other Names

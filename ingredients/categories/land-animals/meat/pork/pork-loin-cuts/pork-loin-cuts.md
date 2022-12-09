@@ -1,14 +1,5 @@
----
-title: pork loin cuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- pork-loin-cuts
----
+- title:: pork loin cuts
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, pork-loin-cuts
 
 
 ### Other Names

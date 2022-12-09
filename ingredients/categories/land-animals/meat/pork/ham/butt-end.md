@@ -1,14 +1,5 @@
----
-title: butt end
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- pork
-- ham
----
+- title:: butt end
+- tags:: unreviewed, ingredients, categories, land-animals, meat, pork, ham
 butt end See half ham.
 
 ### Other Names

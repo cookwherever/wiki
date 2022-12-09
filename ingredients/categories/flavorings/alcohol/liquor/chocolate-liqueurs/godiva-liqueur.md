@@ -1,14 +1,5 @@
----
-title: Godiva liqueur
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- chocolate-liqueurs
----
+- title:: Godiva liqueur
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, chocolate-liqueurs
 Godiva liqueur This is a brand of chocolate liqueur. Substitutes: chocolate liqueur OR chocolate syrup
 
 ### Other Names

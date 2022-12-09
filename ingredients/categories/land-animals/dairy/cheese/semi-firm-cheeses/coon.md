@@ -1,14 +1,5 @@
----
-title: Coon
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- semi-firm-cheeses
----
+- title:: Coon
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, semi-firm-cheeses
 Coon Cheddar (not as sharp as Coon)
 
 ### Other Names

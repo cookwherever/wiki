@@ -1,13 +1,5 @@
----
-title: golden needles
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- edible-flowers
----
+- title:: golden needles
+- tags:: unreviewed, ingredients, categories, plants, produce, edible-flowers
 golden needles = lily buds = tiger lily buds = lily flowers
 
 ### Other Names

@@ -1,13 +1,5 @@
----
-title: palillo
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- hispanic-spices
----
+- title:: palillo
+- tags:: unreviewed, ingredients, categories, flavorings, spices, hispanic-spices
 palillo turmeric (use half as much)
 
 ### Other Names

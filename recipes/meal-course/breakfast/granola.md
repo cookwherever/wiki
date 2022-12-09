@@ -1,8 +1,2 @@
----
-title: granola
-tags:
-- unreviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: granola
+- tags:: unreviewed, recipes, meal-course, breakfast

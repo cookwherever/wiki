@@ -1,15 +1,5 @@
----
-title: kra chai
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- ginger-and-other-rhizomes
----
+- title:: kra chai
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, ginger-and-other-rhizomes
 kra chai = krachai fingerroot.
 
 ### Other Names

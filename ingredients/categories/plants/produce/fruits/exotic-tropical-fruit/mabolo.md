@@ -1,14 +1,5 @@
----
-title: mabolo
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- exotic-tropical-fruit
----
+- title:: mabolo
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, exotic-tropical-fruit
 mabolo = velvet apple These look like rust-colored fuzzy apples. Substitutes: peach
 
 ### Other Names

@@ -1,6 +1,2 @@
----
-title: hot-sauce
-tags:
-- unreviewed
-- todo
----
+- title:: hot-sauce
+- tags:: unreviewed, todo

@@ -1,17 +1,5 @@
----
-title: boiling onion
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- bulbs
-- onions
-- dry-onions-and-shallots
----
+- title:: boiling onion
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, bulbs, onions, dry-onions-and-shallots
 boiling onion = boiler = boiler onion These are small versions of yellow, white, or red onions. They're up to two inches in diameter, and usually cooked whole. Substitutes: pearl onions (smaller) OR cippolini onion
 
 ### Other Names

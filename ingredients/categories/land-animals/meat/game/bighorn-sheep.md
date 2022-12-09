@@ -1,13 +1,5 @@
----
-title: bighorn sheep
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- game
----
+- title:: bighorn sheep
+- tags:: unreviewed, ingredients, categories, land-animals, meat, game
 bighorn sheep antelope meat OR venison OR lamb
 
 ### Other Names

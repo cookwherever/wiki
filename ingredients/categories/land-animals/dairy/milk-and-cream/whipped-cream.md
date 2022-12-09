@@ -1,13 +1,5 @@
----
-title: whipped cream
-tags:
-- reviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- milk-and-cream
----
+- title:: whipped cream
+- tags:: reviewed, ingredients, categories, land-animals, dairy, milk-and-cream
 ### Substitutes
 - evaporated milk
 	- chilled and whipped

@@ -1,13 +1,5 @@
----
-title: kluwak nuts
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- nuts-seeds
-- nuts
----
+- title:: kluwak nuts
+- tags:: unreviewed, ingredients, categories, plants, nuts-seeds, nuts
 kluwak nuts = kluwak kupas
 
 ### Other Names

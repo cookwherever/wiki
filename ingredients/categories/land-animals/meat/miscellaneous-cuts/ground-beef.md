@@ -1,13 +1,5 @@
----
-title: ground beef
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- miscellaneous-cuts
----
+- title:: ground beef
+- tags:: unreviewed, ingredients, categories, land-animals, meat, miscellaneous-cuts
 ### Notes
 This varies in quality depending upon what part of the carcass the meat came from. Ground chuck has a high fat content, which means it makes the juiciest hamburgers and meatloaf. Ground round is very lean, and a good choice if you're trying to reduce the fat in your diet. Ground sirloin is also lean, but it's more flavorful (and more expensive) than ground round.
 

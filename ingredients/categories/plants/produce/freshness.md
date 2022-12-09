@@ -1,12 +1,5 @@
----
-title: Produce Freshness
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
----
+- title:: Produce Freshness
+- tags:: reviewed, ingredients, categories, plants, produce
 
 ### Notes
 - Theoretically you could measure freshness of fruits by the sugar content in them. Using glucose test strips you should be able to figure this out.

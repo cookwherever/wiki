@@ -1,16 +1,5 @@
----
-title: eggplants
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- vine-grown
-- eggplants
----
+- title:: eggplants
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, vine-grown, eggplants
 This is a spongy, mild-tasting vegetable that's meaty yet low in calories. It's never eaten raw, but it can be baked, grilled, or saut�ed. The best eggplants are firm and shiny eggplants with unbroken skin. Male eggplants tend to have fewer seeds, and are therefore less bitter than female eggplants. To sex an eggplant, look at the indentation at bottom. If it's deep and shaped like a dash, it's a female. If it's shallow and round, it's a male. Smaller eggplants also tend to be less bitter. Freshness is important, so don't store them for very long.
 
 ### Other Names

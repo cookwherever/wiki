@@ -1,14 +1,5 @@
----
-title: pasta
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
----
+- title:: pasta
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta
 stuffed pasta
 
 ### Tips

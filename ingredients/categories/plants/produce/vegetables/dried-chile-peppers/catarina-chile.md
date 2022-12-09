@@ -1,14 +1,5 @@
----
-title: Catarina chile
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: Catarina chile
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 Catarina chile = Catarina pepper This Mexican chile is used to make tamales, marinades, stews and soups.
 
 ### Other Names

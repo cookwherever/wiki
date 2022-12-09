@@ -1,10 +1,5 @@
----
-title: bamboo skewers
-tags:
-- unreviewed
-- equipment
-- outdoor-cooking-equipment
----
+- title:: bamboo skewers
+- tags:: unreviewed, equipment, outdoor-cooking-equipment
 bamboo skewers Strip leaves from rosemary sprigs.
 
 ### Other Names

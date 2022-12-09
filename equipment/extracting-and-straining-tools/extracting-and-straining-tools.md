@@ -1,10 +1,5 @@
----
-title: extracting & straining tools
-tags:
-- equipment
-- unreviewed
-- extracting-and-straining-tools
----
+- title:: extracting & straining tools
+- tags:: equipment, unreviewed, extracting-and-straining-tools
 
 ### Varieties
 * [[butter-muslin]]

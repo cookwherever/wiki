@@ -1,14 +1,5 @@
----
-title: farina
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- wheat-flours
----
+- title:: farina
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, wheat-flours
 farina = sooji Cream of Wheat is a popular brand.
 
 ### Other Names

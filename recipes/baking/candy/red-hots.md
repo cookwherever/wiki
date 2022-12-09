@@ -1,11 +1,5 @@
----
-title: red hots
-tags:
-- unreviewed
-- recipes
-- baking
-- candy
----
+- title:: red hots
+- tags:: unreviewed, recipes, baking, candy
 red hots = cinnamon red hots = cinnamon imperials
 
 ### Other Names

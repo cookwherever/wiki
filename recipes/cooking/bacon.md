@@ -1,10 +1,5 @@
----
-title: Making Bacon
-tags:
-- unreviewed
-- recipes
-- cooking
----
+- title:: Making Bacon
+- tags:: unreviewed, recipes, cooking
 
 To learn about bacon as an ingredient go [[ingredients/categories/land-animals/meat/pork/bacon/bacon|here]].
 

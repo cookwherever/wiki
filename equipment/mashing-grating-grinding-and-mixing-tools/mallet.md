@@ -1,10 +1,5 @@
----
-title: mallet
-tags:
-- unreviewed
-- equipment
-- mashing-grating-grinding-and-mixing-tools
----
+- title:: mallet
+- tags:: unreviewed, equipment, mashing-grating-grinding-and-mixing-tools
 mallet rolling pin OR hammer
 
 ### Other Names

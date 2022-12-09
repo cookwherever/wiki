@@ -1,15 +1,5 @@
----
-title: pasta tubes
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- pasta
-- pasta-tubes
----
+- title:: pasta tubes
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, pasta, pasta-tubes
 With their thick walls, tubular pasta like penne and macaroni are ideal for pasta salads, thick sauces, and casseroles. Long tubes like perciatelli are often served with sauces, or they're broken up and used in soups. Large, wide tubes like cannelloni and manicotti are stuffed and baked. Tubes with grooves on the exterior, denoted by the Italian adjective "rigati" or "rigate" after the pasta's name, do a better job of holding sauces. Smooth-walled pasta is called "lisci" or "lisce."
 
 ### Other Names

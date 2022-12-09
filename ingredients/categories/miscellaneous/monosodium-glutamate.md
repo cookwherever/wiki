@@ -1,11 +1,5 @@
----
-title: monosodium glutamate
-tags:
-- unreviewed
-- ingredients
-- categories
-- miscellaneous
----
+- title:: monosodium glutamate
+- tags:: unreviewed, ingredients, categories, miscellaneous
 monosodium glutamate = MSG Substitutes: kelp OR omit from recipe
 
 ### Other Names

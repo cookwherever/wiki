@@ -1,14 +1,5 @@
----
-title: herbs
-tags:
-- reviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
----
+- title:: herbs
+- tags:: reviewed, ingredients, categories, plants, produce, vegetables, herbs
 
 * Make food taste better and look better (as a garnish)
 

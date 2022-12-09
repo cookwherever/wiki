@@ -1,12 +1,5 @@
----
-title: cocoa butter
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- chocolate
----
+- title:: cocoa butter
+- tags:: unreviewed, ingredients, categories, flavorings, chocolate
 cocoa butter Pastry chefs add this to chocolate to thin it, usually so that they can pour a thinner coating on a cake.
 
 ### Other Names

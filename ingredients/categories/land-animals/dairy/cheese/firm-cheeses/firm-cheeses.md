@@ -1,14 +1,5 @@
----
-title: firm cheeses
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cheese
-- firm-cheeses
----
+- title:: firm cheeses
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cheese, firm-cheeses
 firm cheeses = hard cheeses = grating cheeses = grana Cheeses usually become not only firmer but more pungent as they age, so most of the cheeses in this category pack a lot of flavor. They're often grated onto pasta dishes. Firm cheeses have a much longer shelf life than their softer counterparts.
 
 ### Other Names

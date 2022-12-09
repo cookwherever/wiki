@@ -1,13 +1,5 @@
----
-title: hot chili sauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- asian-condiments
----
+- title:: hot chili sauce
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, asian-condiments
 hot chili sauce Visit the Hot Chili Sauce recipe posting on RecipeSource.com.
 
 ### Other Names

@@ -1,17 +1,5 @@
----
-title: shellpeas
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- fresh-peas
----
+- title:: shellpeas
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, fresh-peas
 shellpeas = shellies = shuckies = shellouts
 
 ### Other Names

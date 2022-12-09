@@ -1,13 +1,5 @@
----
-title: middle eastern herb & spice mixes
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- spices
-- middle-eastern-herb-and-spice-mixes
----
+- title:: middle eastern herb & spice mixes
+- tags:: unreviewed, ingredients, categories, flavorings, spices, middle-eastern-herb-and-spice-mixes
 
 
 ### Other Names

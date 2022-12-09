@@ -1,11 +1,5 @@
----
-title: Yogurt
-tags:
-- reviewed
-- recipes
-- meal-course
-- breakfast
----
+- title:: Yogurt
+- tags:: reviewed, recipes, meal-course, breakfast
 
 ### Recipe
 1. Heat milk to 115 F

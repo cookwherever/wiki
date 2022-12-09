@@ -1,14 +1,5 @@
----
-title: ghora angur
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- dried-fruit
----
+- title:: ghora angur
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, dried-fruit
 ghora angur See sumac berries.
 
 ### Other Names

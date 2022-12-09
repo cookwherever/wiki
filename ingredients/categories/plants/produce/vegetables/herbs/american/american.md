@@ -1,15 +1,5 @@
----
-title: american
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- american
----
+- title:: american
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, american
 
 
 ### Other Names

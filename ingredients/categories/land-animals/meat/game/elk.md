@@ -1,13 +1,5 @@
----
-title: elk
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- game
----
+- title:: elk
+- tags:: unreviewed, ingredients, categories, land-animals, meat, game
 elk See venison.
 
 ### Other Names

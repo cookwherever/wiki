@@ -1,18 +1,5 @@
----
-title: yellow Indian woman bean
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- dry-beans
----
+- title:: yellow Indian woman bean
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, dry-beans
 yellow Indian woman bean Substitutes: pinto bean
 
 ### Other Names

@@ -1,15 +1,5 @@
----
-title: cooking greens
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- vegetable-row-crops
-- cooking-greens
----
+- title:: cooking greens
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, vegetable-row-crops, cooking-greens
 
 
 ### Other Names

@@ -1,15 +1,5 @@
----
-title: Beau Monde seasoning
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- herbs
-- european-herb-and-spice-mixes
----
+- title:: Beau Monde seasoning
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, herbs, european-herb-and-spice-mixes
 Beau Monde seasoning This is a seasoning mix manufactured by Spices Islands that combines salt, onion, and celery flavors. Substitutes: equal parts onion powder and celery salt OR Bon Appetit seasoning (similar, but also hard to find) OR onion salt OR celery salt OR Penzey's English Prime Rib Rub
 
 ### Other Names

@@ -1,16 +1,5 @@
----
-title: sweet potatoes & yams
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- root-underground
-- tubers
-- sweet-potatoes-and-yams
----
+- title:: sweet potatoes & yams
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, root-underground, tubers, sweet-potatoes-and-yams
 
 
 ### Other Names

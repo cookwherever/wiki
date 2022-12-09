@@ -1,13 +1,5 @@
----
-title: jocoque
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- dairy
-- cultured-milk-products
----
+- title:: jocoque
+- tags:: unreviewed, ingredients, categories, land-animals, dairy, cultured-milk-products
 jocoque = labin This is a Mexican product that's halfway between buttermilk and sour cream. Substitutes: salted buttermilk OR sour cream OR yogurt OR crema
 
 ### Other Names

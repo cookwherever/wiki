@@ -1,14 +1,5 @@
----
-title: piri piri pepper
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- dried-chile-peppers
----
+- title:: piri piri pepper
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, dried-chile-peppers
 piri piri pepper malagueta peppers
 
 ### Other Names

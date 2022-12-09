@@ -1,13 +1,5 @@
----
-title: anchovies
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- fatty-firm-textured-fish
----
+- title:: anchovies
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, fatty-firm-textured-fish
 ### Notes
 - Salted is better than canned
 - Rinse the salt off

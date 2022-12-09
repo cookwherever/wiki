@@ -1,14 +1,5 @@
----
-title: Silberwasser
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- alcohol
-- liquor
-- herbal-liqueurs
----
+- title:: Silberwasser
+- tags:: unreviewed, ingredients, categories, flavorings, alcohol, liquor, herbal-liqueurs
 Silberwasser Goldwasser (has silver, not gold, flakes in it)
 
 ### Other Names

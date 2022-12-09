@@ -1,13 +1,5 @@
----
-title: dried crayfish
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- smoked-and-dried-fish
----
+- title:: dried crayfish
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, smoked-and-dried-fish
 dried crayfish dried shrimp
 
 ### Other Names

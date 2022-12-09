@@ -1,10 +1,5 @@
----
-title: bacon press
-tags:
-- unreviewed
-- equipment
-- stovetop-equipment
----
+- title:: bacon press
+- tags:: unreviewed, equipment, stovetop-equipment
 bacon press Substitutes: cast iron skillet
 
 ### Other Names

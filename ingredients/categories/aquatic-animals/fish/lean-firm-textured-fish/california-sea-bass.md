@@ -1,13 +1,5 @@
----
-title: California sea bass
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- fish
-- lean-firm-textured-fish
----
+- title:: California sea bass
+- tags:: unreviewed, ingredients, categories, aquatic-animals, fish, lean-firm-textured-fish
 California sea bass See grouper.
 
 ### Other Names

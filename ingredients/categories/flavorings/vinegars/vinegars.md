@@ -1,12 +1,5 @@
----
-title: vinegars
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- vinegars
----
+- title:: vinegars
+- tags:: unreviewed, ingredients, categories, flavorings, vinegars
 
 
 ### Other Names

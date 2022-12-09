@@ -1,13 +1,5 @@
----
-title: dried meats
-tags:
-- unreviewed
-- ingredients
-- categories
-- land-animals
-- meat
-- dried-meats
----
+- title:: dried meats
+- tags:: unreviewed, ingredients, categories, land-animals, meat, dried-meats
 
 
 ### Other Names

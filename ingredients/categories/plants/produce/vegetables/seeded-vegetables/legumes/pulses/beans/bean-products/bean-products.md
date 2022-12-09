@@ -1,18 +1,5 @@
----
-title: bean products
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- vegetables
-- seeded-vegetables
-- legumes
-- pulses
-- beans
-- bean-products
----
+- title:: bean products
+- tags:: unreviewed, ingredients, categories, plants, produce, vegetables, seeded-vegetables, legumes, pulses, beans, bean-products
 
 
 ### Other Names

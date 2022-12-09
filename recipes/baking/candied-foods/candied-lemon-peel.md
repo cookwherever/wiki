@@ -1,11 +1,5 @@
----
-title: candied lemon peel
-tags:
-- unreviewed
-- recipes
-- baking
-- candied-foods
----
+- title:: candied lemon peel
+- tags:: unreviewed, recipes, baking, candied-foods
 candied lemon peel See the candied citrus peel entry. candied orange peel See the candied citrus peel entry.
 
 ### Other Names

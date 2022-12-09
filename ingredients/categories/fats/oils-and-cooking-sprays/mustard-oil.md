@@ -1,12 +1,5 @@
----
-title: mustard oil
-tags:
-- unreviewed
-- ingredients
-- categories
-- fats
-- oils-and-cooking-sprays
----
+- title:: mustard oil
+- tags:: unreviewed, ingredients, categories, fats, oils-and-cooking-sprays
 mustard oil Indian markets
 
 ### Other Names

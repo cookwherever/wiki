@@ -1,14 +1,5 @@
----
-title: triticale flour
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- grains
-- grain-products
-- nonwheat-flours
----
+- title:: triticale flour
+- tags:: unreviewed, ingredients, categories, plants, grains, grain-products, nonwheat-flours
 triticale flour trit-ih-KAY-lee Substitutes: rye flour OR other nonwheat flour To see how to substitute other flours for wheat flours when making yeast breads, see the listing under all-purpose flour.
 
 ### Other Names

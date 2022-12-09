@@ -1,13 +1,5 @@
----
-title: european condiments
-tags:
-- unreviewed
-- ingredients
-- categories
-- flavorings
-- condiments
-- european-condiments
----
+- title:: european condiments
+- tags:: unreviewed, ingredients, categories, flavorings, condiments, european-condiments
 
 
 ### Other Names

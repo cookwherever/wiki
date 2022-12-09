@@ -1,12 +1,5 @@
----
-title: cockle
-tags:
-- unreviewed
-- ingredients
-- categories
-- aquatic-animals
-- shellfish
----
+- title:: cockle
+- tags:: unreviewed, ingredients, categories, aquatic-animals, shellfish
 cockle clam
 
 ### Other Names

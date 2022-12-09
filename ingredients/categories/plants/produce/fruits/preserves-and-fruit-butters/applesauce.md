@@ -1,14 +1,5 @@
----
-title: applesauce
-tags:
-- unreviewed
-- ingredients
-- categories
-- plants
-- produce
-- fruits
-- preserves-and-fruit-butters
----
+- title:: applesauce
+- tags:: unreviewed, ingredients, categories, plants, produce, fruits, preserves-and-fruit-butters
 applesauce pumpkin puree OR plum puree
 
 ### Other Names
